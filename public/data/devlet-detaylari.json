@@ -1,0 +1,1844 @@
+{
+  "devletler": {
+    "asyahun": {
+      "ozet": "Çinlilerin Hiung-nu dediği Asya Hunları, bugünkü Moğolistan'da Orhun ve Selenga ırmaklarının çevresinde (Ötüken) ortaya çıktı ve bilinen ilk Türk devleti kabul edilir. Mete Han'ın yönetiminde doğuda Kore'den batıda Aral Gölü'ne uzanan bir bozkır imparatorluğu kuruldu. MÖ 1. yüzyıldan itibaren taht kavgaları ve Çin'in baskısıyla devlet bölündü; Çin'e bağlı Güney Hunlar MS 216'da ortadan kalktı.",
+      "kronoloji": [
+        {
+          "yil": "MÖ 318",
+          "olay": "Hunlar Çin kaynaklarında siyasi bir güç olarak ilk kez anıldı."
+        },
+        {
+          "yil": "MÖ 307",
+          "olay": "Çao (Zhao) kralı Wu-ling, ordusuna bozkır kıyafetini ve atlı okçuluğu benimsetti; ardından kuzey sınırına sur yaptırdı."
+        },
+        {
+          "yil": "MÖ 221",
+          "olay": "Ts'in Şi-huangdi Çin'i tek yönetim altında topladı."
+        },
+        {
+          "yil": "MÖ 215-214",
+          "olay": "Komutan Meng T'ien Hunlardan Ordos'u aldı; dağınık surlar birleştirilerek Çin Seddi oluşturulmaya başlandı."
+        },
+        {
+          "yil": "MÖ 210",
+          "olay": "Şi-huangdi'nin ölümünden yararlanan Teoman, Hunların kaybettiği otlakları geri aldı."
+        },
+        {
+          "yil": "MÖ 209",
+          "olay": "Mete, babası Teoman'ın yerine geçti; MÖ 174'e kadar hüküm sürdü."
+        },
+        {
+          "yil": "MÖ 201",
+          "olay": "Ma-yi'deki Çinli kral Han Sin Hunlara teslim oldu; Mete Kuzey Çin'e girdi."
+        },
+        {
+          "yil": "MÖ 200",
+          "olay": "Pe-teng kuşatması: İmparator Kao yedi gün çevrildi, sonra serbest bırakıldı (yılı kaynaklara göre değişir)."
+        },
+        {
+          "yil": "MÖ 198-197",
+          "olay": "Pe-teng'den sonra Hun-Çin antlaşması yapıldı (yılı kaynaklara göre değişir)."
+        },
+        {
+          "yil": "MÖ 195",
+          "olay": "İmparator Kao, bir isyanı bastırırken aldığı ok yarasından öldü."
+        },
+        {
+          "yil": "MÖ 195",
+          "olay": "Yen kralı Lu Van yaklaşık on bin adamıyla Hunlara sığındı."
+        },
+        {
+          "yil": "MÖ 192 dolayları",
+          "olay": "Mete, İmparatoriçe Lü'ye evlenme teklifi içeren mektubunu gönderdi; Çin sefer açamadı, barış yenilendi."
+        },
+        {
+          "yil": "MÖ 177",
+          "olay": "Hunların Sağ Bilge Beyi Ordos'a girdi; Çin'in gönderdiği ordu karşısında sınırın dışına çekildi."
+        },
+        {
+          "yil": "MÖ 176",
+          "olay": "Mete, Çin imparatoruna Yüeçileri yendiğini ve 26 ülkeyi kendine bağladığını bildiren mektubunu gönderdi."
+        },
+        {
+          "yil": "MÖ 174",
+          "olay": "Çin barışı kabul etti; Mete aynı yıl öldü. Yerine oğlu Ki-ok (Lao-şang Şan-yü, MÖ 174-160) geçti."
+        },
+        {
+          "yil": "MÖ 174-160",
+          "olay": "Lao-şang Şan-yü (Ki-ok) döneminde Hunlar Yüeçi kralını öldürdü; Yüeçilerin büyük kısmı batıya göçtü."
+        },
+        {
+          "yil": "MÖ 138",
+          "olay": "Çin imparatoru Wu-di, elçi Cang-çien'i Yüeçilere gönderdi."
+        },
+        {
+          "yil": "MÖ 133",
+          "olay": "Çin'in Ma-yi'de Hun hükümdarını pusuya düşürme planı bozuldu; uzun Hun-Çin savaşları başladı."
+        },
+        {
+          "yil": "MÖ 127",
+          "olay": "Ordos Çin'in eline geçti."
+        },
+        {
+          "yil": "MÖ 126",
+          "olay": "Kün-çin Han'ın ölümüyle taht kavgaları başladı."
+        },
+        {
+          "yil": "MÖ 124",
+          "olay": "Wei Ch'ing gece baskınıyla Hunların Sağ Bilge Beyi'ni kuşattı; bey kaçtı."
+        },
+        {
+          "yil": "MÖ 121",
+          "olay": "Huo K'ü-ping Kansu koridorunda Hunları yendi; Hun-ye beyi halkıyla Çin'e teslim oldu."
+        },
+        {
+          "yil": "MÖ 119",
+          "olay": "Wu-di'nin büyük seferinde Hunlar ağır yenildi."
+        },
+        {
+          "yil": "MÖ 103",
+          "olay": "Çin komutanı Chao P'o-nu'nun ordusu Hunlara yenildi, kendisi esir düştü."
+        },
+        {
+          "yil": "MÖ 71",
+          "olay": "Wusun seferinden dönen Hun ordusu Altaylarda kar fırtınasında büyük kayıp verdi."
+        },
+        {
+          "yil": "MÖ 58",
+          "olay": "Ho-han-yeh tahta çıktı (MÖ 58-31)."
+        },
+        {
+          "yil": "MÖ 54",
+          "olay": "Devlet Doğu (Ho-han-yeh) ve Batı (Çi-çi) olarak ikiye ayrıldı."
+        },
+        {
+          "yil": "MÖ 36",
+          "olay": "Çi-çi, Talas çevresindeki başkentinde Çin ordusuna karşı savaşırken öldü; Batı Hunları sona erdi."
+        },
+        {
+          "yil": "MS 18-46",
+          "olay": "Yü Han döneminde Hunlar bağımsızlıklarını yeniden kazandı."
+        },
+        {
+          "yil": "MS 48",
+          "olay": "Hunlar Kuzey ve Güney olarak bir kez daha bölündü."
+        },
+        {
+          "yil": "MS 2. yy",
+          "olay": "Kuzey Hunları Moğolistan'dan batıya, Kazak bozkırlarına çekildi."
+        },
+        {
+          "yil": "MS 85",
+          "olay": "Kuzey Hunlar Güney Hunlar, Ting-lingler, Sienpiler ve Batı Bölgeleri'nin saldırılarıyla uzaklara çekildi."
+        },
+        {
+          "yil": "MS 216",
+          "olay": "Güney Hun Devleti sona erdi."
+        }
+      ],
+      "tarihNotu": "Bu sayfadaki bilgiler, hangi kaynaktan geldiklerine göre gruplanmıştır. 'Dönemin kaynaklarında' başlığı altındaki bilgiler Shiji'nin 110. bölümünün ve Han Shu'nun 94. bölümünün Çince metninden özetlenmiştir; çeviri değildir. Ders notlarından yalnızca yayımlanmış bir kaynakla doğrulanabilen bilgiler alınmış ve doğrulayan kaynakla birlikte gösterilmiştir.",
+      "konular": [
+        {
+          "baslik": "Hiung-nu adı ve hükümdar unvanı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Çin kaynakları Hunları Hiung-nu (bugünkü Çince okunuşuyla Xiongnu) adıyla anar; hükümdarın unvanı Şan-yü (Chanyu) olarak geçer. Han hanedanının resmî tarihi Han Shu'ya göre hükümdarın tam unvanı Çengli Kutu Şan-yü idi. Aynı kaynak Hunca çengli kelimesinin 'gök', kutu kelimesinin 'oğul' anlamına geldiğini yazar.",
+              "kaynaklar": [
+                "shiji",
+                "hanshu-94"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Şengül'e göre çengli kelimesinin Türkçedeki Tengri (Tanrı) kelimesiyle eşleştirilmesi bilim dünyasında kabul görmüştür.",
+              "kaynaklar": [
+                "sengul-2024"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Türk devlet geleneğinde boy reisinin adının devlete verildiğini hatırlatır (Selçuklu ve Osmanlı adlarında olduğu gibi). Çin kaynaklarında MÖ 4.-3. yüzyılda Hunor adlı bir beyin geçtiğini ve Hun adının bundan doğmuş olabileceği yolunda yorumlar bulunduğunu belirtir. Ona göre 'hun' kelimesi Türk ve Moğol-Tunguz dillerinde insan, ulus, güç ve cesaret anlamlarıyla geçer; Moğolcada bugün de 'insan, kişi' demektir. Eserde Hunların Çin kaynaklarında ilk kez MÖ 1764'te, ardından MÖ 822 ve 304'te anıldığı; Çinlilerle ilişkiler içinde ise ilk kez MÖ 318'de, dört Çin beyliğiyle (Han, Chao, Wei, Ch'u) ittifak kurup Ts'in beyliğine saldırdıklarında görüldüğü aktarılır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 38"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre Tan-hu (Şan-yü) unvanı, Çince Ch'eng-li-ku-t'u-şan-yü biçiminde yazılan uzun unvanın kısaltmasıdır: Çin kaynaklarına göre ch'eng-li 'gök, Tanrı', ku-t'u 'oğul', şan-yü 'geniş, büyük' anlamına gelir. Pamir, unvanın Çin imparatorlarının 'Göğün Oğlu' (T'ien-tzu) unvanından esinlendiğini, ancak Türklerin onu 'Gökten kudret alan' anlamında kullandığını yazar ve Türkçe karşılığını 'Tengri-Kut' olarak verir.",
+              "kaynaklar": [
+                "pamir-2022|s. 18"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taneri, Çin kaynaklarına göre Hunların önceleri şan-yü ve tanhu (tanju) unvanlarını kullandığını, 3. yüzyıldan itibaren bunların yerini kağan (kaan) ve han unvanlarının almaya başladığını belirtir.",
+              "kaynaklar": [
+                "dia-han"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çin kaynaklarında Hunların ataları",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Çin'in en eski şiir derlemesi Şi-cing'deki 'Altıncı Ay' (Liu Yüe) şiiri, Kral Süan döneminde kuzeyden gelen Hsien-yünlere (Hien-yün) karşı yapılan seferi anlatır. Şiire göre Hsien-yünler çok güçlenmiş, Ts'iao-huo'ya yerleşmiş, Hao ve Fang'a saldırıp King-yang'a kadar ilerlemiştir. Altıncı ayda savaş arabaları hazırlanır, dört güçlü at koşulur; kuş nakışlı bayraklar ve beyaz flamalarla on büyük savaş arabası öncülük eder ve Hsien-yünler T'ai-yüan'a kadar sürülür. Şiir, seferi yöneten komutan Ki-fu'yu över.",
+              "kaynaklar": [
+                "shijing-liuyue"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Çinliler Hunların atalarını Yen-yün ve Hsien-yün adlarıyla da anar; bazı efsanevi Çin kayıtları Hunların ortaya çıkışını MÖ 2255'e kadar götürür, ama bu dönem için belgeler pek açık değildir.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Hunların Çin kaynaklarında MÖ 822'de anıldığını ve MÖ 827-782 yıllarında Hunların ataları Hien-yünlere karşı T'ai-yüan bölgesinde ilk savunma duvarlarının yapıldığını belirtir; ona göre asıl surlar Savaşan Beylikler döneminde (MÖ 481-256) yapılmıştır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 38, 40"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çin kaynaklarına nasıl bakılmalı?",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Hun tarihine dair yazılı kaynakların Hunların düşmanları tarafından yazıldığını vurgular: Bilgiler meraktan değil, düşmanı iyi tanıyıp eksik yönlerini öğrenerek onu yok etmek ve sonraki kuşaklara yol göstermek için toplanmıştır. Çin kaynakları ve öteki resmî kaynaklar kendi devletlerini kutsayan, kendilerini öven bir dille yazılmıştır; Hunları da ezelî düşmanları olan 'barbarlar' olarak anarlar. Hacıfazlıoğlu okurun bu kaynakları okurken buna dikkat etmesini ister.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 36-37"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre Çinliler kendi devletlerini dünyanın tam merkezinde, öteki milletleri ise Çin'i bir halka gibi çeviren barbar ve vahşi uluslar olarak görüyordu. Mete'den önceki döneme ait Çin kayıtlarında Türklerle ilgili bilgiler çok sınırlıdır ve kulaktan dolma biçimde, hikâye ya da masal üslubunda verilmiştir. Mete'yle birlikte bilgiler zenginleşir; Pamir'e göre bu kayıtlarda Çinlilerin Türklere karşı çekingenlik ve korku içinde olduğu da gözden kaçmaz.",
+              "kaynaklar": [
+                "pamir-2022|s. 3-4"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Bakır ve Badakoğlu'na göre Çin kaynakları bütün göçebe halklar için genel bir ifadeyle 'Çin'in kuzeyinde yaşarlar' der; oysa bütün göçebe milletlerin Çin'in kuzey sınırında yaşamış olması mümkün değildir. Bu yüzden kaynaklardaki yer bilgileri dikkatle yorumlanmalıdır.",
+              "kaynaklar": [
+                "bakir-2019|s. 128"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Çin yıllıklarının gizlemeye çalıştığı durumu yine Çin kayıtlarından gösterir. Bir Çin veziri imparatora, Hunların her yıl para ve tahıl aldığını, bunu istemenin efendilik, vermenin ise uyrukluk anlamına geldiğini söyler ve Çin'in 'ayakları yukarıda, başı aşağıda' bir duruma düştüğünden yakınır. Yıllıklar ise aynı ödemeyi, kuzeyde öldürücü soğuk erken geldiği için Hun hükümdarına gönderilen pirinç, malt ve ipek olarak kaydeder. Hacıfazlıoğlu'na göre dikkatli bir okur bunun zorunlu bir vergi olduğunu kolayca görür.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 37"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Hunlar hangi dili konuşuyordu?",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Çin kaynakları Hunların dilinin ne olduğunu söylemez; yalnızca birkaç kelimeyi ve unvanı Çince yazıyla aktarır.",
+              "kaynaklar": [
+                "shiji",
+                "hanshu-94"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "E. G. Pulleyblank (1962), Hunların bugünkü Ketçeyle akraba bir Yenisey dili konuştuğunu ileri sürdü ve kutu unvanını Ketçede 'oğul, torun' anlamına gelen bir kelimeye bağladı. A. Vovin (2000) de Yenisey görüşünü destekledi. G. Doerfer ise çengli kelimesinin bile Türkçe kökenli olduğuna itiraz etti.",
+              "kaynaklar": [
+                "vovin-2000",
+                "sengul-2024"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Şengül'e göre Türk tarihçiliğinde ve Türkolojide hâkim görüş Hunların Türkçe konuştuğudur. Talat Tekin (Hunların Dili, 1993) Hunca kelimeleri Türkçeyle açıkladı ve Doerfer'in itirazlarını eleştirdi. Şengül, Pulleyblank'ın Yenisey tezini 'hâkim görüş olan Türk tezine karşı' savunduğunu belirtir.",
+              "kaynaklar": [
+                "sengul-2024"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Çataloluk ve Yılmaz, genetik ve antropolojik verilere dayanarak Hunların Moğol çizgisine daha yakın olduğunu savunur.",
+              "kaynaklar": [
+                "cataloluk-2019"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Hunların yazılı belgeleri",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Hunların yazısı yoktu; anlaşmalar sözlü olarak yapılırdı. Aynı kaynak, Hunlara sığınan Çinli Çung-hang Yüe'nin hükümdarın adamlarına kayıt tutmayı öğreterek insanları ve hayvanları saydırdığını anlatır.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Türklerin kendi yazdıkları bilinen ilk metinlerin 6. yüzyıla ait, birkaç satırlık Yenisey yazıtları olduğunu, bunları 8. yüzyılda Orhun Yazıtlarının izlediğini belirtir. Bununla birlikte bazı tarihçiler, Çin yıllıklarına geçen Mete'nin mektuplarını (MÖ 190-170) Türklerin ilk yazılı belgeleri sayar.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 37"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çin ve kuzey komşuları",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'nin 110. bölümü tümüyle Hunlara ayrılmıştır ve Hunlar hakkındaki bilgilerimizin büyük kısmı bu bölüme dayanır. Bölüm, Hunlardan önce kuzeyde yaşayan Jung (Rong) ve Ti (Di) gibi toplulukları da anlatır. Shiji'ye göre Savaşan Devletler döneminde yedi Çin devleti vardı ve bunlardan üçü, yani Ts'in (Qin), Çao (Zhao) ve Yen (Yan) Hunlarla komşuydu.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Di Cosmo, bozkır halklarının Çin'e akınlarını yalnızca tarım ürünlerine duydukları ihtiyaçla açıklayan görüşü yetersiz bulur. Ona göre Hun devletinin ortaya çıkışında, Ts'in devletinin Meng T'ien'in seferiyle kuzeydeki otlakları ele geçirmesinin yarattığı bunalım ve Hunların kendi iç siyasi gelişmeleri belirleyici oldu.",
+              "kaynaklar": [
+                "dicosmo-2002"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu Hun-Çin ilişkisini iklim ve geçim farkıyla açıklar: Kuzey çok soğuktu ve orada yalnızca hayvancılık yapılıyordu, güneydeki Çin topraklarında ise tarım yaygındı. Hunlar Eylül'deki son kurultaylarından sonra, atları besili iken Çin'e akın eder, kışlık buğday ve darıyı buradan sağlardı. Çin zayıf olduğu dönemlerde Hunlara haber gönderip akın yapmamaları karşılığında yiyecek göndermeyi önerirdi.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 40"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Hunların yaşayışı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Hunlar en çok at, sığır ve koyun beslerdi; deve, eşek, katır ve başka nadir at cinsleri de vardı. Su ve otlak peşinde yer değiştirirler; surla çevrili kentleri, sürekli oturdukları yerleri ve tarlaları yoktu. Çocuklar koyuna binerek kuş ve fare vurmayı öğrenir, biraz büyüyünce tilki ve tavşan avlar, bunları yiyecek olarak kullanırdı. Yay çekebilecek güçteki her erkek zırhlı atlı asker olurdu. Uzun silahları yay ve ok, kısa silahları kılıç ve kısa mızraktı. Durum elverişliyse saldırır, elverişsizse çekilir, geri çekilmekten utanmazlardı.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Hunlar güçlü ve sağlıklı olanları üstün tutar, yaşlı ve zayıfları geri plana iterdi: Gençler en iyi yiyecekleri yer, yaşlılar kalanla yetinirdi. Babası ölen, babasının kendi annesi olmayan eşleriyle; kardeşi ölen, kardeşinin eşiyle evlenirdi. Hunlara sığınan Çinli Çung-hang Yüe, bu âdetleri eleştiren bir Çin elçisine şöyle cevap verir: Hunların işi savaştır; yaşlılar ve zayıflar savaşamadığı için iyi yiyecekler ülkeyi koruyan güçlülere verilir. Ölenlerin eşleriyle evlenilmesi soyun dağılmasını önlemek içindir; bu yüzden Hunlar karışıklık zamanlarında bile başa hanedan soyundan birini geçirir.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre göçebe boy ve oymaklar sürülerine su bulmak için ırmak boylarında konaklar, bir baskında hiç değilse yarısı korunabilsin diye ırmağın iki yakasına yayılırdı. Pamir, Türklerdeki ikili (sol-sağ) yönetimin temelinin bu yaşayıştan doğduğunu ve göçebe imparatorluklar kurulduktan sonra da sürdürüldüğünü yazar.",
+              "kaynaklar": [
+                "pamir-2022|s. 21"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu'nun eseri Asya Hun uygarlığını savaş taktiği, aile ve levirat (ölen akrabanın eşiyle evlenme), veraset, beslenme, müzik, spor, on iki hayvanlı Türk takvimi, yargı, el sanatları, dolunaya göre hareket etme, kurultay, din, kurgan ve ölü aşı gibi başlıklar altında ayrıntılı olarak ele alır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 36"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çin Seddi",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Çao kralı Wu-ling askerlerine bozkır halklarının kıyafetini giydirdi ve atlı okçuluğu benimsetti; kuzeydeki Lin-hu ve Lou-fan topluluklarını yendikten sonra Tay (Dai) bölgesinden başlayıp Yin-şan dağlarının eteği boyunca Kao-kue'ye uzanan bir sur yaptırdı. Sınır boyunca Yün-çung (Yunzhong), Yen-men (Yanmen) ve Tay adlı yönetim bölgelerini kurdu.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Çin'i MÖ 221'de birleştiren Ts'in Şi-huangdi, komutanı Meng T'ien'i büyük bir orduyla Hunların üzerine gönderdi. Meng T'ien Sarı Irmak'ın büklümü içindeki Ordos'u aldı, ırmak boyunca 44 surlu kent kurdu ve buralara sürgüne gönderilen suçluları yerleştirdi. Eski surlar birleştirilerek batıda Lin-t'ao'dan doğuda Liao-tung'a uzanan, 'on bin li' uzunluğunda bir hat oluşturuldu.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Çinlilerin Çin Seddi'ni kuzey komşuları Türklerin akınlarını durdurmak için yaptığını belirtir. Ona göre Hunların ataları sayılan Hienyülere karşı Taiyüan bölgesinde ilk duvarlar MÖ 827-782 yıllarında yapılmış, asıl duvarlar ise Savaşan Beylikler döneminde (MÖ 481-256) inşa edilmiştir. Macar sinolog Lajos Ligeti de seddin 'tek görevinin ülkeyi Hun saldırılarına karşı korumak' olduğunu yazar.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 40"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre Hunların savaş usulleri Çinlileri Türklerden çok çekinir hâle getirmiş, bu yüzden Kuzey Çin'de büyük savunma hatları kurulmaya başlanmış ve yaklaşık on yıl gibi kısa bir sürede bugünkü Çin Seddi inşa edilmiştir. Çin kaynaklarına göre bu set MÖ 214 dolaylarında bitirilmiştir.",
+              "kaynaklar": [
+                "pamir-2022|s. 6"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Kuruluş",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Hunların ortaya çıkış tarihi kesin değildir; bazı efsanevi Çin kayıtları bunu MÖ 2255'e kadar götürür. Adı bilinen ilk Hun hükümdarı T'ou-man'dır (Teoman); oğlu Mete MÖ 209'da babasını öldürerek tahta çıktı.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun incelediği eserinde Hacıfazlıoğlu, Asya Hun Devleti'nin MÖ 209'da Mete tarafından kurulduğunu kabul eder; Mete'nin babası Teoman'ı MÖ 221-209 arasında tahtta gösterir.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 38"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Teoman döneminde doğudaki Tung-hular güçlü, batıdaki Yüeçiler varlıklıydı. Teoman, Meng T'ien'in seferi karşısında tutunamayıp kuzeye çekildi. Şi-huangdi ve Meng T'ien öldükten sonra Çin'de isyanlar başlayınca sınıra yerleştirilen sürgünler dağıldı; Hunlar Sarı Irmak'ı yeniden geçerek eski otlaklarına döndü.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Mete'nin gençliği ve tahta çıkışı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Mete, Teoman'ın veliahtıydı. Teoman sonradan sevdiği bir eşinden olan küçük oğlunu tahta geçirmek istedi ve Mete'yi rehin olarak Yüeçilere gönderdi. Ardından Yüeçilere saldırdı; Yüeçiler Mete'yi öldürmek istedi, ama Mete onların iyi bir atını alıp kaçtı. Teoman onun cesaretini takdir ederek ona on bin atlının komutasını verdi.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Mete uçarken ıslık sesi çıkaran bir ok (vınlayan ok) yaptırdı ve adamlarına bu okla nişan aldığı her hedefe ok atmalarını emretti; atmayanları idam etti. Önce kendi değerli atını, sonra sevdiği eşini, sonra babasının atını hedef aldı. Adamlarının hepsinin ok attığını görünce bir av sırasında okunu babasına çevirdi ve Teoman öldü. Mete ardından üvey annesini, üvey kardeşini ve kendisine boyun eğmeyenleri ortadan kaldırarak tahta geçti.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Hacıfazlıoğlu'na göre Mete Yüeçilere bir barış rehini olarak gönderilmişti; Kemaloğlu'nun aktardığına göre eser, ıslık çıkaran oku Mete'nin icadı olarak anlatır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 38",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre Teoman'ın birden fazla eşi ve birkaç oğlu vardı. Oğulların bir kısmı her konuda hak sahibi sayılan ilk hatundan, diğerleri ikinci, üçüncü ya da yabancı soylu eşlerden doğmuştu ve eşler kendi oğullarını tahta çıkarmak için yarışıyordu. İkinci hatun, oğlunun tahta geçebilmesi için Mete'nin uzaklaştırılmasını Teoman'a sürekli telkin etti. Pamir, Teoman'ın Mete'yi Yüeçilere rehin vermesinde MÖ 215'te uğradığı bir yenilginin de etkili olmuş olabileceğini düşünür.",
+              "kaynaklar": [
+                "pamir-2022|s. 7"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Tung-hular ve toprak",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Tung-hular, Mete'nin tahta çıktığını duyunca önce Teoman'dan kalma, günde bin li yol aldığı söylenen atı istedi; Mete danışmanlarına rağmen atı verdi. Ardından Mete'nin eşlerinden birini (Shiji'de hükümdar eşleri için kullanılan yen-çi kelimesi geçer) istediler; Mete onu da verdi. Son olarak iki ülke arasındaki bin li genişliğindeki boş toprak şeridini istediler. Danışmanların bir kısmı boş toprağın verilebileceğini söyleyince Mete öfkelendi: Toprak devletin temeliydi ve verilemezdi. Bunu önerenleri idam ettirip Tung-hulara saldırdı; hazırlıksız yakalanan Tung-huların hükümdarı öldürüldü, halkı ve sürüleri ele geçirildi.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'in aktardığına göre Gömeç, Mete'nin ulu hatununun ölene kadar yanında kaldığını, Tung-hulara verilenin bir cariye olduğunu belirtir.",
+              "kaynaklar": [
+                "pamir-2022|s. 11"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre Tung-hular, yeni bir sarsıntı atlatan Hunları köşeye sıkıştırıp toprak kazanmak istiyor, ama savaşı başlatan taraf olmak istemiyordu; isteklerini bu yüzden adım adım artırdılar. Mete'nin bu kararları tek başına vermeyip her seferinde kurultayı toplaması, Pamir'e göre Türklerin MÖ 3. yüzyılda ne kadar düzenli bir devlet yapısına sahip olduğunu gösterir. İstenen toprak çorak ve verimsizdi, ama atalardan kalma bir mirastı; Mete 'Toprak devletin temelidir; ondan vazgeçilemez' düşüncesiyle onu vermeyi önerenleri cezalandırdı. Pamir ayrıca Tung-hu adının Çincede 'Doğu barbarları' anlamına geldiğini belirtir.",
+              "kaynaklar": [
+                "pamir-2022|s. 10-11"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kalkır'a göre Çin uzunluk ölçüsü li yaklaşık 500 metredir; buna göre Tung-huların istediği, 'günde bin li' koştuğu söylenen at bir günde 500 km kadar yol alan bir at olarak anlatılmış olur.",
+              "kaynaklar": [
+                "kalkir-2021|s. 1492"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Tung-hular kimdi?",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Hou Hanshu'ya göre Wuhuanlar 'aslen Tung-hu'dur: Mete Tung-hu devletini yıkınca kalanlar Wuhuan dağına sığınmış ve bu adı almıştır. Siyenpiler de Tung-huların bir koludur; dilleri ve gelenekleri Wuhuanlarınkiyle aynıdır.",
+              "kaynaklar": [
+                "hou-hanshu"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "J. P. Abel-Rémusat ve E. Chavannes 'Tunguz' adının Tung-hu'dan türediğini düşündü; S. M. Shirokogoroff ve Shiratori Kurakichi buna karşı çıktı. P. B. Golden, Siyenpilerin Tung-hu kökenine dayanarak bu toplulukların dilini Moğolca sayar.",
+              "kaynaklar": [
+                "yildirim-2017",
+                "ozel-2020"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Hacıfazlıoğlu Tung-huları proto-Moğol bir topluluk olarak niteler.",
+              "kaynaklar": [
+                "kemaloglu-2023",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Yıldırım, Tung-huların proto-Moğol olduğunun ve Tunguzların atalarıyla ilgilerinin bulunmadığının 'bugün büyük ölçüde anlaşıldığını' yazar. Pamir de yenilginin ardından Tung-huların Siyenpi ve Wuhuan olarak ikiye bölündüğünü belirtir.",
+              "kaynaklar": [
+                "yildirim-2017",
+                "pamir-2022"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Mete ve Yüeçiler",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Teoman döneminde doğudaki Tung-hular güçlü, batıdaki Yüeçiler varlıklıydı. Teoman veliahdı Mete'yi rehin olarak Yüeçilere gönderdi, ardından Yüeçilere saldırdı; Yüeçiler Mete'yi öldürmek istedi, ama Mete onların iyi bir atını çalıp kaçtı. Mete tahta çıkıp Tung-huları yendikten sonra batıya yöneldi ve Yüeçilere saldırıp onları yurtlarından kaçırdı.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Mete MÖ 176'da Çin imparatoruna yazdığı mektupta, Sağ Bilge Bey'i ceza olarak batıya, Yüeçilerin üzerine gönderdiğini; Yüeçilerin yok edildiğini, öldürüldüğünü ya da teslim olduğunu bildirdi. Çin sarayında da Hun hükümdarının Yüeçileri yeni yendiği, bu yüzden ona saldırmanın doğru olmayacağı söylendi.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'nin batı ülkelerini anlatan bölümüne göre Yüeçiler önce Tun-huang ile Ch'i-lien dağları arasında yaşıyordu. Mete Yüeçileri yendi; oğlu Lao-şang Şan-yü döneminde Hunlar Yüeçi kralını öldürdü ve kafatasından içki kabı yaptı. Yenilen Yüeçilerin büyük kısmı uzaklara göçüp Fergana'yı geçti, Ta-hsia'yı (Baktriya) kendine bağladı ve Kui ırmağının (Amuderya) kuzeyine yerleşti; göçemeyen küçük bir kısım güneydeki dağlarda Çianglara sığındı ve Küçük Yüeçiler diye anıldı.",
+              "kaynaklar": [
+                "shiji-123"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Aynı bölüme göre Çin imparatoru Wu-di, kendisine teslim olan Hunlardan Yüeçilerin Hunlara kin beslediğini duydu ve onları Hunlara karşı müttefik yapmak için Cang-çien'i elçi olarak Yüeçilere gönderdi. Yüeçilere elçi gönderen taraf Mete değil, Çin'dir.",
+              "kaynaklar": [
+                "shiji-123"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Mete'nin önce doğu komşusu Tung-huları, ardından batı komşusu Yüeçileri hâkimiyeti altına aldığını ve bundan sonra Çin seferine hazırlandığını anlatır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 39",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Bakır ve Badakoğlu'na göre Yüeçiler başlangıçta Hunlardan güçlüydü; Teoman'ın oğlunu onlara rehin vermesi de bunun kanıtıdır. Mete Yüeçileri yendi, oğlu Lao-şang onları kesin bir yenilgiye uğratıp kralın kafatasından kadeh yaptı. Yazarlara göre Yüeçilerin ikiye bölünüp batıya göçmesi, bazı tarihçilerin sandığı gibi Mete döneminde olmadı: MÖ 172'de Çin imparatoruna sunulan bir bildiride Yüeçilerin hâlâ eski yerlerinde oturduğu yazılıdır; göç Lao-şang döneminde gerçekleşti. Batıya göçen Büyük Yüeçiler Sakaları Issık Göl çevresinden çıkardı, ardından Wusunlara yenilip yeniden göçtü; MÖ 138'de de Çin onlara elçi olarak Cang-çien'i gönderdi.",
+              "kaynaklar": [
+                "bakir-2019|s. 125-126"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir ise Mete'nin Yüeçi seferini MÖ 203'e tarihler ve Yüeçilerin bu ağır yenilginin ardından ikiye bölündüğünü yazar: Küçük Yüeçiler eski yurtlarında kaldı, Büyük Yüeçiler Hindistan'ın kuzeybatısına göç etti.",
+              "kaynaklar": [
+                "pamir-2022|s. 11-12"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Yüeçiler kimdi?",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji, Yüeçileri Hunların batısında, Kansu'da yaşayan güçlü ve varlıklı bir göçebe halk olarak anar; kökenleri hakkında bilgi vermez.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Bakır ve Badakoğlu ile Aydemir'in aktardığına göre Batılı araştırmaların çoğu Yüeçileri Hint-Avrupa dilli bir halk sayar ve onları Toharlarla ilişkilendirir.",
+              "kaynaklar": [
+                "bakir-2019",
+                "aydemir-2019"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Bakır ve Badakoğlu, Türk kaynaklarında Yüeçilerin Ön-Türk sayıldığını belirtir; Batılıların görüşünü eski kaynaklardaki 'beyaz ya da kırmızı tenli' tasvirine dayandırmasını temelsiz bulur ve Yüeçilerin Altay-Pazırık bölgesinden geldiği, kökenlerinin Sakalara dayandığı sonucuna varır. Aydemir'in aktardığına göre Mızrak (2014) da yabgu unvanına ve genetik çalışmalara dayanarak Yüeçilerin yönetici hanedanının Türk olabileceğini savunur.",
+              "kaynaklar": [
+                "bakir-2019",
+                "aydemir-2019"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Aydemir ise unvanlar kolayca başka halklardan alınabildiği için yabgu unvanının köken kanıtı olamayacağını, genetik örneklerin seçiminin de öznel olabileceğini belirtir. Ona göre Yüeçilerin kökeni henüz ikna edici biçimde açıklanamamıştır.",
+              "kaynaklar": [
+                "aydemir-2019"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Mete'nin güneydeki ve kuzeydeki seferleri",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Mete Yüeçilerden sonra güneyde Lou-fan ve Pai-yang topluluklarını kendine bağladı ve Meng T'ien'in aldığı Ordos topraklarını geri aldı. Ardından kuzeydeki Hun-yü, Ç'ü-şe, Ting-ling, Ko-kun ve Sin-li topluluklarını hâkimiyeti altına aldı.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Taşağıl'a göre Çin kaynaklarında Hun döneminde geçen Ting-linglerle sonraki dönemin Tölesleri aynı boy topluluğudur.",
+              "kaynaklar": [
+                "tasagil-2014"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Mete'nin ordusu kaç kişiydi?",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Teoman, Yüeçilerden kaçıp dönen Mete'ye on bin atlının komutasını verdi. Mete'nin seferleriyle Hunların gücü arttı ve Çin iç savaşla uğraşırken Mete'nin emrindeki okçuların sayısı 300.000'i aştı. Pe-teng'de Mete imparatoru 400.000 seçme atlıyla kuşattı; karşısındaki Çin ordusu çoğu piyade olmak üzere 320.000 kişiydi. Shiji teşkilatı anlatırken de ülkede her biri 'on bin atlının başı' denen 24 büyük komutan bulunduğunu yazar.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu da Çin kaynaklarındaki sayıları verir: İmparator Kao 320 bin kişilik bir orduyla sefere çıktı, Mete onu Pe-teng'de 400 bin süvariyle kuşattı ve Çin ordusu 7 gün aç ve susuz kaldı.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 39",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre Teoman Mete'yi 10.000 atlılık bir kuvvetin başına getirdi; Mete fetihleriyle itibarı yükselince asker sayısını yaklaşık 300.000'e çıkardı.",
+              "kaynaklar": [
+                "pamir-2022|s. 8, 12"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Pe-teng kuşatması",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Han imparatoru Kao'nun (Liu Pang) Ma-yi'ye atadığı kral Han Sin, Hunlar kenti kuşatınca Mete'ye teslim oldu. Kao ordusunun başına geçip Hunların üzerine yürüdü. Sefer çok sert bir kışa denk geldi; her on Çinli askerden ikisi-üçü donan parmaklarını kaybetti. Mete en iyi askerlerini ve sağlıklı hayvanlarını saklayıp Çin gözcülerine yalnızca zayıfları gösterdi ve bozguna uğramış gibi geri çekildi. Tuzağı sezen Liu Çing dinlenmedi. Çoğu piyade olan 320.000 kişilik Çin ordusu Hunları kovaladı; Kao öncü birliklerle P'ing-ç'eng'e kadar ilerledi ve Mete onu 400.000 atlıyla Pe-teng (Pai-teng) tepesinde kuşattı. Çinliler yedi gün boyunca ne yardım ne erzak alabildi.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Hun süvarileri dört yöne göre at rengiyle ayrılmıştı: batıda hepsi ak, doğuda hepsi boz-kır, kuzeyde hepsi yağız (kara), güneyde hepsi doru (kızıl) atlar vardı.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Kao, Mete'nin hatununa gizlice değerli hediyeler gönderdi. Hatun Mete'ye, iki hükümdarın birbirini köşeye sıkıştırmasının doğru olmadığını ve Çin topraklarını alsa bile orada yaşayamayacağını söyledi. Han Sin'in komutanlarının buluşmaya gelmemesi de Mete'yi onların Çinlilerle anlaşmış olabileceğinden şüphelendirdi. Mete çemberin bir köşesini açtı; Çin askerleri yaylarını gerip oklarını dışarı çevirerek çıktı. Hatuna güzel bir Çinli kadının resminin gönderildiği hikâyesi Shiji'nin bu bölümünde yer almaz; sonraki yorumculara aittir.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Durmuş'a göre düşmanı sahte bir geri çekilmeyle pusu kurulan yere kadar çekip çembere alan bu bozkır savaş yöntemine 'kurt oyunu' da denir; Türklerin yurdunun eski adından dolayı 'Turan taktiği' olarak da bilinir.",
+              "kaynaklar": [
+                "durmus-iskit|s. 246",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Pe-teng kuşatmasını ve ardından yapılan antlaşmayı MÖ 201'e tarihler.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 36"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Mete'nin kuşatmanın yedinci gününde Çin ordusunun çıkıp gitmesine izin vermesini Türk-Çin siyasetiyle açıklar: Türklerin Çin'e saldırıları fetih için değil, ani baskınla yağma yapıp geri çekilmek içindi. Çin'i ele geçirmek Hunları kalabalık Çin nüfusu içinde eriyip gitme tehlikesiyle karşı karşıya bırakırdı; o dönemde Hunların 2-3 milyon, Çinlilerin 50 milyon kadar olduğu belirtilir.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 39",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Eserde Çinli şairlerin Pe-teng üzerine yazdığı bir şiir de aktarılır: Yedi gün aç ve susuz kalan Çin askerlerinin yay çekecek gücü bile kalmamıştır. Hacıfazlıoğlu, Mete'nin çemberi açmasını stratejik açıdan da değerlendirir ve Çinli strateji yazarı Sun Zi'nin 'en iyisi savaşmadan boyun eğdirmektir; düşmanı kuşattığında ona kaçacak bir yol bırak, köşeye sıkışmış düşmanı zorlama' öğüdünü hatırlatır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 39"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Türk tarihinde bilinen ilk milletlerarası antlaşma",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Pe-teng'den sonra Liu Çing aracılığıyla Hunlarla akrabalık yoluyla barış (he-çin) kuruldu: Çin hanedan ailesinden bir kızı prenses unvanıyla Mete'ye eş olarak verdi, her yıl belirli miktarda ipek, kumaş, şarap, pirinç ve yiyecek göndermeyi kabul etti; iki hükümdar 'kardeş' sayıldı. Shiji'nin bu bölümünde antlaşmanın kesin yılı yoktur.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Di Cosmo, he-çin düzenini prenses evliliği, yıllık hediyeler, iki hükümdarın eşit sayılması ve sınırın karşılıklı tanınmasına dayanan bir barış antlaşması olarak tanımlar ve bu düzenin Han sarayına ağır geldiğini vurgular.",
+              "kaynaklar": [
+                "dicosmo-2002"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Mete MÖ 199'da büyük bir orduyla gelen Çin imparatorunu kuşattı; ardından yapılan antlaşmayla Çin Hunların üstünlüğünü kabul etti ve onlara vergi ödemeye başladı.",
+              "kaynaklar": [
+                "dia-turk",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir, Mete'nin Çin ile yaptığı barış antlaşmalarında Çin'in Türklerin üstünlüğünü açıkça tanıdığını yazar. Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu ise antlaşmayı MÖ 201'e tarihler.",
+              "kaynaklar": [
+                "pamir-2022",
+                "kemaloglu-2023|s. 36"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Çin'in zorunlu olarak verdiği verginin yıllıklara bir yardım gibi geçirildiğini belirtir. Yıllıktaki ifadeye göre imparator, Çin ile Hunların 'iki komşu ve eşit devlet' olduğunu, kış erken geldiği için memurlarına Hun hakanına her yıl belirli miktarda pirinç, arpa, işlemeli kumaş ve ipek vermelerini emrettiğini yazar; Hacıfazlıoğlu bunun aslında Çin'in Hunlara ödediği yıllık vergi olduğunu vurgular. Yine yıllıklara geçen bir Hun devlet adamının sözüne göre Çin vergiyi vermezse, tahıl olgunlaştığında Çin tarlaları Hun atlıları tarafından çiğnenecekti.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 40-41"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu bu antlaşmayı 'Barış ve Kardeşlik Antlaşması' diye anar ve Çin ile Orta Asya arasında yapılan ilk milletlerarası antlaşma sayar. Ona göre antlaşmayla Hunlar Çin'in kuzeyini aldı; Çin her yıl hediye adı altında vergi olarak belirli miktarda ipekli kumaş, şarap, pirinç ve başka yiyecekler vermeyi kabul etti ve Mete'ye bir Çinli prenses gönderildi.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 39"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Mete'nin son yılları (MÖ 196-174)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre antlaşmaya rağmen Hunlara sığınan Han Sin ve komutanları Tay, Yen-men ve Yün-çung bölgelerine akın etmeyi sürdürdü; Yen kralı Lu Van da yaklaşık on bin adamıyla Hunlara katıldı.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Han Shu'ya göre Mete, İmparator Kao'nun ölümünden sonra Çin'i fiilen yöneten İmparatoriçe Lü'ye bir mektup gönderdi; ikisinin de yalnız yaşadığını söyleyip birbirlerinin eksiğini tamamlamayı önererek dolaylı yoldan evlenme teklif etti. Saray bunu hakaret saydı. Komutan Fan K'uay yüz bin askerle Hun ülkesini baştan başa geçebileceğini söyledi; Çi Pu ise Pe-teng'de 320.000 kişilik ordunun bile imparatoru kurtaramadığını hatırlattı. İmparatoriçe sonunda alçakgönüllü bir cevap yazdırıp Mete'ye savaş arabaları ve atlar gönderdi; Mete de özür dileyen bir cevap yolladı ve barış yenilendi.",
+              "kaynaklar": [
+                "hanshu-94"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre MÖ 177'de Hunların Sağ Bilge Beyi Ordos'a girip sınır boyunu yağmaladı ve Çin ordusu karşısında çekildi. Ertesi yıl Mete, kendisini 'Tanrı'nın tahta çıkardığı büyük Hun hükümdarı' olarak tanıttığı bir mektupla Sağ Bilge Bey'i ceza olarak Yüeçilerin üzerine gönderdiğini, Yüeçilerin yenildiğini, Lou-lan, Wusun, Hu-chie ve çevrelerindeki 26 ülkenin Hunlara bağlandığını bildirdi. Çin sarayı, tuzlu bataklıklardan oluşan Hun topraklarının ele geçirilse bile yaşanamayacağını düşünerek barışı kabul etti. Mete MÖ 174'te öldü; yerine oğlu Ki-ok (Lao-şang Şan-yü) geçti. Tarihler, kaynaktaki Çin imparatorlarının saltanat yıllarından hesaplanmıştır.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir, Mete'nin bu dönemdeki mektuplarını Hunların Çin karşısındaki üstünlüğünün açık bir ifadesi olarak değerlendirir; Çin'in bu hakarete rağmen sefer açmaya cesaret edememesini de bu üstünlüğün kanıtı sayar.",
+              "kaynaklar": [
+                "pamir-2022"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Mete Tung-huları ve Yüeçileri yendi, Orta Asya'daki yirmi altı boyu kendine bağladı. Hun ülkesi Kore'den Aral Gölü'ne, Baykal'dan Çin Seddi'ne, Doğu Türkistan'dan Tibet'e kadar uzanıyordu.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'deki MÖ 176 tarihli mektupta Hun hükümdarı, Lou-lan, Wusun, Hu-chie ve çevrelerindeki yirmi altı ülkenin hepsinin artık Hun sayıldığını, 'yay çeken bütün halkların tek bir aile olduğunu' yazar. Kuzeyin barışa kavuştuğunu, askerlerini dinlendirip atlarını otlatmak, geçmişi unutup eski antlaşmayı yenilemek istediğini; sınır halkının barış içinde yaşamasını, çocukların korkusuzca büyümesini, yaşlıların rahat etmesini dilediğini belirtir. Mektubu Hsi-yü-ts'ien adlı bir görevliyle gönderir ve bir deve, iki binek atı ile iki dörtlü araba koşumu at armağan eder.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Mete döneminde devlet teşkilatı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre ülke doğu (sol) ve batı (sağ) olmak üzere iki kanada ayrılmıştı; hükümdarın ordugâhı merkezdeydi. Hükümdardan sonra en yüksek unvanlar Sol ve Sağ Bilge (tu-ki) Beyleriydi; veliaht genellikle Sol Bilge Beyi olurdu. Ülkede her biri birkaç bin ile on bin arasında atlı çıkaran 24 büyük komutan vardı; her biri kendi altında binlik, yüzlük ve onluk birliklerin başlarını atardı. Görevler babadan oğula geçerdi; Huyen, Lan ve Su-pu boyları en soylu ailelerdi.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre yılda üç büyük toplantı yapılırdı: yılın ilk ayında hükümdarın ordugâhında, beşinci ayda Lung-çeng'de (atalara, göğe, yere ve ruhlara kurban sunulurdu), sonbaharda Tai-lin'de (insanlar ve hayvanlar sayılırdı). Kanunlar az ama sertti: Kılıcını bir karış kınından çeken ölümle cezalandırılırdı; kimse on günden fazla tutuklu kalmazdı. Hükümdar sabah doğan güneşe, akşam aya saygı gösterirdi. Savaşta ele geçirilen ganimet onu alanın olurdu; ölü bir arkadaşının cesedini taşıyan onun mallarına mirasçı olurdu. Hükümdarın yakınlarından ve hizmetkârlarından sayıları yüzlerle ifade edilen kişilerin onunla birlikte öldürüldüğü kaydedilir.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Mete'yi onluk, yüzlük ve binlik askerî sistemin kurucusu sayar. Yönetim doğu ve batı olarak ikiye ayrılmıştı; güneşin doğduğu taraf olan doğu Türk devlet geleneğinde hep daha önemli olmuştur. Hacıfazlıoğlu'na göre Hunlar disiplinli bir ordu ve bürokratik bir yönetimle 'sağlıklı bir vücut gibi işleyen' bir devlet kurmuştu: Hun hükümdarının Çin imparatorunun mektup kâğıtlarının iki katı büyüklüğünde kâğıt kullanması, Çin elçisinin hükümdarın huzuruna çıkmadan önce yüzünü karaya boyaması, tabi beylerin yılda üç kez başkentte toplanması ve her sonbaharda nüfus ve hayvan sayımı yapılması, Hunların kendine güveninin ve sıkı yönetiminin göstergeleridir.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 40"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir, ülkenin her birinin emrinde on bin atlılık bir tümen bulunan 24 komutana bölünmesini ve bu tümenlerin binlik, yüzlük ve onluk birliklere ayrılmasını, yüzyıllar sürecek Türk devlet teşkilatının temeli olarak değerlendirir. Pamir bu düzeni Oğuz Kağan Destanı'ndaki 24 boy ve Bozok-Üçok ayrımıyla birlikte ele alır.",
+              "kaynaklar": [
+                "pamir-2022|s. 15"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre egemenlik hükümdarın şahsına değil bütün hanedana ait sayıldığı için ülke hanedan üyeleri arasında bölünürdü. Tören sırasında hükümdar kuzeye bakar, sol taraf sağdan üstün sayılır, veliaht da hükümdarın solunda dururdu. Ülke sol ve sağ olarak ikiye, bunlar da on ikişer bölgeye ayrılarak yirmi dört yönetim birimine bölünmüştü. Bu birimlerin başındaki beyler hanedandan gelir, makamları babadan oğula geçer; aralarındaki protokol sırası ileride kağan olma sıralarını da gösterirdi.",
+              "kaynaklar": [
+                "pamir-2022|s. 21-22"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre her bey hem bölgesinin valisi hem de oradaki on bin atlının komutanıydı: Memur atayıp görevden alabilir, binlik, yüzlük ve onluk birliklerin subaylarını belirleyebilirdi. Beylerin bölgelerinin sorunlarını görüştükleri ayrı divanları vardı. Geniş bir yerinden yönetim sayesinde yerel sorunlar için komşu devletlerle antlaşma bile yapabilirlerdi; ancak töreye ve devletin genel siyasetine uymak, hükümdar çağırdığında bütün kuvvetleriyle yanına gitmek zorundaydılar. Pamir, ülkenin bu şekilde paylaştırılmasını ileride oğullar arasında çıkabilecek taht kavgalarını önlemeye yönelik bir tedbir olarak da yorumlar.",
+              "kaynaklar": [
+                "pamir-2022|s. 21-22"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu, Hacıfazlıoğlu'nun eserinde Bahaeddin Ögel'in şu değerlendirmesinin aktarıldığını belirtir: Büyük Hun Devleti bir insan vücudu gibi işliyordu; binlerce kilometre uzaktaki bir köşesinde bile başkentin haberi olmadan hiçbir şey olamaz, her şey başkente bildirilip onun buyruğuyla yoluna konurdu. Ögel'e göre Mete'nin kurduğu devlet bu yüzden 'imparatorluk' adını hak eder.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 43"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "İnanç, takvim ve ölü gömme",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Hun hükümdarı sabah ordugâhından çıkıp doğan güneşe, akşam aya saygı gösterirdi. Oturduğu yerde yüzü kuzeye dönük olur, sol taraf üstün sayılırdı; günlerden 'wu' ve 'ji' günleri uğurlu kabul edilirdi. Hunlar bir işe girişmeden önce yıldızlara ve aya bakar; ay dolunca saldırır, ay küçülünce geri çekilirdi. Savaşta düşman kesen ya da esir alan bir kadeh şarapla ödüllendirilir, ele geçirdiği ganimet ona verilir, aldığı esirler de onun kölesi olurdu.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Hunlar ölülerini iç ve dış tabutla, altın, gümüş, giysi ve kürklerle gömerdi; ama mezarın üstüne tümsek yapılmaz, ağaç dikilmez, yas giysisi giyilmezdi. Hükümdarın yakınlarından ve gözdelerinden onunla birlikte ölenlerin sayısı yüzleri, hatta binleri bulurdu.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre Hunlarda kağanın egemenliğinin Gök Tanrı tarafından verildiğine inanılırdı: Gök Tanrı bir aileyi seçip egemenliği ona verir, bu ailenin bütün erkek üyeleri yönetimde hak sahibi olurdu. Kağan bu Tanrısal yetkiyi, yani 'kut'u taşıdığı için kutsal sayılırdı. Kut Şamanizm'de 'hayat unsuru, can' anlamına gelir ve gökten inen bir nur sütunu olarak düşünülürdü. Pamir, eski Türk dinini Gök Tanrı'dan başkasını tanımayan tek tanrılı bir din olarak niteler ve dünya egemenliği düşüncesinin Türklerde ilk kez Mete ile görüldüğünü yazar: Mete'nin mektuplarının başındaki 'Tanrı'nın tahta çıkardığı büyük hükümdar' ifadesi bu anlayışı yansıtır.",
+              "kaynaklar": [
+                "pamir-2022|s. 17-18, 20"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Güngör'e göre tengri kelimesi Doğu Hunları döneminden (MÖ 3. yüzyıl) beri kullanılır; kökeni kesin değildir, önce gök yüzünü, sonra tapınılan varlığı anlatmıştır. Bazı araştırmacılar Shiji'deki Mete haberinde geçen t'ien kelimesiyle Tanrı arasında bağ kurmuştur, ancak bu kesin değildir. Güngör'e göre Gök Tanrı inancında tanrı tektir ve hayvan ya da insan biçiminde düşünülmez; Türklerde 'ay tengri', 'kün (güneş) tengri' gibi söyleyişler de vardır.",
+              "kaynaklar": [
+                "dia-tanri"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Hun hukuku: töre, kurultay ve yargı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Hunlarda kılıcını bir ayak boyu kınından çeken ölümle cezalandırılır, hırsızlık yapanın ailesinin malları elinden alınırdı. Küçük suçlara bedensel ceza, büyük suçlara ölüm cezası verilirdi. Kimse on günden fazla hapiste tutulmaz, bütün ülkedeki tutukluların sayısı birkaç kişiyi geçmezdi. Yılın ilk ayında boy beyleri hükümdarın ordugâhında küçük bir toplantı yapıp kurban sunar; beşinci ayda Lung-çeng'de büyük toplantıda atalara, göğe, yere ve ruhlara kurban keser; sonbaharda atlar besiliyken Tai-lin'de toplanıp insanları ve hayvanları sayarlardı.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre kağan ordunun en yüksek komutanı, en yüksek yargıç ve yasanın simgesiydi: Başkent çevresinde yargıyı kendisi kullanır, başka yerlerde onun adına yargıçlar karar verirdi. Devlet kuran her kağan bir töre koyardı; kurultay kararları da töre sayılırdı, ama töre asıl olarak zamanla kendiliğinden oluşan örf ve âdetlerden ('yosun hukuku') doğardı. Töre hükümdarı da bağlardı. Savaş ilan etmek, barış yapmak, elçi göndermek ve bağlı kavimlerden vergi almak da kağanın yetkileri arasındaydı.",
+              "kaynaklar": [
+                "pamir-2022|s. 19"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir, Hunlarda yılda üç kez belirli zamanlarda toplanan kurultayları şöyle anlatır: Yılın ilk ayında hükümdarın sarayında atalara kurban sunulur, önemli idari ve hukuki kararlar alınırdı. Beşinci aydaki Büyük Kurultay'da dinî törenler yapılır, kağana bağlılık yeminleri yenilenir, törede yapılacak değişiklikler tartışılırdı. Eylül'deki savaş ve sayım kurultayında asker ve at sayılır, ordunun savaşa hazır olup olmadığı belirlenir, talimler yapılırdı. Kurultaydan sonra hükümdar halka toy (şölen) verirdi; davet edildiği hâlde kurultaya ya da toya katılmamak devlete isyan sayılırdı. Hükümdar kurultay kararlarına uymak zorunda değildi ama onları dikkate almak zorundaydı.",
+              "kaynaklar": [
+                "pamir-2022|s. 24-26"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre kağanın yönetimi ancak kurultay onayıyla meşru sayılırdı. Töreye aykırı davranan hükümdar tahttan indirilebilirdi; ancak başkaldırı hanedana değil yalnızca o hükümdara karşıydı ve yerine yine aynı aileden biri geçerdi. Hükümdar ailesinin kanı kutsal sayıldığı için tahttan indirilen kağanların kan akıtılmadan, yaylarının kirişiyle boğularak öldürüldüğü görülür. Pamir, Hun hükümdarlarının mahkemelerin verdiği idam cezalarını görüşmek için her yıl ayrıca bir yargı kurultayı topladığını da yazar.",
+              "kaynaklar": [
+                "pamir-2022|s. 23, 27"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Asya Hunlarında 'toy' adı verilen devlet meclisi ilkbaharda toplanırdı. Şan-yü, hatun, tegin ve hanedanın bütün üyeleri, ayrıca öteki boyların beyleri ve tâbi yabancılar toya katılmak zorundaydı; katılmamak devlete isyan sayılırdı. Toy hükümdarlığı onaylar, gerektiğinde hükümdar seçer ve töre koyardı; bu yönüyle bir tür yasama meclisiydi. Taşağıl, Göktürk ve Uygur devlet meclislerini bu kurumun devamı sayar. Ona göre 'toy' kelimesi yaklaşık iki bin yıl kullanılmış, 12. yüzyıldan itibaren yerini Moğolca 'kurultay' kelimesine bırakmıştır.",
+              "kaynaklar": [
+                "dia-kurultay"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Onlu sistem ve Türk Kara Kuvvetleri'nin kuruluş yılı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji onlu askerî düzeni Mete dönemine ait teşkilatı anlatırken verir, ama Mete'nin onu belirli bir yılda kurduğunu söylemez.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Hüseyin Nihal Atsız, Mete'nin MÖ 209'da orduyu 10, 100 ve 1000 kişilik birliklere ayırdığını vurgulayarak Türk ordusunun başlangıcını Mete'ye bağladı. Yılmaz Öztuna'nın 1968'deki önerisiyle Türk Kara Kuvvetleri, Mete'nin tahta çıktığı MÖ 209'u kuruluş yılı olarak kabul etti.",
+              "kaynaklar": [
+                "yenisafak-2008"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Oğuz Kağan ile Mete aynı kişi mi?",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Pamir'e göre Rus sinolog N. Y. Biçurin ikisini kesin olarak aynı kişi sayar; Ziya Gökalp de bu görüşü genişçe savunmuştur. Pamir, Üçok, Mumcu ve Bozkurt'a dayanarak Mete ile Oğuz Kağan'ın 'çoğunlukla kabul edildiği üzere' aynı kişi olduğunu ve bunun önemli delilleri bulunduğunu yazar.",
+              "kaynaklar": [
+                "pamir-2022"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Pamir'in Bahaeddin Ögel'e dayanarak aktardığına göre Fransız sinolog J. de Guignes bu benzerlik konusunda çekinceliydi; W. Radloff Oğuz Kağan'ı Uygur hükümdarı Bögü Kağan'la, J. Marquart ise Cengiz Han'la özdeşleştirdi.",
+              "kaynaklar": [
+                "pamir-2022"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Mete'den sonra Hun ülkesi ve Çin",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Çin'in Hunları Ma-yi kenti yakınında pusuya düşürme planı başarısız oldu: Hun hükümdarı otlaklarda çobansız sürüleri görünce şüphelendi, bir Çin karakolundan aldığı esirden planı öğrendi ve geri çekildi. Bu olaydan sonra iki devlet arasında uzun savaşlar başladı.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Bakır ve Badakoğlu'na göre Çin, Hunlara karşı Yüeçilerle ittifak kurmak amacıyla MÖ 138'de Cang-çien'i (Zhang Qian) elçi olarak gönderdi. Cang-çien yolda Hunlara esir düşüp on yıl alıkonuldu; kaçtıktan sonra Yüeçileri Kuzey Afganistan'da buldu, ancak Yüeçiler Hunlardan çok uzakta oldukları için ortak saldırı teklifini kabul etmedi. Elçinin dönüşte imparatora sunduğu rapor, Çin'in batıya uzanan yolları tanımasını sağladı.",
+              "kaynaklar": [
+                "bakir-2019|s. 126-127, 131"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Ki-ok döneminde (MÖ 174-160) İpek Yolu'nun tamamen Hun hâkimiyetine girdiğini ve Çin'in baskı altında tutulduğunu yazar. Kün-çin (MÖ 160-126) döneminde ise Çinliler Hun tarzı bir ordu kurarak önemli toprakları aldı, ticaret yollarının denetimini ele geçirdi ve Hunlara verdikleri yıllık hediyeleri kesti.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 40-41"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Kün-çin'den (MÖ 160-126) sonra tahta geçen hükümdarları sırasıyla İ-ti-şa (MÖ 126-114), O-ui (MÖ 114-105), O-su-lı (MÖ 105-102), Hu-li-ho (MÖ 102-101), Su-t'e-ho (MÖ 101-96) ve Huluku (MÖ 96-85) olarak verir. Huluku'nun Çin imparatoruna yazdığı mektupta 'Güneyde büyük Çin, kuzeyde güçlü Hunlar vardır; Hunlar göğün gururlu çocuklarıdır' dediği ve Çin veliahdının babasından habersiz ordu kullanmasını örnek göstererek Çin'deki düzensizliği küçümsediği aktarılır. Hacıfazlıoğlu'na göre böyle bir gurur Mete döneminde bile görülmemişti.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 41"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Ma-yi tuzağında Çin, Ma-yi'li Nie Yi adlı bir adamı Hunlarla gizli ticaret yapan biri gibi gönderdi; adam kenti Hunlara teslim edecekmiş gibi davranarak hükümdarı kandırmaya çalıştı. Hun hükümdarı yüz bin atlıyla Wu-chou geçidinden Çin'e girdi; Çin ise Ma-yi yakınındaki vadilere üç yüz binden fazla asker gizlemişti. Tuzak, hükümdarın çobansız sürülerden şüphelenmesiyle bozuldu.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kalkır'a göre Wu-di 54 yıllık saltanatı boyunca Hunlara 43 kez saldırdı; bu saldırılar MÖ 133 ile 119 arasında yoğunlaştı. MÖ 133'teki Ma-yi pususu için Wang Hui'nin önerisiyle Li Guang, Gongsun He, Wang Hui, Li Xi ve Han Anguo adlı beş general görevlendirilmiş, ama Hun hükümdarı tuzağı fark edince Çin bir şey elde edememişti. Kalkır, Wu-di'yi Hunlara karşı barış politikasını bırakıp savaşa geçen ve o zamana kadar Hunlarla savaşmayı göze alan tek Çin imparatoru olarak değerlendirir.",
+              "kaynaklar": [
+                "kalkir-2021|s. 1487, 1490-1491"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Kün-çin ölünce kardeşi Sol Ku-li Beyi İ-chih-hsie kendini hükümdar ilan etti ve Kün-çin'in veliahdı Yü-tan'ı yendi. Yü-tan Çin'e sığındı, bey unvanı aldı, ama birkaç ay sonra öldü.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'nin batı ülkelerini anlatan bölümüne göre Cang-çien Hunlar arasında on yıldan fazla alıkonuldu; orada bir Hun kadınla evlenip çocuk sahibi oldu, ama elçilik nişanını yanından ayırmadı. Ta-hsia'da (Baktriya) Ch'iung bambusundan asalar ve Shu kumaşı gördü; bunların Shen-tu'dan (Hindistan) alındığını öğrenince, Shu üzerinden gidilecek bir yolun hem kestirme hem de güvenli olacağı sonucuna vardı. Wusunları kazanmanın 'Hunların sağ kolunu kesmek' olacağını söyleyerek onlarla ittifak kurulmasını önerdi.",
+              "kaynaklar": [
+                "shiji-123"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kalkır'a göre Cang-çien MÖ 138'de Hun asıllı Gan Fu ile birlikte yola çıktı; yolda Hunlarca alıkonulup on yıl kadar onların topraklarında kaldı, evlendirildi ve bir oğlu oldu, sonra kaçıp Fergana'ya ulaştı. Fergana'da 'Gök At' denen güçlü ve hızlı atları öğrenmesi Wu-di'nin bu atları elde etme isteğini doğurdu. Kalkır'a göre Cang-çien'in raporuyla Çin yabancı malların nereden geldiğini öğrendi; yol boyunca garnizonlar kuruldu, onlarca küçük devletle ilişki başladı. Bu güzergâha 19. yüzyılda Ferdinand von Richthofen 'İpek Yolu' adını verecekti.",
+              "kaynaklar": [
+                "kalkir-2021|s. 1490"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çinli danışman Çung-hang Yüe",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Ki-ok'a eş olarak gönderilen Çinli prensesin yanına verilen saray hadımı Çung-hang Yüe (Zhonghang Yue) bu göreve zorla gönderildi ve 'Gidersem Çin'in başına bela olurum' dedi. Hunlara varınca hükümdara bağlandı ve onun gözdesi oldu. Hunlara Çin ipeklerine ve yiyeceklerine özenmemelerini öğütledi: Hunların sayısı Çin'in tek bir ilinin nüfusu kadar bile değildi; güçlerinin sırrı yiyecekte ve giyimde Çin'e muhtaç olmamalarıydı.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Çung-hang Yüe, Çin'in mektupları bir ayak bir inçlik tahtalara yazılırken Hun hükümdarının mektuplarını bir ayak iki inçlik tahtalara, daha büyük mühürlerle yazdırdı. Önceki mektuplar 'Göğün tahta çıkardığı Hunların büyük Şan-yü'sü' diye başlarken, onun düzenlediği mektuplar 'Gök ve yerin doğurduğu, güneş ve ayın yerine koyduğu Hunların büyük Şan-yü'sü' diye başlıyordu. Çin elçilerine de fazla konuşmamalarını, Hunlara gönderilen ipek ve tahılın tam ve iyi olmasına dikkat etmelerini, yoksa hasat zamanı Hun atlılarının ekinleri çiğneyeceğini söyledi.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Hun hükümdarının Çin imparatorununkinden büyük mektup kâğıdı kullanmasını Hun devletinin kendine güveninin simgelerinden biri sayar. Eserde Çin yıllıklarına geçen bir Hun devlet adamının sözleri de aktarılır: Çin elçisi fazla konuşacağına, Çin'in Hunlara vermek zorunda olduğu ipek, pirinç ve maltın miktarına ve kalitesine baksın; eksik ya da kötüyse, sonbaharda hasat toplandıktan sonra Hun atlıları gelip her şeyi alacaktır. (Shiji bu sözleri Çung-hang Yüe'ye bağlar.)",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 40"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Wu-di'nin büyük seferleri (MÖ 127-119)",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Kalkır'a göre Wu-di döneminin en şiddetli savaşları MÖ 127'de Ho-nan'da (Ordos), MÖ 121'de Sarı Irmak'ın batısında (Ho-hsi, Kansu koridoru) ve MÖ 119'da Gobi'nin kuzeyinde yapıldı. Ordos verimli otlakları ve Çin başkenti Ch'ang-an'a yakınlığı yüzünden iki taraf için de çok değerliydi. MÖ 127'de Hunlar Liao ırmağının batısına saldırıp valiyi öldürünce Wei Ch'ing (Wei Qing) Yen-men'den çıktı, dolambaçlı bir yoldan Hunları kuşattı ve Ordos'taki Lou-fan ve Pai-yang beylerini bozguna uğrattı. Çin burada Şuo-fang ve Wu-yüan eyaletlerini kurdu ve surları yeniden yaptı.",
+              "kaynaklar": [
+                "kalkir-2021|s. 1491"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kalkır'a göre MÖ 124'te Wei Ch'ing sınırdan 600-700 li ilerleyip gece Hunların Sağ Bilge Beyi'ni kuşattı; bey kaçtı, birçok Hun beyi, insan ve hayvan ele geçirildi. MÖ 121'de Wei Ch'ing'in yeğeni Huo K'ü-ping (Huo Qubing) Lung-hsi'den çıkıp Yen-chih dağını aşarak Hunları yendi; aynı yazki ikinci seferinde beş Hun beyini esir aldı. Hükümdar İ-chih-hsie'nin cezalandırmasından korkan Hun-ye ve Hsiu-t'u beyleri halklarıyla Çin'e teslim olmaya karar verdi; son anda vazgeçen Hsiu-t'u'yu Hun-ye öldürdü. Teslim olanlar Çin'in beş kuzey eyaletine yerleştirildi; Çin, Hunların Ch'iang'larla bağlantısını kesmek için Ho-hsi'de dört kent (Chiu-ch'üan, Chang-yeh, Wu-wei, Tun-huang) kurdu ve Batı Bölgeleri'ne giden yol açıldı.",
+              "kaynaklar": [
+                "kalkir-2021|s. 1492-1493"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre Hunlara sığınan Çinli komutan Chao Hsin, hükümdara çölün daha kuzeyine çekilmesini, Çin ordularını uzaklara çekip yorduktan sonra vurmasını ve sınıra yaklaşmamasını öğütledi.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kalkır'a göre MÖ 119 baharında Wei Ch'ing ve Li Kuang Ting-hsiang'dan, Huo K'ü-ping Tai'den kuzeye yürüdü. Çin ordusunun büyüklüğünü gören Hun hükümdarı kuzeybatıya çekildi; Huo K'ü-ping sol kanattaki beylere saldırdı ve Hunlar ağır kayıp verip Wuhuanlar üzerindeki güçlerini yitirdi. Kalkır bu savaşı Hun-Çin savaşlarının en büyüğü ve en kanlısı olarak niteler; çöldeki kum fırtınası askerlerin birbirini göremeyeceği kadar şiddetliydi. Yolunu kaybettiği için suçlanacağını anlayan Li Kuang canına kıydı. Savaştan sonra Hunlar yeniden akrabalık yoluyla barış istedi; Çin'in Hunların tâbi olmasını isteyen elçisi Jen Ch'ang alıkonuldu. Huo K'ü-ping'in hastalanıp ölmesi üzerine Wu-di yeni bir seferden vazgeçti ve uzun süre büyük saldırı yapılmadı.",
+              "kaynaklar": [
+                "kalkir-2021|s. 1493"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre MÖ 119'daki savaş sırasında akşam üzeri büyük bir rüzgâr çıktı ve Çin ordusu iki kanattan hükümdarı kuşattı. Daha sonra Çin elçisi Kuo Chi hükümdara, savaşamıyorsa güneye dönüp Çin'e bağlanmasını söyledi. Hükümdar elçiyi kendisine getiren görevliyi hemen öldürttü, Kuo Chi'yi ise geri göndermeyip Kuzey Denizi kıyısına sürdü.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çocuk Han ve Hun sarayında Wei Lü",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Shiji'ye göre 'Çocuk Han' diye anılan hükümdar çok gençti; savaşmayı ve öldürmeyi seviyordu, halk huzursuzdu. Sol Büyük Tu-wei onu öldürüp Çin'e bağlanmak istedi ve Çin'den kendisini karşılamaya asker göndermesini istedi. Plan ortaya çıkınca hükümdar onu öldürttü. Bu iş için gönderilen Çin komutanı Chao P'o-nu yirmi binden fazla atlıyla Chün-chi dağına kadar ilerledi; dönüşte, sınırdaki kaleye 400 li kala gece su aramaya çıktığında Hunlarca yakalandı ve ordusu Hunlara yenildi.",
+              "kaynaklar": [
+                "shiji"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu bu hükümdarı O-su-lı (Wu-shih-lu, MÖ 105-102) olarak verir; ona göre Kün-çin'den sonra tahta geçen hükümdarlar dedeleri ve babalarının yerini dolduramamıştır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 41"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Han Shu'ya göre Hun sarayında Wei Lü adlı bir danışman çok etkiliydi. Tahılı saklamak için kuyular kazılmasını, surlar ve kuleler yapılmasını, bunların Çinlilerle birlikte korunmasını önerdi; ancak bu plandan sonra vazgeçildi. Bir hükümdarın ölümünde, hatunla birlikte ölümü gizleyip hükümdar adına sahte emirler çıkararak Hu-yen-ti'yi tahta geçirdi. Han Shu, Wei Lü'nün hayattayken Çin ile akrabalık yoluyla barışın yararlarını sık sık anlattığını da kaydeder.",
+              "kaynaklar": [
+                "hanshu-94"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kalkır, iki taraf arasındaki bu geçişlerin tersine de örnekler verir: Wu-di'nin yanında görev alanlar arasında Hun asıllı olanlar vardı. Hun beyi Hsiu-t'u'nun veliahdı olan Chin Mi-ti on dört yaşında Çin askerlerine teslim olmuş, önce atlara bakmakla görevlendirilmiş, sonra imparatorun güvenini kazanmıştı. Kalkır'a göre Hunlardan askerî alanda yararlanmak Çin ordusuna üstünlük sağladı.",
+              "kaynaklar": [
+                "kalkir-2021|s. 1489"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Asya Hun Devleti'nin bölünmesi ve sonu",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Han Shu'ya göre Çin MÖ 127'de Sarı Irmak'ın güneyindeki Ordos bölgesini Hunlardan aldı ve orada Şuo-fang kalesini kurdu. Komutanlar Wei Ts'ing (Wei Qing) ve Huo K'ü-ping (Huo Qubing) çölü aşarak Hunların üzerine büyük bir sefer düzenledi. Pen-şı döneminde (MÖ 73-70) Wusunlara sefer yapan Hun hükümdarı dönüşte şiddetli bir kar fırtınasına yakalandı; insanlar ve hayvanlar donarak öldü, geri dönebilenler onda birini bile bulmadı.",
+              "kaynaklar": [
+                "hanshu-94"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre MÖ 56'da tahta çıkan Ho-han-yeh Çin'e bağlanmayı düşününce buna karşı çıkanlar kardeşi Çi-çi'nin önderliğinde Batı Türkistan'a göçüp ayrı bir devlet kurdu; Çi-çi MÖ 36'da üzerine gönderilen Çin ordusuna direndi ve yenilip öldü. Hun Devleti MS 48'de kuzey ve güney olarak ikiye ayrıldı. Kuzey Hun Devleti ekonomik sıkıntılar ve Çin baskısıyla 93'te tarihe karıştı; Çin'e bağlanan Güney Hunlar ise 303'e kadar varlığını sürdürdü.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Ho-han-yeh'i MÖ 58-31, Çi-çi'yi MÖ 53-36 yılları arasında tahtta gösterir; kardeşler arasındaki çekişme Hunları iyice zayıflatmıştır. Ona göre Hunlar MS 48'de Kuzey ve Güney olarak ikiye bölünmüş, Güney Hunlar MS 216'ya kadar yaşamıştır.",
+              "kaynaklar": [
+                "kemaloglu-2023"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Çin'e bağlanma meselesi Hun meclisinde tartışıldı ve meclis ikiye bölündü. Bağımsızlıktan yana olan Çi-çi ve taraftarlarının görüşü Çin yıllıklarına şöyle geçmiştir: Hunlar cesareti ve gücü üstün tutar, başkasına bağlı olmayı en aşağılık şey sayar; devlet at sırtında savaşılarak kurulmuştur. Çin'e bağlanmak ölmüş atalara hakaret olur ve Hunları komşuları arasında gülünç duruma düşürür. Ölseler bile kahramanlıklarının şöhreti kalacak, oğulları ve torunları devletin hâkimi olacaktır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 41"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Han Shu'ya göre kar fırtınasından sonra Hunların zayıflamasından yararlanan Ting-lingler kuzeyden, Wuhuanlar doğudan, Wusunlar batıdan saldırdı; Çin de üç koldan Hun ülkesine girdi. Açlığın da eklenmesiyle halkın onda üçü, hayvanların yarısı öldü. Daha sonra Hsü-lü-ch'üan-ch'ü döneminde yaşanan başka bir kıtlıkta ise insanların ve hayvanların onda altı-yedisinin öldüğü kaydedilir.",
+              "kaynaklar": [
+                "hanshu-94"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Han Shu'ya göre Wo-yen-chü-t'i tahta çıkınca sert ve acımasız davrandı; önceki hükümdar döneminde iş başında olan ileri gelenleri öldürdü. Soylular Ho-han-yeh'i destekleyip ona saldırdı; sağ kanattaki kardeşinden yardım istedi ama alamadı. Yenilince öfkeyle canına kıydı.",
+              "kaynaklar": [
+                "hanshu-94"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Han Shu'ya göre Çin'e bağlanma tartışmasında karşı çıkanlar Hun töresinin gücü üstün tutup başkasına hizmet etmeyi aşağı gördüğünü, savaşta ölmenin yiğitlik olduğunu söyledi. Sol İ-chih-tzu ise Çin'e hizmet etmenin hayatta kalmak, etmemenin yok olmak demek olduğunu savundu. Ho-han-yeh onun görüşüne uydu, güneyde sınıra yaklaştı ve oğlunu Çin sarayına gönderdi. Çi-çi Ho-han-yeh'i yenip hükümdar ordugâhına yerleşti; ardından Wu-chieh'leri bağladı, batıda Chien-k'unları (Kırgızlar) yendi, kuzeyde Ting-lingleri kendine bağladı ve Wusunların üzerine defalarca asker gönderip onları yendi. Sonra K'ang-chü'ye gitti; Çin'in Batı Bölgeleri koruyucusu Kan Yen-shou ile yardımcısı Ch'en T'ang K'ang-chü'ye girerek Çi-çi'yi öldürdü.",
+              "kaynaklar": [
+                "hanshu-94b"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Han Shu'ya göre Çin imparatoru Yüan, sarayındaki kadınlardan Wang Ch'iang'ı (Wang Chao-chün) Ho-han-yeh'e eş olarak verdi. Wang Chao-chün 'Ning-hu hatun' diye anıldı ve Ho-han-yeh'ten bir oğlu oldu.",
+              "kaynaklar": [
+                "hanshu-94b"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Çoban, Çinli prenseslerle yapılan bu tür evliliklerin Orta Asya'da kurulan ilk Türk devletlerinde yaygın olarak uygulandığını belirtir; ona göre Attila'nın bir Roma prensesiyle evlenmek istemesi de bu geleneğin batıda sürdürülmesidir.",
+              "kaynaklar": [
+                "coban-2019|s. 66"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Sonraki Han Tarihi'ne (Hou Hanshu) göre MS 1. yüzyılın başında hüküm süren Yü döneminde Hunlar yeniden güçlendi ve Çin sınırına akınları arttı. Yü 46'da ölünce yerine oğlu Wu-ta-ti-hou, onun ardından kardeşi P'u-nu geçti; Ho-han-yeh'in torunu Pi tahttan uzak tutuldu. 48'de sekiz boy beyi Pi'yi Ho-han-yeh unvanıyla hükümdar ilan etti; Pi Çin'e bağlanıp sınırı korumayı üstlendi ve böylece Güney ve Kuzey olmak üzere iki ayrı Hun ordugâhı ortaya çıktı. 85'te Kuzey Hunlar önden Güney Hunların, arkadan Ting-linglerin, soldan Sienpilerin, sağdan Batı Bölgeleri'nin saldırısına uğrayınca uzaklara çekildi; kaynağa göre Wusun topraklarına kaçtılar. 216'da Güney Hun hükümdarı Çin sarayına geldiğinde Ts'ao Ts'ao onu Yeh kentinde alıkoydu ve Hun ülkesini yönetmek için Ch'ü-pei'yi gönderdi.",
+              "kaynaklar": [
+                "hou-hanshu-89"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Hun soyundan gelen devletler",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Hun Devleti'nin dağılmasından sonra Hunların içinden Kuzey Çin'de küçük devletler doğduğunu yazar ve Mete'nin soyundan gelen beylerin kurduğu devletler olarak I. Chao (304-329), II. Chao (319-351), Kuzey Liang (401-439) ve Hsia (407-431) devletlerini sayar. Ona göre bu dönemden sonra 552'de Göktürkler tarih sahnesine çıkarak Türk birliğini yeniden kurdu.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 42"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Çin'e bağlanan Güney Hunlar 303'e kadar varlığını sürdürdü. Hunların bir kısmı ise MS 1. yüzyılın sonlarından 2. yüzyılın ortalarına kadar Orhun bölgesinden Güney Kazakistan bozkırlarına yayıldı.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "avrupahun": {
+      "ozet": "Avrupa Hunları, 370'lerde İtil'i (Volga) geçerek önce Alanları, ardından Gotları yendi ve Avrupa tarihinin akışını değiştiren Kavimler Göçü'nü başlattı. Merkezleri Macar ovası (Tisza boyları) olan devlet, Uldız ve Rua dönemlerinde Doğu Roma'yı vergiye bağladı. Attila döneminde (434-453) Hun hâkimiyeti Ren'den Karadeniz'in kuzeyine uzandı; Balkanlar, Galya ve Kuzey İtalya'ya seferler yapıldı. Attila'nın ölümünden sonra tabi kavimlerin ayaklanmasıyla devlet dağıldı; oğlu Dengizik'in 469'da öldürülmesiyle sona erdi.",
+      "kronoloji": [
+        {
+          "yil": "370 dolayları",
+          "olay": "Hunlar Balamir önderliğinde İtil'i geçti; İtil ile Don arasındaki Alanları yenip kendilerine bağladı."
+        },
+        {
+          "yil": "374-375",
+          "olay": "Ostrogot (Doğu Got) krallığı yıkıldı, kral Ermanarik canına kıydı. Kavimler Göçü başladı."
+        },
+        {
+          "yil": "376",
+          "olay": "Hunlardan kaçan Vizigotlar (Batı Gotları) Tuna'yı geçip Roma topraklarına sığındı."
+        },
+        {
+          "yil": "378",
+          "olay": "Edirne (Hadrianopolis) Savaşı: Gotlar Roma imparatoru Valens'i yenip öldürdü; Hunların savaşa katılıp katılmadığı belirsizdir."
+        },
+        {
+          "yil": "395",
+          "olay": "İmparator I. Theodosius'un ölümüyle Roma İmparatorluğu Doğu Roma ve Batı Roma olarak ikiye ayrıldı."
+        },
+        {
+          "yil": "395",
+          "olay": "Basık ve Kursık komutasındaki Hunlar Kafkaslar üzerinden Anadolu ve Suriye'ye akın etti; başka bir kol Trakya'ya girdi."
+        },
+        {
+          "yil": "400-401",
+          "olay": "Uldız, Doğu Roma'ya isyan eden Got komutanı Gainas'ı yendi ve başını Konstantinopolis'e gönderdi."
+        },
+        {
+          "yil": "406",
+          "olay": "Uldız, İtalya'yı yağmalayan Radagais'in ordusunun yok edilmesinde Batı Roma'ya yardım etti."
+        },
+        {
+          "yil": "408-409",
+          "olay": "Uldız Tuna'yı geçip Trakya'ya girdi; barış teklifine meydan okuyarak cevap verdi."
+        },
+        {
+          "yil": "422",
+          "olay": "Rua'nın Trakya seferi: Doğu Roma yılda 350 libre altın ödemeyi kabul etti."
+        },
+        {
+          "yil": "434",
+          "olay": "Rua öldü; yeğenleri Bleda ve Attila birlikte tahta geçti."
+        },
+        {
+          "yil": "435",
+          "olay": "Margus Antlaşması: Doğu Roma'nın yıllık ödemesi 700 libre altına çıktı (yıl tartışmalı)."
+        },
+        {
+          "yil": "441-442",
+          "olay": "Birinci Balkan seferi: Sirmium, Singidunum (Belgrad), Naissus (Niş) ve başka birçok kent alındı."
+        },
+        {
+          "yil": "443",
+          "olay": "Birinci Anatolius Barışı: Birikmiş borçlar ödendi, yıllık vergi üç katına çıkarıldı."
+        },
+        {
+          "yil": "444-445",
+          "olay": "Bleda öldü; Attila tek başına hükümdar oldu."
+        },
+        {
+          "yil": "447",
+          "olay": "İkinci Balkan seferi: Hunlar Trakya'yı yağmalayıp Termopil'e kadar indi."
+        },
+        {
+          "yil": "448-449",
+          "olay": "İkinci Anatolius Barışı (yılı kaynaklarda 448 ya da 449)."
+        },
+        {
+          "yil": "449",
+          "olay": "Priskos'un da bulunduğu Doğu Roma elçiliği Attila'nın sarayına geldi; Attila'ya karşı hazırlanan suikast planı ortaya çıktı."
+        },
+        {
+          "yil": "450",
+          "olay": "Honoria, Attila'ya yüzüğünü göndererek yardım istedi. Yeni Doğu Roma imparatoru Marcianus vergiyi kesti."
+        },
+        {
+          "yil": "451",
+          "olay": "Galya seferi: Metz alındı (7 Nisan), Orléans kuşatıldı; 20 Haziran'da Katalaun Ovası Savaşı yapıldı."
+        },
+        {
+          "yil": "452",
+          "olay": "İtalya seferi: Aquileia, Milano ve Pavia alındı; Papa I. Leo'nun başında olduğu heyetle görüşüldü, Hunlar geri döndü."
+        },
+        {
+          "yil": "453",
+          "olay": "Attila, İldiko ile evlendiği gece öldü; yerine büyük oğlu İlek geçti."
+        },
+        {
+          "yil": "454",
+          "olay": "Nedao Savaşı: Gepid kralı Ardarik'in önderliğindeki tabi kavimler Hunları yendi, İlek öldü."
+        },
+        {
+          "yil": "467",
+          "olay": "İrnek Doğu Roma'yla barışıp Dobruca'ya yerleşti; Dengizik Doğu Roma'ya savaş açtı."
+        },
+        {
+          "yil": "469",
+          "olay": "Dengizik pusuya düşürülüp öldürüldü; başı Konstantinopolis'te teşhir edildi. Avrupa Hun Devleti sona erdi."
+        },
+        {
+          "yil": "476",
+          "olay": "Batı Roma İmparatorluğu'nun son imparatoru tahttan indirildi."
+        }
+      ],
+      "tarihNotu": "Bu sayfadaki bilgiler, hangi kaynaktan geldiklerine göre gruplanmıştır. Ammianus ve Jordanes'teki bilgiler Latince metinlerinden kontrol edilmiştir. Priskos'un eseri yalnızca parçalar hâlinde günümüze ulaştığı için onun aktardıkları, bu parçaları kullanan makaleler aracılığıyla verilmiştir. Ders notlarından yalnızca yayımlanmış bir kaynakla doğrulanabilen bilgiler alınmıştır.",
+      "konular": [
+        {
+          "baslik": "Avrupa Hunlarının kökeni",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Türel'e göre Hunlar Avrupa'ya tek bir halk olarak değil, farklı kökenden toplulukları içine alan bir birlik olarak geldi; Attila döneminde bu birliğin içindeki herkes, kökeni ne olursa olsun, Romalıların gözünde 'Hun' sayılıyordu.",
+              "kaynaklar": [
+                "turel-2015"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Türel'in aktardığına göre 18. yüzyılda J. de Guignes, Çin kaynaklarındaki Hiung-nu ile Avrupa'daki Hunları aynı halk saydı; L. Ligeti ve É. de la Vaissière (2005) da bu görüşü sürdürdü. De la Vaissière, Soğdça metinlerde Hiung-nu için kullanılan adın Hunların adıyla aynı olduğunu gösterdi. J. B. Bury ise Çin sınırından Rus bozkırlarına 'sıçramanın' ancak hayal gücüyle yapılabileceğini söyleyerek bu bağlantıyı reddetti; P. Heather de Roma tarihçilerine Hunları anlatırken Hiung-nu'dan söz etmemelerini önerir.",
+              "kaynaklar": [
+                "turel-2015"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Gnecchi-Ruscone ve arkadaşlarının 370 kişinin eski DNA'sını inceleyen çalışması, Karpat havzasındaki Hun dönemi nüfusunun çok karışık olduğunu ve büyük bir doğulu bozkır topluluğunun izine rastlanmadığını gösterdi. Ancak bazı Hun dönemi seçkin mezarlarındaki kişilerin, Moğolistan'daki Hiung-nu seçkinleriyle uzun ortak DNA parçaları paylaştığı, yani aralarında soy bağı bulunduğu belirlendi.",
+              "kaynaklar": [
+                "gnecchi-2025"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun Hacıfazlıoğlu'ndan aktardığına göre Türk tarihçiliğinde yaygın görüş, Avrupa Hunlarının tarihinin Asya Hunlarıyla başladığı ve Asya Hun Devleti'nin dağılmasından sonra batıya göç eden toplulukların Avrupa Hun Devleti'nin temelini oluşturduğudur.",
+              "kaynaklar": [
+                "kemaloglu-2023b"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Hunların Avrupa'ya gelişi ve Kavimler Göçü",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Ammianus'a göre Hunlar önce İtil ile Don arasında yaşayan Alanlara saldırdı ve yenilen Alanların bir kısmı onlara katıldı. Ardından Karadeniz'in kuzeyindeki Ostrogot krallığına yöneldiler; Ostrogot kralı Ermanarik (Ermenrichus) ülkesini koruyamayacağını anlayınca canına kıydı. Hunların önünden kaçan Vizigotlar 376'da Tuna'ya yığılıp Roma'dan sığınma istedi; Tuna'yı geçen Gotlar kısa süre sonra ayaklandı ve 378'de Edirne (Hadrianopolis) yakınında Roma ordusunu yendi, İmparator Valens öldü.",
+              "kaynaklar": [
+                "ammianus"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Çoban'a göre Hunlar 374-375 yıllarında Volga'nın batısına geçti, Alanları yenip Ostrogotları hâkimiyet altına aldı ve kısa zamanda Tuna ile Tisa ırmakları arasındaki sahaya yerleşti.",
+              "kaynaklar": [
+                "coban-2019"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Balamir önderliğindeki Hunların 370'te İtil'i geçtiğini ve önce Kuban ile Terek ırmakları arasında yaşayan Alanları yendiğini anlatır. At üstünde öne ve arkaya ok atabilen Hunlar karşısında, iyi süvari olan ama at üstünde ok atamayan Alanlar yenilip Hun hâkimiyetine girdi. Hunlar Alanlarla birlikte Doğu Gotlarına (Ostrogotlar) saldırdı; 17 kavmi kendine bağlamış olan bu krallık yıkıldı ve kral Ermanarik canına kıydı (373/374). Gotlar yerlerinde kalıp kendi krallarını seçebildi; ancak yeni kral Withimir devleti diriltmeye çalışınca Hunlar önce Gotlar arasında ikilik çıkardı, sonra onu savaşta öldürüp (375) yerine kendilerine bağlı Hinimund'u (Hunimund) kral yaptı.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 83-84"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Hacıfazlıoğlu'na göre Dinyeper kıyısındaki Batı Gotları (Vizigotlar) da Hunların hızlı süvari taktiği karşısında çöktü; büyük kısmı güneye kaçarak 376'da Tuna'yı geçti ve Roma'ya sığınmak istedi, bir kısmı Karpatları aşıp Macar ovasına çekildi. Hunların Gotlar, Alanlar ve Germenlerden kurduğu yardımcı kuvvetler 378 baharında Tuna'yı geçerek Trakya'ya kadar ilerledi. Roma İmparatoru I. Theodosius'un öldüğü 395'te Hunlar iki cepheden harekete geçti: Bir kol Balkanlardan Trakya'ya yürüdü, Don yöresindeki doğu kanadı ise Basık ve Kursık adlı komutanların önderliğinde Kafkasya üzerinden Anadolu'ya akın etti; bu akınlar Sasanileri de korkuttu.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 84"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Balamir kimdi?",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Gotların tarihini yazan Jordanes (551), Ostrogotlara saldıran Hun kralının adını Balamber olarak verir. Olaylara çok daha yakın bir dönemde yazan Ammianus ise Hunların Alanlara ve Ostrogotlara saldırısını ayrıntılı anlattığı hâlde Balamber adını hiç anmaz.",
+              "kaynaklar": [
+                "jordanes",
+                "ammianus"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Türk tarihçiliğinde Balamir genellikle Avrupa Hunlarının ilk hükümdarı (Dıngıl Ilgın'a göre ilk kağanı) kabul edilir. Kemaloğlu ise Hacıfazlıoğlu'nun eserini incelerken Balamir'in bir hükümdar mı yoksa bir komutan mı olduğunun bilinmediğini belirtir.",
+              "kaynaklar": [
+                "dingil-2022",
+                "kemaloglu-2023b"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Kavimler Göçü, Roma ve Germen krallıkları",
+          "gorusler": [
+            {
+              "grup": "uluslararasi",
+              "metin": "I. Theodosius 380'de Hristiyanlığı Roma'nın resmî dini yaptı; 395'te ölümüyle imparatorluk iki oğlu arasında Doğu ve Batı olarak paylaşıldı. Theodosius, imparatorluğun tamamını tek başına yöneten son imparatordu.",
+              "kaynaklar": [
+                "britannica-theodosius",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Arius, İsa'nın Baba ile aynı özden olmadığını, yaratılmış olduğunu savunuyordu; bu görüş 325'teki İznik Konsili'nde mahkûm edildi. Ariusçuluk Gotlar başta olmak üzere birçok Germen kavmi arasında yayıldı ve onların Roma topraklarında kurdukları krallıklarda uzun süre yaşadı.",
+              "kaynaklar": [
+                "britannica-arius",
+                "ders-oatt"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Frank kralı Clovis (Klodvig) Galya'nın büyük kısmını birleştirdi ve Ariusçuluğu değil Katolikliği benimsedi; bu tercih, Franklarla Roma kilisesi arasındaki yakın ilişkinin temelini attı.",
+              "kaynaklar": [
+                "britannica-clovis",
+                "ders-oatt"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Romalıların gözünde Hunlar",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Hunlar hakkındaki ilk ayrıntılı Batı kaydı Ammianus Marcellinus'a aittir. Ammianus Hunları at üstünde yaşayan, tarım bilmeyen, sabit evleri olmayan, son derece çirkin ve vahşi bir halk olarak anlatır.",
+              "kaynaklar": [
+                "ammianus"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Türel'e göre Ammianus Hunları hiç görmemiş, bilgilerini kulaktan duyduklarına ve Yunan-Roma tarihçilerinin 'barbarlar' hakkındaki kalıplaşmış anlatımlarına dayandırmıştır; tasvirleri bu yüzden abartılıdır. Hunları bizzat gören tarihçi Priskos'tur: 449'da Attila'nın sarayına giden Priskos sarayı ahşap bir yapı olarak tarif eder ve esir bir mimarın Hunlar için yaptığı bir hamamdan söz eder. Türel, Hristiyan yazarların Attila'yı 'Tanrı'nın Kırbacı' olarak andığını da belirtir.",
+              "kaynaklar": [
+                "turel-2015"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jordanes, Priskos'tan aktardığı tasvirde Attila'yı kısa boylu, geniş göğüslü, iri başlı, küçük gözlü, seyrek sakallı, basık burunlu ve esmer biri olarak anlatır.",
+              "kaynaklar": [
+                "jordanes|Getica XXXV"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Hunlarla ilgili ilk yazılı belgenin Urfalı Süryani rahip Efrem'e ait olduğunu belirtir. Efrem Hunları, haykırışları aslan kükremesine benzeyen, atlarının üstünde ufukta fırtına gibi uçan, ordularıyla yeryüzünü tufan gibi kaplayıp dehşet saçan ve silahlarına kimsenin karşı koyamadığı bir halk olarak anlatır.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 82"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Türel, Ammianus'un Hunları bodur, kalın boyunlu ve 'iki ayaklı hayvanlar' kadar çirkin; ateşe ihtiyaç duymadan kök ve at sırtında ısıttıkları yarı çiğ et yiyen, çatı altına girmeyen bir halk olarak anlattığını aktarır. Ammianus'a göre Hunlar keten ya da tarla faresi derisinden giysiler, kürk şapkalar ve keçi derisinden tozluklar giyer; alışverişi, yemeyi, uyumayı ve önemli toplantıları at sırtında yapar; kemik uçlu oklarıyla uzaktan savaşır, toprağı sürmez ve hiçbir krala boyun eğmezler. Türel'e göre bunların bir kısmı abartıdır: Priskos'un 448'de gördüğü Hunlar evlerde yaşıyordu. Etin eyer altında 'ısıtılması' da bazı etnografi uzmanlarınca, atın sırtında yara açılmasını önlemek için eyer altına et konmasıyla açıklanır.",
+              "kaynaklar": [
+                "turel-2015|s. 334-335"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Türel'e göre Ammianus'un Hunların hiçbir inanca bağlı olmadığı yolundaki sözü de yanlıştır: Attila Katalaun Savaşı'ndan önce falcılara başvurmuştur ve Hunların Tengricilik denen bir inanca bağlı olduğu bilinir. Gotları öven Jordanes ise Hunların kökenini, Got kralının kovduğu cadılarla ruhların birleşmesine bağlayan bir efsane anlatır; onlara göre Hunlar avcılıktan başka iş bilmeyen, esmer, çevik, geniş omuzlu atlılardır. Türel, bu anlatımları Yunan-Roma yazarlarının 'barbar' kalıplarının bir parçası olarak değerlendirir.",
+              "kaynaklar": [
+                "turel-2015|s. 336, 339-340"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Uldız, Karaton, Rua ve Oktar",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun Hacıfazlıoğlu'ndan aktardığına göre Roma kaynaklarında adı geçen ilk Hun önderi Uldız'dır (Uldin); adı 'yıldız' kelimesiyle ilişkilendirilir. 395'te Basık ve Kursık komutasındaki Hunlar Kafkaslar üzerinden Anadolu ve Suriye'ye akın etti. Uldız 400'de Doğu Roma'ya isyan eden Got komutanı Gainas'ı öldürüp başını Konstantinopolis'e gönderdi, 406'da İtalya'yı yağmalayan Radagais'in ordusunun yok edilmesinde Batı Roma'ya yardım etti. Barış için gönderilen Roma elçilerine doğan güneşi göstererek güneşin doğduğu yerden battığı yere kadar her yeri fethedebileceğini söylediği rivayet edilir.",
+              "kaynaklar": [
+                "kemaloglu-2023b"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Yine Kemaloğlu'nun aktardığına göre Uldız'dan sonra Karaton, 420'lerde de Attila'nın amcaları Rua ve Oktar Hunların başındaydı; Attila'nın babası Muncuk onların kardeşiydi. Rua'nın 422'deki Trakya seferinin sonunda Doğu Roma her yıl 350 libre altın ödemeyi kabul etti.",
+              "kaynaklar": [
+                "kemaloglu-2023b"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Yurdakul'a göre Batı Roma'nın güçlü komutanı Aetius, Hunlarla kurduğu yakın ilişki sayesinde Hun askerlerinden yararlandı ve Hun desteğiyle Ravenna'daki gücünü yeniden ele geçirdi.",
+              "kaynaklar": [
+                "yurdakul-2023"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Uldız'ın Balamir'in oğlu ya da torunu olduğunu ve Hunların batı kanadından sorumlu olarak Roma ile ilişkileri yürüttüğünü yazar. Uldız'ın koyduğu dış politika ilkesi Attila döneminde de sürdü: Doğu Roma sürekli baskı altında tutulacak, Batı Roma ile iyi ilişkiler korunacaktı. Uldız 404-405'te ve özellikle 409'da Tuna'yı geçerek Moesia'daki Castra Martis kalesini aldı ve Trakya'ya ilerledi. Eserde Peter Heather'ın, Konstantinopolis surlarının Hun saldırıları karşısında 410'da yapıldığı yolundaki görüşü de aktarılır.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 84-86"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Hacıfazlıoğlu'na göre Attila'nın amcası Rua, Doğu Roma'nın Hun topraklarındaki kavimleri birbirine düşürmek için casusluk yaptığı gerekçesiyle 422'de Balkan seferine çıktı ve Doğu Roma'yı yılda 350 libre altın ödemeye bağladı; Priskos bu barışı 'Rua'dan barışı 350 libre altınla satın alan II. Theodosius' sözleriyle anar. Rua 434 ya da 435 baharında öldü. Hunların Trakya'yı yakıp Konstantinopolis'e yürüdüğü sırada gelen bu ölüm Doğu Roma'da sevinçle karşılandı; patrik Proclus vaazlarında Tanrı'nın imparatorun dualarını kabul ettiğini söyledi.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 86-87"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Attila ve Bleda: Margus Antlaşması ve Balkan seferleri",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Margus'taki barış görüşmesini Hun hükümdarları at üstünde yürüttü; Roma elçileri de aşağıda kalmamak için at sırtında konuşmak zorunda kaldı. Antlaşmanın yılı kaynaklarda farklıdır: Hacıfazlıoğlu 435'i verir; Yurdakul, W. Herbert'in antlaşmayı 439'a yerleştirdiğini belirtir.",
+              "kaynaklar": [
+                "kemaloglu-2023b",
+                "yurdakul-2023"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Dıngıl Ilgın'a göre antlaşmayla Doğu Roma'nın yıllık ödemesi 700 libre altına çıktı. 441'deki seferde Sirmium gibi iyi tahkim edilmiş birçok kent alındı; sefer Anatolius Barışı ile sona erdi.",
+              "kaynaklar": [
+                "dingil-2022"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Yurdakul'a göre Attila 444-445'te tek başına hükümdar oldu. 447'deki ikinci büyük Balkan seferinde Hunlar Arcadiopolis'e (Lüleburgaz) kadar geldi. Vergiyi ödeyebilmek için Konstantinopolisli zenginler eşlerinin mücevherlerini satmak zorunda kaldı. İkinci Anatolius Barışı'nın yılı kesin değildir; Yurdakul 448 ya da 449'u muhtemel görür.",
+              "kaynaklar": [
+                "yurdakul-2023"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Attila ile Bleda'nın Roma elçilerini Margus kentinin surları dışında karşıladığını ve dinlenmelerine bile izin vermeden barış şartlarını at üstünden yazdırdığını anlatır. Antlaşmaya göre Romalılar Hun ülkesinden kaçanları barındırmayıp geri verecek, Hunların savaştığı hiçbir halkla ittifak yapmayacak, Hun tüccarlarına Romalı tüccarlarla eşit şartlarda ticaret hakkı tanınacak ve 350 libre altın olan yıllık vergi iki katına çıkarılacaktı. Eserde Macar tarihçi Peter Váczy'nin bu antlaşmayı Bizans için son derece onursuz, ama korkunun hâkim olduğu ortamda kabul edilmek zorunda kalınmış bir antlaşma olarak gördüğü aktarılır.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 88"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Hacıfazlıoğlu'na göre Akdeniz'deki hareketini Bizans'ın engellediği Kuzey Afrika Vandal kralı Geiserik Attila'dan yardım istedi; Attila önce Margus'u alarak 441-442'deki ilk Balkan seferini başlattı, Belgrad ve Niş üzerinden Trakya'ya yönelmişken Batı Roma'nın aracılığıyla seferi durdurdu. Roma ordularının başkomutanı Aetius, Doğu Roma'nın Margus Antlaşması'na uyacağına güvence olarak kendi oğlunu Hun sarayına rehin gönderdi.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 88-89"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Priskos'un Attila'nın sarayına ziyareti (448)",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Türel'e göre Priskos'un eserinin en değerli bölümü, 448'de Konstantinopolis'ten Attila'nın sarayına giden elçilik heyetini anlatan sekizinci bölümdür. Heyet Attila'nın kampına vardığında çadırını kurmak istediği yer Attila'nın çadırından yüksekte olduğu için izin alamadı: Hunlara göre Attila Tanrı'nın yeryüzündeki yetkisini taşıyordu ve onun üstüne çadır kurulamazdı. Hunlara bağlı Akatirlerin önderi Kuridakhus, Attila'nın huzuruna çağrıldığında 'İnsan güneşe bakamazken tanrıların en büyüğüne nasıl bakar?' diye cevap vermişti. Attila sarayına döndüğünde onu beyaz tüllerle örtülü yedi genç kız karşıladı; Onegesius'un eşi ve hizmetçileri de at üstündeki Attila'ya yiyecek ve şarap sundu.",
+              "kaynaklar": [
+                "turel-2015|s. 337"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Türel'e göre Priskos, Hunların ev yaşamını da anlatır. Attila'nın eşlerinden Kreka'nın evinin zemini üstüne basılabilen yün halılarla kaplıydı; Hunlar medus denen bal şarabı ve kamum denen arpa içkisi içer, ekmek yerine darı yerdi. Romalılar bir köyde fırtınaya yakalanınca Attila'nın ölmüş kardeşi Bleda'nın dul eşi onlara yiyecek ve içecek göndererek misafirperverlik gösterdi. Attila'nın sarayı işlemeli direkleri olan ahşap bir yapıydı; süslü çitlerle çevriliydi ve gözetleme kuleleri vardı. Sirmium'da esir düşen bir mimarın yaptığı bir hamam da bulunuyordu. Türel'e göre Attila zamanında Hunlar yarı yerleşik bir hayata geçmişti; köyleri ve karargâhları vardı. Priskos, Attila'nın Kreka'dan başka eşleri olduğunu da yazar; Türel bu çok eşliliği siyasi evlilikler olarak değerlendirir.",
+              "kaynaklar": [
+                "turel-2015|s. 337-338"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Türel'e göre Priskos'un katıldığı ziyafette konuklar yerlerine oturmadan önce kadehleriyle Attila'yı selamladı ve bu her kadehte tekrarlandı. Attila'dan sonra en onurlu yer sağ taraf, ardından sol taraftı; Attila'nın sağında en büyük ve en sevdiği oğlu İlek oturuyordu. Attila'nın tacı yoktu; giysileri, ayakkabıları, kılıcının kabzası ve kını askerlerininkinden farksızdı ve yemeğini tahta bir kaptan yerdi; konuklara ise yiyecek gümüş tabaklarda sunuldu. Türel, bu sadeliğin altın ve zenginlikleriyle ünlü Pers ve Roma hükümdarlarıyla tam bir karşıtlık oluşturduğunu belirtir. Priskos'un anlatımından sarayda Hunca'nın yanında Latince, Yunanca ve Gotça konuşulduğu da anlaşılır.",
+              "kaynaklar": [
+                "turel-2015|s. 338-339"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Attila'nın sarayı ve devlet düzeni",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Kaynaklarda Attila'nın çevresinde farklı kökenlerden insanlar görülür. Türel'in incelediği Priskos anlatısında Onegesius Attila'nın yakınındaki Hunlardan biri olarak geçer. Dıngıl Ilgın'a göre 448'de Hun yurduna gelen elçilik heyetinde Edekon ve Orestes de vardı. Yurdakul'a göre 451'deki Katalaun Ovası Savaşı'nda Hun ordusunun sağ kanadını Ardarik'in önderliğindeki Gepidler ve öteki müttefikler, sol kanadını ise Valamer'in yönettiği Ostrogotlar tutuyordu.",
+              "kaynaklar": [
+                "turel-2015|s. 337",
+                "dingil-2022|s. 686",
+                "yurdakul-2023|s. 247"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Dıngıl Ilgın'a göre 449'da Doğu Roma sarayı, elçi olarak gelen Edekon'u Attila'yı öldürmesi için ikna etmeye çalıştı; Edekon planı Attila'ya anlattı ve suikast girişimi sonuçsuz kaldı.",
+              "kaynaklar": [
+                "dingil-2022"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Attila'nın kudreti ve 'Tanrı'nın kılıcı'",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, 445'te Bleda'nın ölümüyle Attila'nın tek başına hükümdar kaldığını ve bu dönemde Batı Asya'dan Orta Avrupa'ya uzanan bir alana hâkim olduğunu yazar. Dönemin inancına göre dünyayı fethetmek isteyen kişinin savaş tanrısının kılıcına sahip olması gerekiyordu; bir çobanın bulup Attila'ya getirdiği bu kılıçla Attila'ya yeryüzüne hükmetme yetkisinin Tanrı tarafından verildiğine inanıldı. Hacıfazlıoğlu, Attila'nın böylece önce insanların inanç dünyasını fethettiğini ve siyaseti ustalıkla kullandığını düşünür.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 89"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Türel'e göre Jordanes, Priskos'tan aldığı bilgilerle Attila'yı 'bütün İskit kavimlerinin tek hükümdarı' ve 'bütün barbar dünyasının kralı' olarak anar. Jordanes'in aktardığı efsanede savaş tanrısı Mars'ın kılıcı kendisine getirildiğinde Attila buna sevinir ve bütün dünyanın efendisi olarak seçildiğine inanır. Jordanes Attila'yı kibirli yürüyüşlü, gözlerini sürekli çevresinde gezdiren, savaş sanatını seven ama ölçülü davranan, öğütleri güçlü, aman dileyenlere karşı yumuşak biri olarak anlatır. Türel, Augustinus'un aslında Alarik için kullandığı 'flagellum Dei' (Tanrı'nın kırbacı) lakabının sonradan daha çok Attila ile özdeşleştiğini belirtir.",
+              "kaynaklar": [
+                "turel-2015|s. 340"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Honoria meselesi ve Batı'ya yöneliş",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Yurdakul'a göre Batı Roma Attila'ya 'magister militum' unvanını vermişti. 450'de Doğu Roma'da tahta çıkan Marcianus vergiyi ödemeyi reddetti; ona atfedilen söze göre Attila'ya verecek altını yok, demiri vardı. Batı Roma imparatoru III. Valentinianus'un kız kardeşi Honoria, istemediği bir evliliğe zorlanınca Attila'ya yüzüğünü göndererek yardım istedi. Attila bunu bir evlenme teklifi sayıp Honoria'yı ve ona düşen payı istedi; Batı Roma reddetti. Yurdakul'a göre bir Roma prensesiyle evlilik Attila'ya imparatorlarla eşit bir konum sağlayabilirdi ve Attila bu meseleyi Batı Roma'yı baskı altına almak için kullandı.",
+              "kaynaklar": [
+                "yurdakul-2023"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Çoban da bu evlilik meselesini Hun-Batı Roma ilişkilerinin kırılma noktalarından biri olarak inceler.",
+              "kaynaklar": [
+                "coban-2019"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Çoban'ın aktardığına göre III. Valentinianus'un kız kardeşi Justa Grata Honoria 426'da Augusta unvanını almıştı; ama çocuklarının ileride taht iddia etmesinden çekinildiği için evlenmesine izin verilmedi. 449'da kendi mülklerinin yöneticisi Eugenius ile yaşadığı ilişki imparatora karşı bir komplo olarak görüldü: Eugenius öldürüldü, Honoria unvanından yoksun bırakılıp saraydan uzaklaştırıldı ve zengin senatör Flavius Bassus Herculanus ile evlenmeye zorlandı. Honoria bunun üzerine Hyacinthus adlı adamını bir miktar para ve yüzüğüyle Attila'ya gönderip yardım istedi.",
+              "kaynaklar": [
+                "coban-2019|s. 60-61"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Çoban'a göre Attila bu yardım isteğini bir evlenme teklifi saydı ve Honoria'yı, çeyiz olarak da başta Galya olmak üzere Batı Roma topraklarının yarısını istedi. Valentinianus, Honoria'nın evli olduğunu, evli birinin yeniden evlenemeyeceğini ve istenen devlet topraklarının aile malı olmadığını bildirerek reddetti; Attila'ya haber götüren hizmetkâr idam edildi, Honoria ise annesinin araya girmesiyle kurtuldu. Attila 451'de batı seferine çıkarken yüzüğü kanıt göstererek nişanlısının teslimini yeniden istedi. Çoban, Attila'nın bu evlilikle Roma imparatorlarıyla eşit sayılmayı ve Avrupa'da iki Roma'nın yanında üçüncü büyük güç olmayı amaçladığını; Valentinianus'un altı yaşındaki kızını bir Vandal prensiyle nişanlamasının da Attila'yı bir Roma prensesi istemeye yönelttiğini belirtir.",
+              "kaynaklar": [
+                "coban-2019|s. 61-63"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Çoban'a göre Attila kendini Gök Tanrı'nın oğlu saydığı için Doğu Roma'nın kendisine sıradan kişileri elçi olarak göndermesini hakaret kabul eder, yüksek rütbeli elçilere ise daha nazik davranırdı. Doğu Roma, Attila'ya ödediği yıllık vergiyi görünüşü kurtarmak için bir hizmet karşılığı gibi duyuruyordu. Çoban, Attila'nın bir Roma prensesiyle evlenmek istemesini, Asya Hunlarının Çinli prenseslerle evlenme geleneğinin batıda sürdürülmesi olarak da yorumlar.",
+              "kaynaklar": [
+                "coban-2019|s. 60, 65-66"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Galya seferi ve Katalaun Ovası Savaşı (451)",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Yurdakul ve Dıngıl Ilgın'a göre Attila 451 baharında Galya'ya girdi, 7 Nisan'da Metz'i aldı ve Orléans'a kadar ilerledi. Aetius ile Vizigot kralı Theodorik'in ordusu yetişince geri çekildi; iki ordu 20 Haziran 451'de Katalaun Ovası'nda karşılaştı. Savaşta Vizigot kralı Theodorik öldü.",
+              "kaynaklar": [
+                "yurdakul-2023",
+                "dingil-2022"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jordanes'e göre Attila savaştan önce fal baktırmış; falcılar Hunların yenileceğini, ama düşman komutanlarından birinin öleceğini söylemişti. Jordanes iki tarafın kaybını 165.000 kişi olarak verir.",
+              "kaynaklar": [
+                "jordanes"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Yurdakul'un aktardığına göre kaynaklardaki 500.000 kişilik Hun ordusu rakamı çok abartılıdır: S. Macdowall 20.000-40.000, H. Kennedy 30.000 kadar bir sayı tahmin eder; N. Fields ise Hun gücünün verilen rakamın beşte biri olabileceğini belirtir.",
+              "kaynaklar": [
+                "yurdakul-2023"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Savaşı kimin kazandığı tartışmalıdır. Jordanes ve Prosper savaşı Roma-Vizigot ittifakının zaferi olarak anlatır. Yurdakul'un aktardığına göre N. Fields kazananın belli olmadığını düşünür; T. Kaçar ise savaşın tek kaybedeninin Attila olmadığını belirtir. Yurdakul bu görüşü daha makul bulur ve Attila'nın ertesi yıl İtalya'ya sefer yapabilmesini gücünü koruduğunun kanıtı sayar.",
+              "kaynaklar": [
+                "yurdakul-2023"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Attila'nın ittifaklarla kurduğu büyük orduyu Asya Hunlarında olduğu gibi sağ ve sol kol olarak ikiye ayırdığını yazar. Attila, işler kötüye giderse gecenin karanlığından yararlanıp çekilebilmek için savaşı öğleden sonra geç bir saate kadar başlatmadı. Jordanes'in aktardığı konuşmasında Attila askerlerine, bunca ulusu yendikten sonra sözle cesaretlendirilmeye ihtiyaçları olmadığını, savaşın onların yaşayış biçimi olduğunu söyler ve düşmana ilk mızrağı kendisinin atacağını, Attila savaşırken geride duranın zaten ölmüş sayılacağını ekler. Türel de aynı konuşmayı Jordanes'ten aktarır.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 89",
+                "turel-2015|s. 340"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "İtalya seferi ve Papa Leo (452)",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Yurdakul, Esmen ve Dıngıl Ilgın'ın anlattığına göre Attila 452'de İtalya'ya girdi. İlk hedef olan Aquileia uzun süre direndi; rivayete göre Attila, yavrularıyla kentten uçup giden leylekleri göstererek askerlerini yeniden saldırıya geçirdi ve kent alındı. Hunlar ardından Po ovasındaki kentleri ve Milano'yu aldı. Attila, Mincio ırmağının Po'ya karıştığı yerin yakınında Papa I. Leo'nun başında olduğu Batı Roma heyetiyle görüştü ve İtalya'dan çekildi.",
+              "kaynaklar": [
+                "yurdakul-2023",
+                "esmen-2025",
+                "dingil-2022"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Çekilmenin sebebi kaynaklarda farklı anlatılır. Prosper ve Jordanes bunu Papa Leo'nun öğütlerine bağlar. Hydatius ise Hunların İtalya'da kıtlık ve salgından büyük zarar gördüğünü, Doğu Roma'nın gönderdiği birliklerin de Hun topraklarına saldırdığını yazar. Yurdakul'a göre çekilmeyi yalnızca Papa Leo'ya bağlamak yanlıştır; sefer Hunlar açısından ganimet ve prestij bakımından başarılı olmuştur. Esmen de seferin sonuçlarını ve barışın nasıl sağlandığını ayrıca inceler.",
+              "kaynaklar": [
+                "yurdakul-2023",
+                "esmen-2025"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Attila'nın ölümü ve adı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jordanes'e göre Attila 453'te İldiko adlı genç bir kadınla evlendiği gece, sık yaşadığı burun kanaması boğazına dolarak öldü. Hunlar yüzlerini keserek yas tuttu; mezarı başında 'strava' denen bir şölen yapıldı. Attila altın, gümüş ve demirden üç iç içe tabuta konarak gece gizlice gömüldü; mezarı hazırlayanlar yeri bilinmesin diye öldürüldü.",
+              "kaynaklar": [
+                "jordanes|Getica XLIX"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun Hacıfazlıoğlu'ndan aktardığına göre Attila adı, Volga'nın Türkçe adı Etil/İtil ile ilişkilendirilir; Etil 'büyük ırmak' anlamına da gelir.",
+              "kaynaklar": [
+                "kemaloglu-2023b"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Grimm kardeşlerin ortaya attığı ve Maenchen-Helfen'in desteklediği görüşe göre ad, Gotçada 'baba' anlamına gelen atta kelimesine küçültme eki getirilerek oluşmuş bir lakaptır. O. Pritsak ise adı 'evrensel hükümdar' anlamında Türkçe bir unvan olarak açıklamıştır. (Bu bilgi akademik bir makaleden değil, bir ansiklopedi maddesinden alınmıştır.)",
+              "kaynaklar": [
+                "vikipedi-attila-adi"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Attila'nın 400'lerin başında Macar ovasında doğduğunu, babasının Muncuk olduğunu, annesinin adının ise bilinmediğini yazar. Ona göre Attila iyi yetişmiş bir hanedan üyesiydi; Ammianus'un anlattığı türden yurtsuz, yarı aç bir 'barbar' çocuğu değildi. Ölümü konusunda da farklı görüşler vardır: Bazı kaynaklar bilinmeyen bir hastalıktan öldüğünü, bazıları ise eşi tarafından öldürüldüğünü ileri sürer.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 87, 90"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Macar Türkolog Gyula Németh, Attila'ya Türkler arasında 'Ata' adının verildiğini ve bu adın Gotlar arasında Attila biçimine girdiğini savunur; Németh'e göre bu bir yetişkinlik adıdır, Attila'nın çocukken başka adları da olmalıdır. Fransız Türkolog Jean-Paul Roux da Volga'nın Türkçe adı İdil/Etil'in bu adla ilişkilendirildiğini belirtir.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 87"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Attila'nın cenazesi",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Priskos'a dayanarak Attila'nın cenaze törenini şöyle anlatır: Attila'nın bedeni altından, gümüşten ve sağlam demirden yapılmış üç tabuta konuldu. Demir, onun boyun eğdirdiği halkları; altın ve gümüş, iki Roma imparatorluğundan aldığı onur paylarını simgeliyordu. Mezarı hazırlayanlar, yeri bilinmesin diye defin biter bitmez öldürüldü. Hacıfazlıoğlu, mezar yerini gizlemek için benzer bir uygulamanın Cengiz Han'ın cenazesinde de görüldüğünü belirtir.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 90-91"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Devletin dağılışı: İlek, Dengizik ve İrnek",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Attila'nın ölümünden sonra güçlü bir liderin çıkmamasını, oğulları arasındaki taht kavgalarını ve Hunlara bağlı kavimlerin ayaklanmasını devletin dağılmasının sebepleri olarak gösterir. Yurdakul'a göre tabi halklar 454'te Nedao Irmağı kıyısında Hunları yendi ve Attila'nın oğlu İlek bu savaşta öldü; kardeşleri daha önce Gotların yurdu olan Karadeniz kıyılarına çekildi.",
+              "kaynaklar": [
+                "kemaloglu-2023b|s. 91",
+                "yurdakul-2023|s. 255"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre İrnek Karadeniz'in kuzeyine döndü ve buradaki Ogurlarla karışan Hunlar Bulgarları oluşturdu. Dengizik ise 468'de Bizans'a yenilip esir düştü ve İstanbul'a götürülerek idam edildi.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Avrupa tarihine etkileri",
+          "gorusler": [
+            {
+              "grup": "makale",
+              "metin": "Yurdakul'a göre Batı Roma'nın 476'daki yıkılışının tek nedeni Attila olmasa da Hunlar bu süreci hızlandırdı. Kemaloğlu'nun aktardığına göre Konstantinopolis'in surları da Hun saldırılarının gölgesinde, 410'da inşa edilmiştir.",
+              "kaynaklar": [
+                "yurdakul-2023",
+                "kemaloglu-2023b"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

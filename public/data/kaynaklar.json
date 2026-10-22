@@ -1,0 +1,440 @@
+{
+  "shiji": {
+    "kunye": "Sima Ts'ien (Sima Qian), Shiji (Tarih Kayıtları), Bölüm 110: Hiung-nu Lie-çuan (Hunlar), MÖ 1. yüzyıl. Hunlar hakkındaki temel Çin kaynağı; Çince özgün metin, Vikikaynak",
+    "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7110",
+    "kisa": "Shiji 110",
+    "grup": "ana"
+  },
+  "hanshu-94": {
+    "kisa": "Han Shu 94A",
+    "kunye": "Ban Gu, Han Shu (Han Hanedanı Tarihi), Bölüm 94A: Hunlar, MS 1. yüzyıl; Çince özgün metin, Vikikaynak",
+    "url": "https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7094%E4%B8%8A",
+    "grup": "ana"
+  },
+  "hou-hanshu": {
+    "kisa": "Hou Hanshu 90",
+    "kunye": "Fan Ye, Hou Hanshu (Sonraki Han Hanedanı Tarihi), Bölüm 90: Wuhuan ve Siyenpiler, MS 5. yüzyıl; Çince özgün metin, Vikikaynak",
+    "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B790",
+    "grup": "ana"
+  },
+  "ammianus": {
+    "kisa": "Ammianus XXXI",
+    "kunye": "Ammianus Marcellinus, Res Gestae, XXXI. kitap, 2-3. bölümler (Hunlar, Alanlar ve Gotlar), MS 4. yüzyılın sonu; Latince metin ve İngilizce çeviri, LacusCurtius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ammian/31*.html",
+    "grup": "ana"
+  },
+  "jordanes": {
+    "kisa": "Jordanes, Getica",
+    "kunye": "Jordanes, Getica (Gotların Kökeni ve İşleri), 551; Attila ile ilgili bölümlerde Priskos'un kayıp eserinden yararlanır. Latince metin, The Latin Library",
+    "url": "https://www.thelatinlibrary.com/iordanes1.html",
+    "grup": "ana"
+  },
+  "herodot": {
+    "kunye": "Herodotos, Tarih (Historiai), I. ve IV. kitaplar, MÖ 5. yüzyıl; A. D. Godley'nin İngilizce çevirisi, Perseus Dijital Kütüphanesi",
+    "kisa": "Herodot",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126",
+    "grup": "ana"
+  },
+  "diodoros": {
+    "kunye": "Diodoros Sikeliotes, Bibliotheke Historike (Tarih Kitaplığı), II. kitap, MÖ 1. yüzyıl",
+    "kisa": "Diodoros",
+    "grup": "ana"
+  },
+  "mela-plinius": {
+    "kunye": "Pomponius Mela, De Chorographia, I.116 (MS 1. yüzyıl) ve Plinius, Naturalis Historia, VI.19 (MS 1. yüzyıl)",
+    "kisa": "Pomponius Mela, Plinius",
+    "grup": "ana"
+  },
+  "vovin-2000": {
+    "kisa": "Vovin 2000",
+    "kunye": "Alexander Vovin, \"Did the Xiong-nu Speak a Yeniseian Language?\", Central Asiatic Journal, 44/1 (2000), s. 87-104",
+    "grup": "uluslararasi"
+  },
+  "dicosmo-2002": {
+    "kisa": "Di Cosmo 2002",
+    "kunye": "Nicola Di Cosmo, Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History, Cambridge: Cambridge University Press, 2002",
+    "grup": "uluslararasi"
+  },
+  "gnecchi-2025": {
+    "kisa": "Gnecchi-Ruscone vd. 2025",
+    "kunye": "Guido Alberto Gnecchi-Ruscone ve diğerleri, \"Ancient genomes reveal trans-Eurasian connections between the European Huns and the Xiongnu Empire\", Proceedings of the National Academy of Sciences (PNAS), 122 (2025), e2418485122",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11892651/",
+    "grup": "uluslararasi"
+  },
+  "vikipedi-attila-adi": {
+    "kisa": "Vikipedi: Attila (name)",
+    "kunye": "\"Attila (name)\", İngilizce Vikipedi maddesi (genel başvuru kaynağı; akademik değildir, içindeki görüşlerin kaynakları maddede verilir)",
+    "url": "https://en.wikipedia.org/wiki/Attila_(name)",
+    "grup": "uluslararasi"
+  },
+  "iranica-iskitler": {
+    "kunye": "\"SCYTHIANS\", Encyclopædia Iranica, çevrimiçi baskı (2018)",
+    "kisa": "Encyclopædia Iranica, \"Scythians\"",
+    "url": "https://iranicaonline.org/articles/scythians",
+    "grup": "uluslararasi"
+  },
+  "iranica-iskit-dili": {
+    "kunye": "\"SCYTHIAN LANGUAGE\", Encyclopædia Iranica, çevrimiçi baskı",
+    "kisa": "Encyclopædia Iranica, \"Scythian Language\"",
+    "url": "https://iranicaonline.org/articles/scythian-language",
+    "grup": "uluslararasi"
+  },
+  "iranica-kimmerler": {
+    "kunye": "\"CIMMERIANS\", Encyclopædia Iranica, çevrimiçi baskı",
+    "kisa": "Encyclopædia Iranica, \"Cimmerians\"",
+    "url": "https://iranicaonline.org/articles/cimmerians-nomads",
+    "grup": "uluslararasi"
+  },
+  "shimunek-2017": {
+    "kunye": "Andrew Shimunek, Languages of Ancient Southern Mongolia and North China, Wiesbaden: Harrassowitz, 2017",
+    "kisa": "Shimunek (2017)",
+    "grup": "uluslararasi"
+  },
+  "gnecchi-2022": {
+    "kunye": "Guido Alberto Gnecchi-Ruscone ve diğerleri, \"Ancient genomes reveal origin and rapid trans-Eurasian migration of 7th century Avar elites\", Cell, 185/8 (2022), s. 1402-1413",
+    "kisa": "Gnecchi-Ruscone vd. (2022)",
+    "url": "https://doi.org/10.1016/j.cell.2022.03.007",
+    "grup": "uluslararasi"
+  },
+  "aapa-2019": {
+    "kunye": "American Association of Physical Anthropologists (bugün Biological Anthropologists), \"AAPA Statement on Race and Racism\" (2019)",
+    "kisa": "AAPA (2019)",
+    "url": "https://bioanth.org/about/position-statements/aapa-statement-race-and-racism-2019/",
+    "grup": "uluslararasi"
+  },
+  "britannica-arius": {
+    "kunye": "\"Arianism\", Encyclopædia Britannica",
+    "kisa": "Britannica, \"Arianism\"",
+    "url": "https://www.britannica.com/topic/Arianism",
+    "grup": "uluslararasi"
+  },
+  "britannica-theodosius": {
+    "kunye": "\"Theodosius I\", Encyclopædia Britannica",
+    "kisa": "Britannica, \"Theodosius I\"",
+    "url": "https://www.britannica.com/biography/Theodosius-I",
+    "grup": "uluslararasi"
+  },
+  "britannica-clovis": {
+    "kunye": "\"Clovis I\", Encyclopædia Britannica",
+    "kisa": "Britannica, \"Clovis I\"",
+    "url": "https://www.britannica.com/biography/Clovis-I",
+    "grup": "uluslararasi"
+  },
+  "yenisafak-2008": {
+    "kisa": "Yeni Şafak 2008",
+    "kunye": "\"Kara Kuvvetleri neden 2217 yaşında? İşte cevabı\", Yeni Şafak, 28.06.2008 (gazete haberi)",
+    "url": "https://www.yenisafak.com/gundem/kara-kuvvetleri-neden-2217-yasinda-iste-cevabi-125775",
+    "grup": "turk"
+  },
+  "durmus-iskit": {
+    "kunye": "İlhami Durmuş, \"İskit Askerî Gücü\", Türk Tarih Kurumu yayını, s. 233-248 (TTK internet sitesinde, 2022)",
+    "kisa": "Durmuş, \"İskit Askerî Gücü\"",
+    "url": "https://www.ttk.gov.tr/wp-content/uploads/2022/03/11-IlhamiDurmus.pdf",
+    "grup": "turk"
+  },
+  "dia-oguzlar": {
+    "kunye": "Faruk Sümer, \"Oğuzlar\", TDV İslâm Ansiklopedisi, c. 33 (2007), s. 325-330",
+    "kisa": "Sümer, \"Oğuzlar\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/oguzlar",
+    "grup": "turk"
+  },
+  "dia-kipcaklar": {
+    "kunye": "Muallâ Uydu Yücel; A. Azmi Bilgin – Necmettin Hacıeminoğlu, \"Kıpçaklar\", TDV İslâm Ansiklopedisi, c. 25 (2002), s. 419-423",
+    "kisa": "\"Kıpçaklar\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/kipcaklar",
+    "grup": "turk"
+  },
+  "dia-selcuklular": {
+    "kunye": "Faruk Sümer; Osman Gazi Özgüdenli, \"Selçuklular\", TDV İslâm Ansiklopedisi, c. 36 (2009), s. 365 vd.",
+    "kisa": "\"Selçuklular\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/selcuklular",
+    "grup": "turk"
+  },
+  "dia-yafes": {
+    "kunye": "Ömer Faruk Harman, \"Yâfes\", TDV İslâm Ansiklopedisi (2013)",
+    "kisa": "Harman, \"Yâfes\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/yafes",
+    "grup": "turk"
+  },
+  "dia-derbend": {
+    "kunye": "Saleh Muhammedoğlu Aliev, \"Derbend\", TDV İslâm Ansiklopedisi, c. 9 (1994)",
+    "kisa": "Aliev, \"Derbend\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/derbend--dagistan",
+    "grup": "turk"
+  },
+  "dia-zulkarneyn": {
+    "kunye": "Mustafa Öztürk, \"Zülkarneyn\", TDV İslâm Ansiklopedisi, c. 44, s. 564-567",
+    "kisa": "Öztürk, \"Zülkarneyn\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/zulkarneyn",
+    "grup": "turk"
+  },
+  "dia-sedd": {
+    "kunye": "\"Sedd-i İskender\", TDV İslâm Ansiklopedisi",
+    "kisa": "\"Sedd-i İskender\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/sedd-i-iskender",
+    "grup": "turk"
+  },
+  "dia-tatarlar": {
+    "kunye": "Faruk Sümer, \"Tatarlar\", TDV İslâm Ansiklopedisi",
+    "kisa": "Sümer, \"Tatarlar\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/tatarlar",
+    "grup": "turk"
+  },
+  "kemaloglu-2023": {
+    "kunye": "Muhammet Kemaloğlu, \"Asya Türk Hun İmparatorluğu\" (Erkan Hacıfazlıoğlu, Altınordu Yay., 2019) kitap incelemesi, Uluslararası Türk Dünyası Bilimsel Araştırmalar Dergisi, 4/1 (2023), s. 35-43",
+    "url": "https://dergipark.org.tr/tr/pub/turkuaz/article/1225033",
+    "kisa": "Kemaloğlu 2023",
+    "grup": "makale"
+  },
+  "kemaloglu-2023b": {
+    "kisa": "Kemaloğlu 2023b",
+    "kunye": "Muhammet Kemaloğlu, \"Avrupa Türk-Hun İmparatorluğu\" (Erkan Hacıfazlıoğlu, Altınordu Yay., 2019) kitap incelemesi, Takvim-i Vekayi, 11/1 (2023), s. 81-93",
+    "url": "https://dergipark.org.tr/tr/download/article-file/2855861",
+    "grup": "makale"
+  },
+  "sengul-2024": {
+    "kisa": "Şengül 2024",
+    "kunye": "Fatih Şengül, \"Reinterpretation of Hunnic Title Ku-t'u 孤涂\", Vakanüvis - Uluslararası Tarih Araştırmaları Dergisi, 9/2 (2024), s. 1500-1509",
+    "url": "https://dergipark.org.tr/en/download/article-file/3929702",
+    "grup": "makale"
+  },
+  "cataloluk-2019": {
+    "kisa": "Çataloluk ve Yılmaz 2019",
+    "kunye": "Osman Çataloluk ve Hakan Yılmaz, \"Hunlar Gerçeği\", Akademik Tarih ve Düşünce Dergisi, 6/4 (2019), s. 2556-2588",
+    "url": "https://dergipark.org.tr/en/download/article-file/931303",
+    "grup": "makale"
+  },
+  "yildirim-2017": {
+    "kisa": "Yıldırım 2017",
+    "kunye": "Kürşat Yıldırım, \"Tunguz Halkı Üzerine Araştırmalar-I: Mohe'lar\", Türk Dünyası Araştırmaları, 117/231 (2017), s. 9-24",
+    "url": "https://dergipark.org.tr/en/download/article-file/1513644",
+    "grup": "makale"
+  },
+  "ozel-2020": {
+    "kisa": "Özel 2020",
+    "kunye": "Haşim Özel, \"Juan-juanların Etnik Oluşumları ve Siyasi Tarihlerine Dair Bir İnceleme\", International of Turkish Academic Studies (TURAS), 1/1 (2020)",
+    "url": "https://dergipark.org.tr/tr/download/article-file/1439434",
+    "grup": "makale"
+  },
+  "bakir-2019": {
+    "kisa": "Bakır ve Badakoğlu 2019",
+    "kunye": "Abdulhalik Bakır ve Umut Badakoğlu, \"Yüeçiler ve Kökenleri Üzerine Düşünceler\", Ortaçağ Araştırmaları Dergisi, 2/2 (2019), s. 123-144",
+    "url": "https://dergipark.org.tr/tr/pub/oad/article/631406",
+    "grup": "makale"
+  },
+  "aydemir-2019": {
+    "kisa": "Aydemir 2019",
+    "kunye": "Hakan Aydemir, \"The Reconstruction of the Name Yuezhi 月氏 / 月支\", International Journal of Old Uyghur Studies, 1/2 (2019), s. 249-282",
+    "url": "https://dergipark.org.tr/tr/pub/ijous/issue/51310/659415",
+    "grup": "makale"
+  },
+  "pamir-2022": {
+    "kisa": "Pamir 2022",
+    "kunye": "Aybars Pamir, \"Mete Han ve Eski Türk Orta-Asya Kamu Hukukundaki Yeri\", Çukurova Üniversitesi Hukuk Fakültesi Dergisi (ÇÜHAD), 2022/1, s. 1-31",
+    "url": "https://dergipark.org.tr/tr/download/article-file/2274599",
+    "grup": "makale"
+  },
+  "yurdakul-2023": {
+    "kisa": "Yurdakul 2023",
+    "kunye": "Şenol Yurdakul, \"Attila'nın Batı Roma İmparatorluğu İle İlişkileri ve Roma'yı İşgal Tasarısı\", Selçuk Türkiyat, 58 (2023), s. 235-264",
+    "url": "https://dergipark.org.tr/tr/pub/sutad/article/1347841",
+    "grup": "makale"
+  },
+  "dingil-2022": {
+    "kisa": "Dıngıl Ilgın 2022",
+    "kunye": "Fatma Aysel Dıngıl Ilgın, \"Attila'nın Galya Seferi\", Vakanüvis - Uluslararası Tarih Araştırmaları Dergisi, 7/2 (2022), s. 681-707",
+    "url": "https://dergipark.org.tr/en/download/article-file/2559096",
+    "grup": "makale"
+  },
+  "esmen-2025": {
+    "kisa": "Esmen 2025",
+    "kunye": "Can Tankut Esmen, \"Attila'nın Kuzey İtalya Harekâtı\", Ahbar, 4 (2025), s. 85-93",
+    "url": "https://dergipark.org.tr/tr/download/article-file/5170166",
+    "grup": "makale"
+  },
+  "coban-2019": {
+    "kisa": "Çoban 2019",
+    "kunye": "Hacı Çoban, \"Atilla ve Avrupa Hunları - Batı Roma İlişkilerinde Evlilik Meselesi\", Avrasya Uluslararası Araştırmalar Dergisi, 7/17 (2019), s. 57-68",
+    "url": "https://dergipark.org.tr/tr/download/article-file/759472",
+    "grup": "makale"
+  },
+  "turel-2015": {
+    "kisa": "Türel 2015",
+    "kunye": "Tunç Türel, \"Ammianus Marcellinus, Priscus ve Iordanes'de Attilâ ve Hun Tasvirleri\", Hacettepe Üniversitesi Türkiyat Araştırmaları Dergisi, 23 (2015), s. 325-345",
+    "url": "https://dergipark.org.tr/tr/download/article-file/3740385",
+    "grup": "makale"
+  },
+  "erten-2016": {
+    "kunye": "Emre Erten, \"Antik Yazarlarda Bir İskit Kraliçesi: Tomyris\", Mediterranean Journal of Humanities VI/2 (2016), s. 237-263",
+    "kisa": "Erten (2016)",
+    "url": "https://dergipark.org.tr/tr/pub/mjh/article/1427823",
+    "grup": "makale"
+  },
+  "tasagil-2014": {
+    "kunye": "Ahmet Taşağıl, \"Töles Boylarının Stratejik Önemi (6. ve 7. yüzyıllar)\", FSM İlmî Araştırmalar İnsan ve Toplum Bilimleri Dergisi, 3 (2014), s. 311-322",
+    "kisa": "Taşağıl (2014)",
+    "url": "https://acikerisim.fsm.edu.tr/items/8563866d-24fc-4e70-aaed-10617eaafa8b",
+    "grup": "makale"
+  },
+  "abdurrahman": {
+    "kunye": "Varis Abdurrahman, \"Tarihteki Efsanevi Turan Padişahı Alp Er Tunga Hakkında\"",
+    "kisa": "Abdurrahman",
+    "url": "https://dergipark.org.tr/tr/download/article-file/782484",
+    "grup": "makale"
+  },
+  "bakir-altingok-2011": {
+    "kunye": "Abdulhalik Bakır – Ahmet Altıngök, \"Klasik ve Çağdaş Kaynaklar Işığında Turan-İran Kavramı ve Tarihsel Coğrafyası\", Tarih İncelemeleri Dergisi, 26/2 (2011), s. 361-422",
+    "kisa": "Bakır – Altıngök (2011)",
+    "url": "https://dergipark.org.tr/tr/download/article-file/58798",
+    "grup": "makale"
+  },
+  "aydinlu-2021": {
+    "kunye": "Seccad Aydınlu, \"Farsça İki Tarihî Metinde Efrasiyab'ın Türkçe Adı\" (çev. Umut Başar), Dil ve Edebiyat Araştırmaları, 23 (2021), s. 481-488",
+    "kisa": "Aydınlu (2021)",
+    "url": "https://dergipark.org.tr/en/download/article-file/1650757",
+    "grup": "makale"
+  },
+  "celilov-2024": {
+    "kunye": "Firudin A. Celilov, \"Esik Yazısı\" (çev. Amin Namazlı), Genel Türk Tarihi Araştırmaları Dergisi, Eşref Buharalı Özel Sayısı (2024), s. 533-540",
+    "kisa": "Celilov (2024)",
+    "url": "https://dergipark.org.tr/tr/pub/gttad/issue/86712/1574399",
+    "grup": "makale"
+  },
+  "ekrem": {
+    "kunye": "Nuraniye H. Ekrem, \"Çin Kaynaklarına Göre Milattan Önceki Türklerin Yurdu\"",
+    "kisa": "Ekrem",
+    "url": "https://dergipark.org.tr/en/download/article-file/688238",
+    "grup": "makale"
+  },
+  "durmus-2017": {
+    "kunye": "İlhami Durmuş, \"Türk Adının Ortaya Çıkışı, Anlamı ve Yayılışı\", Gazi Akademik Bakış, 10/20 (2017), s. 37-47",
+    "kisa": "Durmuş (2017)",
+    "url": "https://dergipark.org.tr/tr/pub/gav/article/321022",
+    "grup": "makale"
+  },
+  "kutsal-2022": {
+    "kunye": "Nalân Kutsal, \"Klasik Türk Şiirinde Yazı ve Kitap Sanatları Çerçevesinde Kaleme Bakış\", Eski Türk Edebiyatı Araştırmaları Dergisi, 5/1 (2022), s. 366-398",
+    "kisa": "Kutsal (2022)",
+    "url": "https://dergipark.org.tr/tr/download/article-file/2334060",
+    "grup": "makale"
+  },
+  "demirtas-2024": {
+    "kunye": "Sezai Demirtaş, \"Gelecekten Haber Veren Oğuz Bilgesi: Dede Korkut\", Selçuk Türkiyat, 63 (2024), s. 137-154",
+    "kisa": "Demirtaş (2024)",
+    "url": "https://dergipark.org.tr/tr/download/article-file/3410722",
+    "grup": "makale"
+  },
+  "aycicek-2019": {
+    "kunye": "Ayşe Ayçiçek, \"Altın Orda Hanlığı'nın Sükûtuna Kadar Karadeniz'in Kuzeyinde Türkler\", Oğuzhan Sosyal Bilimler Dergisi, 1/2 (2019), s. 97-116",
+    "kisa": "Ayçiçek (2019)",
+    "url": "https://dergipark.org.tr/tr/download/article-file/905495",
+    "grup": "makale"
+  },
+  "ders-oatt": {
+    "kunye": "Orta Asya Türk Tarihi ders notları, 1-4. hafta (üniversite dersi, 2026). Bu notlardan yalnızca yayımlanmış bir kaynakla doğrulanabilen bilgiler alınmıştır.",
+    "kisa": "ders notları",
+    "grup": "ders"
+  },
+  "shiji-123": {
+    "kunye": "Sima Ts'ien (Sima Qian), Shiji (Tarih Kayıtları), Bölüm 123: Ta-yüan Lie-çuan (Fergana ve batı ülkeleri), MÖ 1. yüzyıl. Çince özgün metin, Vikikaynak",
+    "kisa": "Shiji 123",
+    "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7123",
+    "grup": "ana"
+  },
+  "dia-turk": {
+    "kunye": "Ahmet Taşağıl, \"Türk\" (Tarih: İslâm Öncesi Dönem), TDV İslâm Ansiklopedisi, c. 41 (2012), s. 467-474",
+    "kisa": "Taşağıl, \"Türk\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/turk",
+    "grup": "turk"
+  },
+  "dia-talas": {
+    "kunye": "Ahmet Taşağıl, \"Talas Savaşı\", TDV İslâm Ansiklopedisi",
+    "kisa": "Taşağıl, \"Talas Savaşı\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/talas-savasi",
+    "grup": "turk"
+  },
+  "dia-efrasiyab": {
+    "kunye": "Tahsin Yazıcı, \"Efrâsiyâb\", TDV İslâm Ansiklopedisi, c. 10 (1994), s. 478-479",
+    "kisa": "Yazıcı, \"Efrâsiyâb\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/efrasiyab",
+    "grup": "turk"
+  },
+  "dia-turkiye": {
+    "kunye": "Cevdet Küçük, \"Türkiye\" (Tarih), TDV İslâm Ansiklopedisi, c. 41 (2012), s. 576-578",
+    "kisa": "Küçük, \"Türkiye\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/turkiye",
+    "grup": "turk"
+  },
+  "dia-memlukler": {
+    "kunye": "\"Memlükler\", TDV İslâm Ansiklopedisi",
+    "kisa": "\"Memlükler\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/memlukler",
+    "grup": "turk"
+  },
+  "dia-uygurlar": {
+    "kunye": "\"Uygurlar\", TDV İslâm Ansiklopedisi",
+    "kisa": "\"Uygurlar\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/uygurlar",
+    "grup": "turk"
+  },
+  "dia-dede-korkut": {
+    "kunye": "\"Dede Korkut\", TDV İslâm Ansiklopedisi",
+    "kisa": "\"Dede Korkut\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/dede-korkut",
+    "grup": "turk"
+  },
+  "kucukbekir-2024": {
+    "kunye": "Esin Küçükbekir ve Naser Sedghi, \"İklim Değişikliği ve Göç: Oğuzların Mâverâünnehir ve İran'a Göçleri\", FSM İlmî Araştırmalar İnsan ve Toplum Bilimleri Dergisi, 24 (2024), s. 225-240",
+    "kisa": "Küçükbekir ve Sedghi (2024)",
+    "url": "https://hdl.handle.net/11352/5143",
+    "grup": "makale"
+  },
+  "archeo-kz": {
+    "kunye": "A. H. Margulan Arkeoloji Enstitüsü (Almatı), enstitünün tarihçe sayfası (Esik kurganı kazıları)",
+    "kisa": "Margulan Arkeoloji Enstitüsü",
+    "url": "https://archeo.kz/en/sotrudniki/history/98/",
+    "grup": "uluslararasi"
+  },
+  "kalkir-2021": {
+    "kunye": "Nurcan Kalkır, \"Han Hanedanlığının Savaşçı İmparatoru: Han Wu Di\", Elektronik Sosyal Bilimler Dergisi, 20/79 (2021), s. 1484-1497",
+    "kisa": "Kalkır (2021)",
+    "url": "https://dergipark.org.tr/tr/pub/esosder/article/835869",
+    "grup": "makale"
+  },
+  "hanshu-94b": {
+    "kunye": "Ban Gu, Han Shu (Han Hanedanı Tarihi), Bölüm 94B: Hunlar (ikinci kısım), MS 1. yüzyıl; Çince özgün metin, Vikikaynak",
+    "kisa": "Han Shu 94B",
+    "url": "https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7094%E4%B8%8B",
+    "grup": "ana"
+  },
+  "hou-hanshu-89": {
+    "kunye": "Fan Ye, Hou Hanshu (Sonraki Han Hanedanı Tarihi), Bölüm 89: Güney Hunlar, MS 5. yüzyıl; Çince özgün metin, Vikikaynak",
+    "kisa": "Hou Hanshu 89",
+    "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B789",
+    "grup": "ana"
+  },
+  "shijing-liuyue": {
+    "kunye": "Şi-cing (Shijing, Şiirler Kitabı), \"Liu Yüe\" (Altıncı Ay) şiiri, Batı Chou dönemi; Çince özgün metin, Vikikaynak",
+    "kisa": "Şi-cing, \"Altıncı Ay\"",
+    "url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%85%AD%E6%9C%88",
+    "grup": "ana"
+  },
+  "dia-kurultay": {
+    "kunye": "Ahmet Taşağıl, \"Kurultay\", TDV İslâm Ansiklopedisi, Ek-2 (2019), s. 94-95",
+    "kisa": "Taşağıl, \"Kurultay\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/kurultay",
+    "grup": "turk"
+  },
+  "dia-han": {
+    "kunye": "Aydın Taneri, \"Han\", TDV İslâm Ansiklopedisi, c. 15 (1997), s. 517-518",
+    "kisa": "Taneri, \"Han\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/han--hukumdar",
+    "grup": "turk"
+  },
+  "dia-tanri": {
+    "kunye": "Harun Güngör, \"Tanrı\", TDV İslâm Ansiklopedisi, c. 39 (2010), s. 570-571",
+    "kisa": "Güngör, \"Tanrı\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/tanri",
+    "grup": "turk"
+  }
+}

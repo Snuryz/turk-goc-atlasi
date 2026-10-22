@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Türk Göç Atlası</title>
+  <!-- Site simgesi: tarayıcı sekmesinde ve telefonda "Ana ekrana ekle" dendiğinde görünür -->
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta name="theme-color" content="#0b1119">
+
+  <!-- CesiumJS: 3B dünya küresi kütüphanesi. jsDelivr dosyaları bir yıl önbellekte tutar (cesium.com yalnızca 30 dakika).
+       defer: sayfa Cesium inmesini beklemeden görünür; Cesium yine de main.js'ten önce çalışır. -->
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <script defer src="https://cdn.jsdelivr.net/npm/cesium@1.120.0/Build/Cesium/Cesium.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cesium@1.120.0/Build/Cesium/Widgets/widgets.css">
+
+  <!-- Yazı tipleri -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Marcellus&family=Noto+Sans+Old+Turkic&display=swap">
+
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Türk Göç Atlası</h1>
+      <span class="orkhon" title="Göktürk harfleriyle: Türk" dir="rtl">𐱅𐰇𐰼𐰜</span>
+      <div class="baslik-dugmeleri">
+        <!-- Dar ekranda düğmelerin kısa yazısı görünür (bkz. style.css: .uzun / .kisa) -->
+        <button id="bolgePaneliDugmesi" class="panel-dugmesi" aria-expanded="true" aria-controls="bolgeler"><span class="uzun">Yazıtlar ve bölgeler</span><span class="kisa">Yazıtlar</span></button>
+        <button id="bilgiPaneliDugmesi" class="panel-dugmesi" aria-expanded="true" aria-controls="bilgiPaneli"><span class="uzun">Bilgi paneli</span><span class="kisa">Bilgi</span></button>
+        <button id="devletlerDugmesi" class="panel-dugmesi" aria-haspopup="dialog">Devletler</button>
+        <button id="makalelerDugmesi" class="panel-dugmesi" aria-haspopup="dialog">Makaleler</button>
+      </div>
+    </header>
+
+    <nav class="bolgeler" id="bolgeler" aria-label="Tarihî bölgeler">
+      <div class="bolgeler-ust">
+        <h2>Yazıtlar ve Bölgeler</h2>
+        <p class="bolge-sayaci" id="bolgeSayaci"></p>
+        <div class="bolge-dugmeleri">
+          <button id="tumunuGoster">Tümünü göster</button>
+          <button id="tumunuGizle">Tümünü gizle</button>
+        </div>
+      </div>
+      <div class="bolge-kaydirma">
+        <div class="yazit-listesi" id="yazitListesi"></div>
+        <div class="bolge-listesi" id="bolgeListesi"></div>
+      </div>
+    </nav>
+
+    <div class="stage">
+      <div id="globe"></div>
+      <!-- Telefonda haritada bir şey seçilince çıkar; dokununca sayfa haritanın altındaki bilgilere iner -->
+      <button class="bilgiye-in" id="bilgiyeIn" hidden>Bilgileri oku ↓</button>
+      <!-- Telefonda harita ekrandan çıkınca (aşağıda okurken) görünür; dokununca haritaya döner -->
+      <button class="haritaya-don" id="haritayaDon" hidden aria-label="Haritaya dön">↑ Harita</button>
+      <!-- Açıklama kutusu: her ekranda kapalı başlar, başlığına tıklanınca açılıp kapanır -->
+      <!-- Sol üstteki kontroller: açıklama kutusu (kapalı başlar) ve telefonda "tüm konum adları" düğmesi -->
+      <div class="harita-kontrolleri">
+      <details class="legend" id="aciklama">
+        <summary>Açıklama</summary>
+        <div class="legend-icerik">
+          <span><i class="sw state"></i>Devlet (yaklaşık sınır)</span>
+          <span><i class="sw tribe renkli"></i>Kavim (her biri kendi renginde)</span>
+          <span><i class="sw route"></i>Göç yolu (kavimin renginde)</span>
+          <span><i class="sw home"></i>Atayurt</span>
+          <label class="toggle"><input type="checkbox" id="yazitlarAcik"> <i class="sw yazit"></i>Yazıtlar</label>
+          <label class="toggle"><input type="checkbox" id="cografyaAcik" checked> Coğrafya</label>
+          <label class="toggle toggle-alt"><input type="checkbox" id="cografyaAdlari" checked> Coğrafya adları</label>
+          <div class="geo">
+            <span><i class="sw dag"></i>Dağ</span>
+            <span><i class="sw col"></i>Çöl</span>
+            <span><i class="sw ova"></i>Bozkır / ova</span>
+            <span><i class="sw plato"></i>Plato</span>
+            <span><i class="sw nehir"></i>Nehir</span>
+          </div>
+        </div>
+      </details>
+      <!-- Yazıt taşlarını haritadan kaldırır / geri getirir (açıklamadaki "Yazıtlar" kutusuyla aynı işi yapar) -->
+      <button class="harita-dugmesi" id="yazitDugmesi">Yazıtları göster</button>
+      <button class="tum-adlar" id="tumAdlar" aria-pressed="false">Tüm adları göster</button>
+      </div>
+    </div>
+
+    <aside id="bilgiPaneli">
+      <section class="card" id="card"></section>
+      <section>
+        <p class="eyebrow">Bu yılda haritada</p>
+        <div id="chips"></div>
+      </section>
+      <section>
+        <p class="eyebrow">Süren ve yakın zamanda biten göçler</p>
+        <div class="routes-list" id="routes"></div>
+      </section>
+    </aside>
+
+    <div class="timeline">
+      <button id="play" aria-label="Zamanı oynat">▶</button>
+      <div class="year" id="yearLabel"></div>
+      <div class="hiz-ayari">
+        <span class="hiz-baslik">Hız <small>(yıl/sn)</small></span>
+        <div class="hiz" id="hiz" role="group" aria-label="Oynatma hızı (yıl/saniye)"></div>
+      </div>
+      <div class="ruler">
+        <input type="range" id="yearRange" min="-800" max="2025" step="1" value="560" aria-label="Yıl">
+        <div class="ticks" id="ticks"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+  <!-- Devletler penceresi: solda devlet listesi, sağda seçili devletin ayrıntılı bilgisi -->
+  <dialog class="makaleler-penceresi devletler-penceresi" id="devletlerPenceresi" aria-labelledby="devletlerBasligi">
+    <div class="makaleler-ust">
+      <h2 id="devletlerBasligi">Devletler</h2>
+      <button class="makaleler-kapat" id="devletlerKapat" aria-label="Kapat">✕</button>
+    </div>
+    <div class="devletler-govde">
+      <div class="devlet-listesi" id="devletListesi"></div>
+      <article class="devlet-icerigi" id="devletIcerigi"></article>
+    </div>
+  </dialog>
+
+  <!-- Makaleler penceresi: uygulamadaki bütün makalelerin bağlantıları; en altta harita verilerinin kaynakları ve lisansları -->
+  <dialog class="makaleler-penceresi" id="makalelerPenceresi" aria-labelledby="makalelerBasligi">
+    <div class="makaleler-ust">
+      <h2 id="makalelerBasligi">Makaleler</h2>
+      <button class="makaleler-kapat" id="makalelerKapat" aria-label="Kapat">✕</button>
+    </div>
+    <p class="makaleler-aciklama">Uygulamadaki bilgilerin dayandığı makaleler. Bir kayda dokunursanız harita o kayda gider. Harita verilerinin kaynakları ve lisansları en alttadır.</p>
+    <div class="makale-listesi" id="makaleListesi"></div>
+  </dialog>
+</body>
+</html>

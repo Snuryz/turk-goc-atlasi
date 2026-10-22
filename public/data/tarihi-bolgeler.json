@@ -1,0 +1,417 @@
+[
+  {
+    "id": "maveraunnehir",
+    "ad": "Maveraünnehir",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Transoksiana; Arapça Mâverâünnehr, 'nehrin öte yanı'",
+    "kaynak": "Arap ve Fars coğrafyacıları (İstahrî, İbn Havkal, Mukaddesî)",
+    "aciklama": "Ceyhun (Amu Derya) ile Seyhun (Sir Derya) arasındaki bölge. Merkezi Soğd'dur (Buhara ve Semerkant). İstahrî'nin listesinde Şâş (Taşkent), Hucend, Üsrûşene, Keş, Nesef, Tirmiz, Sagāniyân ve Huttal de Mâverâünnehir'e dahildir; Fergana ve Hârizm de bazı kaynaklarda bu bölgenin parçası sayılır (haritada ayrı gösterildi). Karahanlı, Timurlu ve Özbek dönemlerinde Türk dünyasının kültür merkezlerinden biri oldu.",
+    "sinir": [[63.6,39.1],[65.2,37.8],[67.3,37.2],[68.3,37.1],[69.5,37.4],[70.2,37.6],[70.6,38.4],[70.4,39.4],[70,40],[70.3,40.6],[70.6,41.4],[70.2,42.3],[68.3,42.9],[67.2,42],[66,41.4],[64.5,40.8],[63.2,40.2]],
+    "konular": [{"baslik":"Şehnâme'de İran–Turan sınırı","gorusler":[{"grup":"turk","metin":"Şehnâme'ye göre hükümdar Feridun dünyayı üç oğlu arasında paylaştırdı: Rum ve batı diyarlarını Selm'e, Turan ve Çin ülkelerini Tur'a, İran ve Irak topraklarını İrec'e verdi. Bunu hazmedemeyen Selm ve Tur, İrec'i hileyle öldürdü; Turan ile İran birbirine komşu ve düşman iki devlet hâline geldi. Tur, Alp Er Tunga'nın atası sayılır. İran, Çin, Yunan ve Arap kaynaklarında Ceyhun'un Turanî ve İranî kavimler arasındaki sınır olduğu kabul edilir.","kaynaklar":["bakir-altingok-2011|s. 369, 390","ders-oatt"]}]},{"baslik":"Sedd-i İskender","gorusler":[{"grup":"turk","metin":"Ebüssuûd Efendi, Zülkarneyn'in yaptırdığı seddin (Sedd-i İskender) Mâverâünnehir dolaylarında ya da Çin Seddi olabileceğini tahmin etmiştir.","kaynaklar":["dia-sedd"]}]}]
+  },
+  {
+    "id": "toharistan",
+    "ad": "Toharistan",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Tuharistan; Çin kaynaklarında Tuhuoluo",
+    "kaynak": "İstahrî, Çinli seyyah Hüen-Çang",
+    "aciklama": "İstahrî'ye göre Belh'in doğusunda, Bedahşan'ın batısında; kuzeyde Ceyhun, güneyde Hindukuş Dağları ile çevrili dağlık bölge. Geniş anlamda Ceyhun'un yukarı mecrasının iki yakasında Belh'e bağlı dağlık alanların tümüne denirdi. Ak Hunların, ardından Batı Göktürklere bağlı yabguların yönetiminde kaldı.",
+    "sinir": [[67.2,37],[68.3,37.2],[69.4,37.2],[70.2,37.6],[70.9,37.2],[70.6,36.2],[69.5,35.5],[68,35.4],[67,35.9]]
+  },
+  {
+    "id": "harezm",
+    "ad": "Harezm",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Hvarizm, Hîve",
+    "kaynak": "Arap ve Fars coğrafyacıları, Bîrûnî",
+    "aciklama": "Ceyhun'un Aral Gölü'ne döküldüğü delta bölgesi. Merkezleri Kât ve Gürgenç'ti. Harezmşahlar Devleti buradan doğdu; Bîrûnî ve Zemahşerî buralıdır.",
+    "sinir": [[59,43.8],[61,43.6],[61.8,42.4],[61.6,41.2],[60.6,40.9],[59.6,41.2],[58.7,42],[58.6,43]]
+  },
+  {
+    "id": "horasan",
+    "ad": "Horasan",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Farsça 'güneşin doğduğu yer'",
+    "kaynak": "Arap ve Fars coğrafyacıları, Selçuklu tarihleri",
+    "aciklama": "Merv, Nişabur, Herat, Belh, Tus, Serahs ve Nesâ'yı içine alan geniş bölge; bugün İran, Türkmenistan ve Afganistan arasında paylaşılmıştır. Selçuklular 1040'ta Merv yakınlarındaki Dandanakan'da Gaznelileri yenerek devletlerini kurdular.",
+    "sinir": [[54.8,37.2],[56.5,38.2],[58.5,38.2],[61,38.5],[63.6,39.1],[65.2,37.8],[66.8,37.3],[67.3,36.6],[66.5,35.6],[64.5,34],[62.5,33],[61,33.5],[59.5,33.5],[57.5,34.5],[55.5,35.5]],
+    "konular": [{"baslik":"Selçukluların Horasan'a geçişi","gorusler":[{"grup":"turk","metin":"Tuğrul ve Çağrı beyler Ceyhun'u geçip 10.000 atlıyla Gazneli Devleti'ne ait Horasan topraklarına ulaştı (Receb 426 / Mayıs 1035).","kaynaklar":["dia-selcuklular","ders-oatt"]}]}]
+  },
+  {
+    "id": "fergana",
+    "ad": "Fergana",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Fergana Vadisi",
+    "kaynak": "Çin kaynakları (Dayuan), Arap coğrafyacıları, Bâbürnâme",
+    "aciklama": "Seyhun'un yukarı boylarında, dağlarla çevrili verimli vadi. Ahsiket, Özkent ve Kuva başlıca şehirleriydi. Babür Şah buralıdır.",
+    "sinir": [[70.2,40.2],[71,41.2],[72.5,41.5],[73.6,41],[73.3,40.3],[72.2,40],[70.9,39.9]]
+  },
+  {
+    "id": "yedisu",
+    "ad": "Yedisu",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Rusça Semireçye; 'yedi ırmak'",
+    "kaynak": "Divânu Lugâti't-Türk, Arap coğrafyacıları",
+    "aciklama": "Balkaş Gölü ile Tanrı Dağları arasındaki ırmaklarla sulanan bozkır. Türgiş ve Karlukların yurdu oldu. Karahanlı başkenti Balasagun ve Suyab burada bulunuyordu.",
+    "sinir": [[71.2,42.5],[71.5,43.2],[74.5,44.5],[76,46],[78.5,46.8],[80.5,45.5],[80.5,44],[79,42.6],[77,42.3],[75,42.4],[73.5,42.6]]
+  },
+  {
+    "id": "kasgarya",
+    "ad": "Kaşgarya (Doğu Türkistan)",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Altışehir, Tarım Havzası",
+    "kaynak": "Divânu Lugâti't-Türk, Çin kaynakları",
+    "aciklama": "Taklamakan Çölü çevresindeki vaha şehirleri: Kaşgar, Yarkent, Hotan, Kuça, Turfan. Kaşgarlı Mahmud ve Yusuf Has Hacib buralıdır. 840'tan sonra Uygurların yurdu oldu.",
+    "sinir": [[75,39.5],[76.5,41],[80,42],[84,42.4],[88,43.3],[90,43.1],[90.5,40],[88.5,38],[83,37],[78,37],[75.5,38]]
+  },
+  {
+    "id": "cungarya",
+    "ad": "Cungarya",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Cungar Havzası",
+    "kaynak": "Çin ve Moğol kaynakları",
+    "aciklama": "Altay ile Tanrı Dağları arasındaki bozkır havzası. Moğolistan'dan batıya giden göç yollarının geçtiği doğal bir koridordur.",
+    "sinir": [[81,44.5],[82.5,46.5],[85.5,47.5],[89,47],[91,45.5],[90,44],[87,43.6],[84,44]]
+  },
+  {
+    "id": "zabulistan",
+    "ad": "Zâbulistan",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Gazne bölgesi",
+    "kaynak": "Arap ve Fars coğrafyacıları, Gazneli tarihleri",
+    "aciklama": "Gazne çevresindeki dağlık bölge. Gazneli Devleti'nin merkeziydi; Gazneli Mahmud Hindistan seferlerine buradan çıktı.",
+    "sinir": [[66.5,33.5],[68.5,34],[69.5,33.2],[68.5,31.5],[66.5,31.8]]
+  },
+  {
+    "id": "destikipcak",
+    "ad": "Deşt-i Kıpçak",
+    "grup": "Bozkır ve Kafkasya",
+    "tur": "bolge",
+    "digerAdlar": "Kıpçak bozkırı; Rus kaynaklarında Polovets bozkırı; daha önce Deşt-i Hazar (Hazar bozkırı)",
+    "kaynak": "Fars kaynakları (Nâsır-ı Hüsrev), İbn Battûta, Rus yıllıkları",
+    "aciklama": "Kıpçakların hâkim olduğu büyük bozkıra verilen ad. Kıpçak sahası Balkaş Gölü ve Talas yöresinden Tuna ağzına kadar uzanıyordu. Altın Orda bu bozkırda kuruldu.",
+    "sinir": [[28,46.5],[30,48],[36,49.5],[44,51],[52,52.5],[62,53],[70,53.5],[78,52.5],[80,50],[74,48],[66,46],[58,46.5],[52,45.5],[46,45.5],[40,46],[34,45.8],[30,45.6]],
+    "konular": [{"baslik":"Adın ortaya çıkışı","gorusler":[{"grup":"turk","metin":"Doğu Avrupa ile Batı Sibirya bozkırlarının tamamını kapsayan Kuman-Kıpçak sahası, o dönemden itibaren İslam kaynaklarında Deşt-i Kıpçak (Kıpçak bozkırı) adıyla anılmıştır. Saha Balkaş-Talas yöresinden Tuna ağzına, kuzeyde İdil Bulgarlarının sınırına, Kafkaslarda Kuban bölgesine kadar uzanıyordu.","kaynaklar":["dia-kipcaklar","ders-oatt"]}]}]
+  },
+  {
+    "id": "destioguz",
+    "ad": "Oğuz Çölü (Deşt-i Oğuz)",
+    "grup": "Bozkır ve Kafkasya",
+    "tur": "bolge",
+    "digerAdlar": "Arapça el-mefâzâtü'l-Guzziyye ('Oğuz çölü'); Oğuzlar bu bölgeye Karakom derdi",
+    "kaynak": "Arap ve Fars coğrafyacıları",
+    "aciklama": "Aşağı Seyhun (Sir Derya) ile Aral Gölü'nün kuzeyindeki bozkır ve çöl bölgesi. 10. yüzyılda Oğuzların yurduydu; Oğuz Devleti'nin başşehri Yenikent, Seyhun'un Aral'a döküldüğü yere yakındı. 11. yüzyılda Kıpçaklar bölgeye hâkim oldu.",
+    "sinir": [[58.8,46.9],[60.5,46.7],[61.6,46.2],[62.8,45.6],[64.5,45.2],[65.6,44.9],[66.8,44.4],[67.8,43.7],[68.6,43.1],[69.6,43.6],[69.4,45.5],[67.5,47.2],[64.5,48.2],[61.5,48.3],[59.2,47.8]],
+    "konular": [{"baslik":"Adı","gorusler":[{"grup":"turk","metin":"Bazı coğrafyacılar Aşağı Seyhun ile Aral'ın kuzeyindeki çöl bölgesine 'Oğuz çölü' (el-mefâzâtü'l-Guzziyye) adını verir. Oğuzlar ise bu bölgeye Karakom derdi.","kaynaklar":["dia-oguzlar","ders-oatt"]}]}]
+  },
+  {
+    "id": "idilural",
+    "ad": "İdil-Ural",
+    "grup": "Bozkır ve Kafkasya",
+    "tur": "bolge",
+    "digerAdlar": "İtil-Ural bölgesi",
+    "kaynak": "İbn Fadlan seyahatnamesi, Rus kaynakları",
+    "aciklama": "İtil (Volga) ile Ural Dağları arasındaki orman-bozkır bölgesi. İtil Bulgarları, Kazan Hanlığı ve Başkurtların yurdudur. İbn Fadlan 922'de buraya geldi.",
+    "sinir": [[46,53.5],[47,57],[52,58],[56,57],[58,55],[57,52.5],[53,52.5],[49,52.5]]
+  },
+  {
+    "id": "arran",
+    "ad": "Arran",
+    "grup": "Bozkır ve Kafkasya",
+    "tur": "bolge",
+    "digerAdlar": "Kafkas Albanyası",
+    "kaynak": "Arap coğrafyacıları",
+    "aciklama": "Kura ile Aras ırmakları arasındaki ova. Berdea ve Gence başlıca şehirleriydi. Selçuklu döneminde Oğuz boyları yoğun olarak buraya yerleşti.",
+    "sinir": [[45,40.5],[46.5,41.4],[48,41.4],[49.5,40.3],[48.7,39.5],[47.5,39.6],[46,39.6],[45.2,40]]
+  },
+  {
+    "id": "azerbaycan",
+    "ad": "Azerbaycan (tarihî)",
+    "grup": "İran ve Orta Doğu",
+    "tur": "bolge",
+    "digerAdlar": "Âzerbâycân, Âzerbâdegân",
+    "kaynak": "Arap ve Fars coğrafyacıları",
+    "aciklama": "Ortaçağ kaynaklarında Aras'ın güneyindeki bölge; Tebriz, Erdebil ve Merağa başlıca şehirleriydi. Akkoyunlu, Karakoyunlu ve Safevi devletlerinin merkezlerinden biri oldu.",
+    "sinir": [[44.2,39.5],[46,39.5],[47.5,39.6],[48.5,38.5],[48.3,37],[47,36.5],[45.5,36.5],[44.5,37.5]]
+  },
+  {
+    "id": "irakiacem",
+    "ad": "Irâk-ı Acem",
+    "grup": "İran ve Orta Doğu",
+    "tur": "bolge",
+    "digerAdlar": "Cibâl ('dağlar')",
+    "kaynak": "Arap ve Fars coğrafyacıları, Selçuklu tarihleri",
+    "aciklama": "Batı İran'ın dağlık bölgesi: Rey, Hemedan ve İsfahan. Büyük Selçuklu sultanları burada oturdu; Rey, Tuğrul Bey'in başkentiydi.",
+    "sinir": [[47,35],[48.5,36.5],[50.5,36],[52.5,35.5],[53,33.5],[52,32],[51,32.2],[50,32.5],[48,33.5]]
+  },
+  {
+    "id": "irakiarap",
+    "ad": "Irâk-ı Arap",
+    "grup": "İran ve Orta Doğu",
+    "tur": "bolge",
+    "digerAdlar": "Sevad",
+    "kaynak": "Arap coğrafyacıları",
+    "aciklama": "Dicle ile Fırat'ın aşağı boylarındaki ova; Bağdat, Kûfe, Vâsıt ve Basra başlıca şehirleriydi. Tuğrul Bey 1055'te Bağdat'a girerek Abbasi halifesinin koruyuculuğunu üstlendi.",
+    "sinir": [[43.5,34.6],[45.5,34.5],[46.5,33],[48,31],[48.5,29.9],[47,29.9],[45,30.8],[43.8,31.6],[43.2,33]]
+  },
+  {
+    "id": "cezire",
+    "ad": "Cezîre",
+    "grup": "İran ve Orta Doğu",
+    "tur": "bolge",
+    "digerAdlar": "Yukarı Mezopotamya; Diyâr-ı Bekir, Diyâr-ı Rebîa, Diyâr-ı Mudar",
+    "kaynak": "Arap coğrafyacıları",
+    "aciklama": "Dicle ile Fırat'ın yukarı boyları arasındaki bölge; Musul, Âmid (Diyarbakır) ve Ruha (Urfa) başlıca şehirleriydi. Artuklular ve Zengiler burada hüküm sürdü.",
+    "sinir": [[38.5,37.2],[40,38.3],[42.5,37.9],[43.5,36.5],[43.5,35],[41.5,34.5],[39.5,35.5],[38.2,36.2]]
+  },
+  {
+    "id": "sam",
+    "ad": "Şam (Bilâdüşşam)",
+    "grup": "İran ve Orta Doğu",
+    "tur": "bolge",
+    "digerAdlar": "Suriye",
+    "kaynak": "Arap coğrafyacıları, Haçlı dönemi kaynakları",
+    "aciklama": "Halep, Şam ve Hama'yı içine alan bölge. Suriye Selçukluları, Zengiler, Eyyubiler ve Memlükler döneminde Haçlılara karşı mücadelenin merkeziydi.",
+    "sinir": [[35.5,32.5],[36,35],[37,36.5],[38.5,36.2],[38.5,34],[37,32.5]]
+  },
+  {
+    "id": "rum",
+    "ad": "Diyâr-ı Rûm",
+    "grup": "Anadolu ve Balkanlar",
+    "tur": "bolge",
+    "digerAdlar": "Bilâdü'r-Rûm; Türkiye (Batı kaynaklarında Turchia)",
+    "kaynak": "Arap ve Fars kaynakları, Selçuklu tarihleri",
+    "aciklama": "Müslüman kaynaklarda Bizans'tan alınan Anadolu topraklarına verilen ad; Anadolu Selçuklularına bu yüzden 'Rum Selçukluları' denir. 12. yüzyıldan itibaren Batılılar bu bölgeyi 'Turchia' (Türkiye) olarak anmaya başladı.",
+    "sinir": [[26.2,39.5],[27.5,40.5],[29.5,41.2],[33,42],[36,41.7],[39,41.1],[41.5,41.2],[43.5,40.5],[43,39],[40.5,38.3],[38.5,37.6],[36.2,36.6],[33,36.1],[30,36.2],[28,36.6],[26.8,37.8]],
+    "konular": [{"baslik":"Türkiye adı","gorusler":[{"grup":"makale","metin":"Durmuş'a göre bu bölgeye 12. yüzyıldan itibaren 'Türkiye' denmeye başlanmıştır. 'Türkiye' adı daha önce 6. yüzyılda Orta Asya, 9.-10. yüzyıllarda ise Volga'dan Orta Avrupa'ya kadar Hazar ve Macar ülkeleri için kullanılmıştı.","kaynaklar":["durmus-2017|s. 44"]}]},{"baslik":"Türkmenlerin Anadolu'ya gelişi","gorusler":[{"grup":"turk","metin":"Çağrı Bey, Gazneli hâkimiyetindeki Horasan'dan Anadolu'ya doğru bir sefere çıktı (1016-1021) ve bir süre Ermeni ve Gürcü topraklarında kaldı. Selçuklu sultanları sonraki dönemde Türkmenleri şehir kültürüne zarar vermemeleri için batıya yönlendirdi; bu da Türkmenlerin Azerbaycan ve Anadolu'da toplanmasına yardımcı oldu.","kaynaklar":["dia-selcuklular","ders-oatt"]}]}]
+  },
+  {
+    "id": "rumeli",
+    "ad": "Rumeli",
+    "grup": "Anadolu ve Balkanlar",
+    "tur": "bolge",
+    "digerAdlar": "Rûm-ili",
+    "kaynak": "Osmanlı kaynakları",
+    "aciklama": "Osmanlıların Balkanlardaki topraklarına verdiği ad. Türkler 1352'de Çimpe Kalesi ile Rumeli'ye geçti.",
+    "sinir": [[18.5,42.5],[18,44],[19.5,45],[21.5,44.8],[23,44],[26,44.2],[28.5,43.8],[29.1,41.2],[26.6,40.2],[24,40.5],[22.5,40],[20,39.8],[19.3,41.5]]
+  },
+  {
+    "id": "dobruca",
+    "ad": "Dobruca",
+    "grup": "Anadolu ve Balkanlar",
+    "tur": "bolge",
+    "digerAdlar": "",
+    "kaynak": "Bizans kaynakları, Saltuknâme",
+    "aciklama": "Tuna deltası ile Karadeniz arasındaki bölge. Peçenekler, Uzlar ve Kumanlar buraya yerleşti. Sarı Saltuk'un buraya Türkmen getirdiği rivayet edilir; Gagavuzların ilk yurdu sayılır.",
+    "sinir": [[27.3,43.7],[28,45.2],[29,45.2],[29.7,44.8],[28.6,43.6]]
+  },
+  {
+    "id": "pannonya",
+    "ad": "Pannonya",
+    "grup": "Anadolu ve Balkanlar",
+    "tur": "bolge",
+    "digerAdlar": "Macar Ovası",
+    "kaynak": "Roma ve Bizans kaynakları",
+    "aciklama": "Tuna'nın orta boylarındaki ova. Roma'nın Pannonya eyaleti Tuna'nın batısında ve güneyinde kalan topraklardı; haritadaki alan, Hun ve Avar dönemindeki geniş anlamıyla Macar ovasını da içine alır. Avrupa Hunlarının ve Avar Kağanlığı'nın merkeziydi; Kumanlar da 1239'da buraya sığındı.",
+    "sinir": [[16.5,46],[17,47.8],[19,48.3],[21.5,48],[22.5,46.5],[21,45.3],[18.5,45.5]]
+  },
+  {
+    "id": "ilirya",
+    "ad": "İlirya",
+    "grup": "Anadolu ve Balkanlar",
+    "tur": "bolge",
+    "digerAdlar": "Latince Illyricum",
+    "kaynak": "Roma ve Bizans kaynakları",
+    "aciklama": "Adriyatik Denizi'nin doğu kıyısı ile iç kesimlerindeki dağlık bölge; adını burada yaşayan İliryalılardan alır. Dar anlamıyla bugünkü Hırvatistan kıyıları, Bosna-Hersek, Karadağ ve Arnavutluk'u kapsar. Roma döneminde Illyricum adı zaman zaman Pannonya'yı da içine alan daha geniş bir idari bölge için kullanıldı. Avrupa Hunlarının ve Avarların Balkanlara yaptığı akınların yolu üzerindeydi.",
+    "sinir": [[13.6,45.6],[15.2,46],[16.8,45.3],[18.8,45],[19.6,44],[20.4,43.2],[20.6,42.2],[20.4,41],[19.4,40.4],[19.4,41.8],[18.5,42.4],[17.3,43],[15.9,43.6],[15,44.5],[14.2,45]]
+  },
+  {
+    "id": "otuken",
+    "ad": "Ötüken",
+    "grup": "Orhun Yazıtlarında geçen yerler",
+    "tur": "bolge",
+    "digerAdlar": "Ötüken Yış ('Ötüken ormanı')",
+    "kaynak": "Orhun Yazıtları",
+    "aciklama": "Hangay Dağları'nda, Orhun ırmağı çevresindeki kutsal yurt. Kül Tigin yazıtında 'Türk kağanı Ötüken ormanında oturursa ilde sıkıntı olmaz' denir. Göktürk ve Uygur kağanlarının merkeziydi.",
+    "sinir": [[99.5,46.5],[100,48.2],[102,48.8],[104,48],[103.5,46.5],[101.5,46]]
+  },
+  {
+    "id": "altunyis",
+    "ad": "Altun Yış",
+    "grup": "Orhun Yazıtlarında geçen yerler",
+    "tur": "yer",
+    "digerAdlar": "Altay Dağları ('Altın Orman')",
+    "kaynak": "Orhun Yazıtları",
+    "aciklama": "Orhun Yazıtlarında Altay Dağları'nın adı. Göktürklerin ilk yurdu ve Türgişlere karşı yapılan seferlerin yolu üzerindeydi.",
+    "konum": [89,48.5]
+  },
+  {
+    "id": "kogmen",
+    "ad": "Kögmen",
+    "grup": "Orhun Yazıtlarında geçen yerler",
+    "tur": "yer",
+    "digerAdlar": "Sayan Dağları",
+    "kaynak": "Orhun Yazıtları",
+    "aciklama": "Orhun Yazıtlarında Sayan Dağları'nın adı. Göktürkler Kırgızlara karşı yaptıkları seferde karla kaplı Kögmen'i aşarak Kırgız ülkesine indiler.",
+    "konum": [94,52]
+  },
+  {
+    "id": "kadirkan",
+    "ad": "Kadırkan Yış",
+    "grup": "Orhun Yazıtlarında geçen yerler",
+    "tur": "yer",
+    "digerAdlar": "Büyük Hingan Dağları",
+    "kaynak": "Orhun Yazıtları",
+    "aciklama": "Göktürk ülkesinin doğu sınırı. Yazıtlarda ülkenin sınırları anlatılırken 'doğuda Kadırkan ormanına kadar' denir.",
+    "konum": [120,49]
+  },
+  {
+    "id": "yincuoguz",
+    "ad": "Yinçü Ögüz",
+    "grup": "Orhun Yazıtlarında geçen yerler",
+    "tur": "yer",
+    "digerAdlar": "Seyhun (Sir Derya); 'İnci ırmağı'",
+    "kaynak": "Orhun Yazıtları",
+    "aciklama": "Orhun Yazıtlarında geçen ırmak; Talat Tekin'in de içinde olduğu araştırmacıların çoğu bunu Seyhun olarak kabul eder. Kül Tigin yazıtına göre Göktürk ordusu Yinçü ırmağını geçerek Demir Kapı'ya kadar ilerledi.",
+    "konum": [66.75,44.17]
+  },
+  {
+    "id": "derbent",
+    "ad": "Derbent (Bâbülebvâb)",
+    "grup": "Geçitler ve kapılar",
+    "tur": "gecit",
+    "digerAdlar": "Arapça Bâbülebvâb ('kapıların kapısı'); Türkler Demirkapı derdi",
+    "kaynak": "Arap coğrafyacıları, Bizans ve Ermeni kaynakları",
+    "aciklama": "Kafkas Dağları ile Hazar Denizi arasındaki dar kıyı geçidi. Sasaniler bozkır kavimlerinin akınlarını durdurmak için buraya surlar yaptırdı. Hazar–Arap savaşlarının en önemli cephesiydi. Arapça adı 'kapıların kapısı' anlamına gelir.",
+    "konum": [48.29,42.06],
+    "konular": [{"baslik":"Adları ve surları","gorusler":[{"grup":"turk","metin":"Hazar Denizi ile Büyük Kafkas Dağları arasındaki bu kale, 5.-6. yüzyıllarda Sâsânîler tarafından surlarla tahkim edilmiş bir şehre dönüştürüldü. Farsça 'Derbend' kapalı kapı, geçit, sınır karakolu demektir. Arap kaynakları el-Bâb, el-Ebvâb, Bâbülebvâb ve Bâbülhadîd adlarını kullanır; Bâbülhadîd'in Türkçe 'Temür Kapıg / Demür Kapu'dan geldiği ileri sürülür. Osmanlılar da şehre Demirkapı derdi.","kaynaklar":["dia-derbend"]}]},{"baslik":"Şehrin tarihi","gorusler":[{"grup":"turk","metin":"Araplar şehri muhtemelen 652-653'te aldı ve Hazarlarla yaklaşık 150 yıl savaştı. Moğollar 1239'da şehri ele geçirdi; İlhanlı-Altın Orda savaşları onun Hazar'ın başlıca ticaret limanı olma rolünü bitirdi. Osmanlılar Derbend'i 1578'den 1603'e kadar elinde tuttu; Rusya 1806'da şehre kesin olarak hâkim oldu.","kaynaklar":["dia-derbend"]}]},{"baslik":"Zülkarneyn'in seddi","gorusler":[{"grup":"turk","metin":"Kur'an'da (Kehf 18/83-98) Zülkarneyn'in Ye'cûc ve Me'cûc'e karşı yaptığı set klasik yorumlarda çoğunlukla Kafkasya'da aranmış, Derbend de aday yerler arasında gösterilmiştir. Ancak Derbend surları taştan yapıldığı ve deniz kıyısından uzandığı için Kur'an'daki tasvire uymaz.","kaynaklar":["dia-zulkarneyn"]},{"grup":"turk","metin":"Zülkarneyn'in yaptırdığı sete 'Sedd-i İskender' denir; ad, Zülkarneyn'in çoğu kez Büyük İskender ile özdeşleştirilmesinden gelir. Kaynaklar seddin yeri için Kafkasya (Derbend ve Demirkapı), Mâverâünnehir ve Çin Seddi gibi farklı yerler gösterir.","kaynaklar":["dia-sedd"]}]}]
+  },
+  {
+    "id": "kavimlerkapisi",
+    "ad": "Kavimler Kapısı",
+    "grup": "Geçitler ve kapılar",
+    "tur": "gecit",
+    "digerAdlar": "Ural Dağları ile Hazar Denizi arasındaki geçiş sahası",
+    "kaynak": "Türk tarih yazımında kullanılan coğrafi terim",
+    "aciklama": "Kuzeyde Ural Dağları'nın güney uçları ile güneyde Hazar Denizi arasında kalan geniş düzlük. Orta Asya'dan Avrupa'ya giden bozkır kavimleri bu aradan geçip Yayık (Ural) ve İtil (Volga) ırmaklarını aşarak Karadeniz'in kuzeyindeki bozkırlara ulaştı.",
+    "konum": [54.5,48.5],
+    "konumNotu": "Kapı tek bir nokta değil, yüzlerce kilometre genişliğinde bir sahadır; simge bu sahanın ortasına konmuştur.",
+    "konular": [{"baslik":"Göç yolu olarak Kavimler Kapısı","gorusler":[{"grup":"turk","metin":"Ayçiçek'e göre Doğu Avrupa'ya giden Türk boyları, Kavimler Kapısı denilen, Hazar Denizi'nin kuzeyi ile Urallar'ın güneyindeki güzergâhı kullandı. Göç eden kavimler aşılması güç dağ, nehir, orman ve deniz gibi engellerden kaçınıp düz ve engeli az yerleri tercih ediyordu. Kavimler Kapısı, Ural Dağları ile Don ve İdil ırmakları üzerinden Türkistan'ı Doğu Avrupa'ya bağlayan tek geçit özelliğindeydi; bu yolu Türk boylarından başka halklar da kullandı.","kaynaklar":["aycicek-2019|s. 108","ders-oatt"]}]}]
+  },
+  {
+    "id": "alankapisi",
+    "ad": "Alan Kapısı (Darial Geçidi)",
+    "grup": "Geçitler ve kapılar",
+    "tur": "gecit",
+    "digerAdlar": "Bâbü'l-Lân, Kafkas Kapısı",
+    "kaynak": "Roma, Bizans ve Arap kaynakları",
+    "aciklama": "Kafkas Dağları'nın ortasından geçen dağ geçidi. Bozkırdan güneye inen akınlar bu geçidi ya da Derbent'i kullanırdı; Hunların 395'teki Anadolu ve Suriye akını Kafkas geçitleri üzerinden yapıldı.",
+    "konum": [44.63,42.74],
+    "konular": [{"baslik":"Zülkarneyn'in seddi","gorusler":[{"grup":"turk","metin":"Ebü'l-Kelâm Âzâd'a göre Zülkarneyn'in Ye'cûc ve Me'cûc'e karşı yaptığı set Daryal Geçidi'ndedir. Âzâd, Zülkarneyn'i Pers kralı Büyük Koreş (Kiros) olarak görür; Daryal'daki geçit eski Ermeni kitâbelerinde 'Koreş Geçidi' olarak anılır.","kaynaklar":["dia-zulkarneyn"]}]}]
+  },
+  {
+    "id": "demirkapi",
+    "ad": "Demir Kapı (Temir Kapıg)",
+    "grup": "Geçitler ve kapılar",
+    "tur": "gecit",
+    "digerAdlar": "Arapça Bâbülhadîd; Buzgala Geçidi",
+    "kaynak": "Orhun Yazıtları, Çinli seyyah Hüen-Çang, Bîrûnî",
+    "aciklama": "Bugün Özbekistan'ın Kaşkaderya vilayetinde, Dehkanâbâd'ın güneyinde, Baysun dağlarındaki yaklaşık 3 km uzunluğunda dar bir geçit. Buhara ve Semerkant'tan Belh'e giden ana yol buradan geçerdi. Orhun Yazıtlarında Göktürk seferlerinin batıda ulaştığı yer olarak anılır. Türkler Dağıstan'daki Derbent'e de Demirkapı derdi; bu ikisi ayrı yerlerdir.",
+    "konum": [66.55,38.25]
+  },
+  {
+    "id": "cungarkapisi",
+    "ad": "Cungar Kapısı",
+    "grup": "Geçitler ve kapılar",
+    "tur": "gecit",
+    "digerAdlar": "Alataw Geçidi",
+    "kaynak": "Çin kaynakları",
+    "aciklama": "Cungarya ile Yedisu'yu birbirine bağlayan dağlar arasındaki dar geçit. Doğudan batıya giden bozkır göçlerinin en önemli kapılarından biridir.",
+    "konum": [82.5,45.2]
+  },
+  {
+    "id": "ortaasya",
+    "ad": "Orta Asya",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Türkistan (Batı ve Doğu Türkistan)",
+    "kaynak": "Coğrafi terim",
+    "aciklama": "Türk tarihinde 'Orta Asya' ya da 'Türkistan' denen geniş bölge; bilinen ilk Türk devletleri bu sahada kuruldu. Dağlar arasındaki bozkırlar, havzalar ve vahalar göçlerin yollarını belirledi. Bölgenin sınırları kaynaklara göre değişir; haritadaki çizgi yaklaşıktır.",
+    "sinir": [[53.9,37.3],[53.8,39.5],[53,41.5],[51.5,43.5],[51.2,44.6],[53,46.9],[51.6,48],[54.5,51],[58.5,53.5],[60.5,56],[70,56.5],[80,55.8],[90,55],[100,54],[110,53],[118,52.5],[122,50],[121,45],[118.5,42],[113,40.8],[106,38.5],[100,36.5],[96,33],[90,30],[82,30.5],[76,32],[73.5,34.5],[70.5,35.5],[66.5,35.2],[62,35.5],[60,36.8],[56,37.6]]
+  },
+  {
+    "id": "turfan",
+    "ad": "Turfan Havzası",
+    "grup": "Orta Asya",
+    "tur": "bolge",
+    "digerAdlar": "Turfan çukuru",
+    "kaynak": "Çin kaynakları, Uygur belgeleri",
+    "aciklama": "Tanrı Dağları'nın doğu ucunun güneyindeki çukur havza. Tabanı deniz seviyesinin yaklaşık 150 metre altındadır. Çin kaynaklarında Kao-çang diye geçen Koço şehri buradaydı; 840'tan sonra Uygurlar Turfan ve Beşbalık çevresinde Koço Uygur Devleti'ni kurdu.",
+    "sinir": [[88.4,42.85],[89.3,43.2],[90.3,43.1],[91.3,42.75],[90.5,42.35],[89.2,42.3]]
+  },
+  {
+    "id": "mancurya",
+    "ad": "Mançurya",
+    "grup": "Doğu Asya",
+    "tur": "bolge",
+    "digerAdlar": "Çin kaynaklarında Dongbei (Kuzeydoğu)",
+    "kaynak": "Çin kaynakları",
+    "aciklama": "Büyük Hingan Dağları'nın doğusunda, Amur ırmağının güneyinde kalan ve Kore yarımadasına kadar uzanan geniş ova ve orman bölgesi. Tung-hulardan çıkan Siyenpiler, sonra Kitanlar ve Mançular gibi Moğol ve Tunguz kökenli toplulukların yurdudur. Mete döneminde Hun hâkimiyeti Mançurya'ya kadar uzandı.",
+    "sinir": [[120.5,41.5],[121.8,40.6],[124.4,40],[126.8,41.8],[129.8,42.4],[130.7,42.9],[131.2,44.9],[133.2,45.2],[134.7,48.2],[131.5,47.8],[127.5,49.6],[125.5,52.9],[121,53.3],[120,51.5],[119.6,49],[118.5,47],[121,45],[121,43]]
+  },
+  {
+    "id": "galya",
+    "ad": "Galya",
+    "grup": "Avrupa",
+    "tur": "bolge",
+    "digerAdlar": "Latince Gallia",
+    "kaynak": "Roma kaynakları",
+    "aciklama": "Ren ırmağı, Alpler, Pireneler ve Atlas Okyanusu arasındaki bölge; bugünkü Fransa, Belçika ve Ren'in batısındaki topraklar. Kavimler Göçü'nden sonra Germen kavimlerinden Franklar buraya yerleşip Frank Krallığı'nı kurdu; Fransa adı da onlardan gelir. Attila 451'deki seferinde Galya'ya girdi ve Katalaun Ovası'nda savaştı.",
+    "sinir": [[-1.8,43.4],[0.5,42.7],[3.1,42.4],[4.5,43.4],[6.5,43.1],[7.5,43.8],[6.9,45.6],[7,46.4],[7.6,47.6],[8.2,49],[7.6,50.3],[6.9,51],[6.1,51.85],[4.2,51.75],[2.5,51.1],[1.6,50.2],[0.2,49.7],[-1.6,49.6],[-4.7,48.5],[-4.4,47.8],[-2.2,47.1],[-1.2,46.1],[-1.3,44.5]]
+  },
+  {
+    "id": "tunarenhatti",
+    "ad": "Tuna–Ren Hattı",
+    "grup": "Avrupa",
+    "tur": "hat",
+    "digerAdlar": "Roma'nın kuzey sınırı (limes)",
+    "kaynak": "Roma kaynakları",
+    "aciklama": "Roma İmparatorluğu'nun Avrupa'daki kuzey sınırı. Ren ve Tuna ırmakları kaynaklarına yakın yerlerde birbirine çok yaklaştığı için iki ırmak tek bir savunma hattı gibi kullanıldı; kıyılarına kaleler ve gözetleme kuleleri yapıldı. Roma, kuzeyde 'barbar' saydığı Germen kavimlerinin bu hattın güneyine inmesini istemiyordu. Haritadaki çizgi 4. yüzyıldaki hattı gösterir: Ren boyunca Konstanz Gölü'ne, oradan İller ırmağı üzerinden Tuna'ya ve Tuna boyunca Karadeniz'e.",
+    "konum": [13.5,48.6],
+    "hat": [[[9.18,47.67],[9.27,47.65],[9.55,47.53],[9.55,47.51]],[[9.13,47.67],[9.03,47.69],[8.95,47.67],[8.88,47.66]],[[9.13,47.67],[9.18,47.67]],[[8.88,47.66],[8.78,47.69],[8.64,47.7],[8.6,47.61],[8.52,47.58],[8.42,47.58],[8.32,47.59],[8.23,47.62],[8.14,47.6],[8.04,47.56],[7.91,47.56],[7.83,47.59],[7.68,47.54],[7.59,47.57],[7.55,47.65],[7.54,47.73],[7.54,47.83],[7.58,47.91],[7.62,48],[7.57,48.1],[7.61,48.18],[7.68,48.24],[7.72,48.32],[7.74,48.41],[7.77,48.49],[7.8,48.58],[7.85,48.66],[7.92,48.7],[7.98,48.76],[8.08,48.8],[8.15,48.9],[8.23,48.97]],[[6.03,51.88],[5.96,51.94],[5.89,51.99],[5.8,51.97],[5.71,51.96],[5.63,51.95],[5.5,51.98],[5.42,51.97],[5.33,51.96]],[[8.23,48.97],[8.36,49.11],[8.38,49.21],[8.48,49.3],[8.5,49.38],[8.46,49.45],[8.43,49.53],[8.4,49.61],[8.36,49.69],[8.44,49.73],[8.39,49.82],[8.34,49.89],[8.23,50.04],[8.05,50.02],[7.96,49.98],[7.88,49.97],[7.78,50.05],[7.73,50.11],[7.65,50.18],[7.59,50.24],[7.59,50.33],[7.54,50.42],[7.46,50.43],[7.33,50.49],[7.27,50.57],[7.21,50.63],[7.16,50.71],[7.09,50.76],[7.01,50.82],[7.05,50.89],[6.97,50.92],[6.96,51],[6.89,51.07],[6.85,51.14],[6.78,51.19],[6.72,51.26],[6.68,51.35],[6.74,51.41],[6.69,51.48],[6.69,51.56],[6.59,51.58],[6.59,51.66],[6.49,51.67],[6.41,51.72],[6.34,51.77],[6.28,51.82],[6.08,51.85],[6,51.88],[5.9,51.87],[5.81,51.87],[5.72,51.89],[5.54,51.9],[5.46,51.89],[5.37,51.82],[5.29,51.83],[5.18,51.82],[5.09,51.83],[4.99,51.82]],[[4.99,51.82],[4.87,51.81],[4.79,51.8],[4.68,51.72]],[[4.4,51.71],[4.32,51.73],[4.16,51.8],[4.08,51.84]],[[9.18,47.67],[9.45,47.6],[9.73,47.5],[10.31,47.73],[10.15,48],[10.05,48.25],[9.99,48.4]],[[17.21,48.06],[17.27,48.01],[17.37,47.98],[17.47,47.89],[17.56,47.84],[17.64,47.82],[17.74,47.77],[17.83,47.75],[18.11,47.76],[18.24,47.75],[18.35,47.78],[18.55,47.79],[18.63,47.78],[18.72,47.79],[18.79,47.83],[18.88,47.83],[19.01,47.83],[19.11,47.8],[19.12,47.69],[19.05,47.54],[19.05,47.45],[18.97,47.38],[18.92,47.29],[18.89,47.21],[18.89,47.11],[18.97,47.03],[18.97,46.94],[18.93,46.87],[18.98,46.78],[19,46.69],[18.89,46.64],[18.91,46.53],[18.9,46.41],[18.91,46.33],[18.91,46.2],[18.83,46.14],[18.76,46.09],[18.69,46.02],[18.81,45.92],[18.85,45.86],[18.9,45.77],[18.95,45.69],[18.91,45.62],[18.94,45.54],[19.02,45.57],[19.09,45.53],[19.01,45.5],[19.04,45.42],[19.08,45.35],[19.16,45.29],[19.36,45.25],[19.49,45.26],[19.57,45.24],[19.66,45.23],[19.74,45.25],[19.83,45.24],[19.91,45.27],[19.97,45.2],[20.06,45.18],[20.18,45.19],[20.29,45.13],[20.35,45.07],[20.3,44.99],[20.4,44.86],[20.51,44.84],[20.59,44.86],[20.63,44.78],[20.72,44.7],[20.83,44.66],[20.99,44.72],[21.08,44.73],[21.16,44.75],[21.27,44.81],[21.36,44.83],[21.5,44.78],[21.58,44.78],[21.66,44.69],[21.76,44.68],[21.84,44.7],[21.96,44.66],[22.03,44.6],[22.09,44.52],[22.17,44.51],[22.3,44.66],[22.38,44.7],[22.47,44.73],[22.55,44.67],[22.7,44.63],[22.76,44.58],[22.68,44.55],[22.6,44.57],[22.53,44.51],[22.51,44.43],[22.55,44.35],[22.66,44.31],[22.69,44.23],[22.91,44.12],[22.99,44.11],[23.02,44.03],[22.93,44.01],[22.85,43.9],[22.92,43.83],[23.13,43.85],[23.23,43.88],[23.32,43.89]],[[23.32,43.89],[23.32,43.89]],[[23.32,43.89],[23.48,43.88],[23.59,43.84],[23.72,43.85],[23.8,43.82],[24.16,43.75],[24.36,43.76],[24.43,43.79],[24.71,43.74],[24.96,43.75],[25.08,43.72],[25.21,43.71],[25.29,43.69],[25.4,43.65],[25.49,43.67],[25.57,43.68],[25.65,43.71],[25.74,43.72],[25.81,43.76],[25.92,43.84],[26.05,43.93],[26.12,44],[26.23,44.03],[26.31,44.05],[26.61,44.09],[26.7,44.11],[26.79,44.12],[26.88,44.16],[27,44.17],[27.1,44.14],[27.21,44.13],[27.29,44.15],[27.44,44.13],[27.52,44.17],[27.61,44.21],[27.69,44.2],[27.79,44.24],[27.93,44.27],[28.05,44.4],[28.11,44.46],[28.04,44.51],[28.03,44.6],[27.98,44.68],[27.9,44.71],[27.85,44.77],[27.86,44.86],[27.89,44.96],[27.91,45.05],[27.95,45.13],[27.94,45.22],[28.01,45.32],[28.03,45.4],[28.13,45.43],[28.21,45.45],[28.28,45.4],[28.33,45.32],[28.49,45.28],[28.58,45.25],[28.71,45.23],[28.75,45.23]],[[12.51,48.93],[12.51,48.93]],[[12.51,48.93],[12.51,48.92]],[[10.04,48.43],[10.18,48.45],[10.31,48.48],[10.39,48.52],[10.57,48.6],[10.66,48.65],[10.74,48.69],[10.88,48.73],[11.38,48.75],[11.52,48.77],[11.61,48.77],[11.68,48.79],[11.76,48.84],[11.82,48.89],[11.96,48.92],[12.03,48.99],[12.12,49.03],[12.22,49.02],[12.31,49.01],[12.41,48.97],[12.5,48.95],[12.51,48.93]],[[17.21,48.06],[17.15,48.14],[17.06,48.14],[16.96,48.18],[16.86,48.14],[16.75,48.13],[16.59,48.14],[16.49,48.18],[16.42,48.23],[16.35,48.33],[16.28,48.39],[16.09,48.36],[15.95,48.36],[15.86,48.4],[15.76,48.4],[15.67,48.42],[15.52,48.41],[15.43,48.39],[15.4,48.31],[15.32,48.24],[15.24,48.23],[15.16,48.22],[15.08,48.19],[14.99,48.21],[14.88,48.24],[14.68,48.18],[14.6,48.23],[14.46,48.25],[14.37,48.28],[14.31,48.33],[14.17,48.34],[14.06,48.32],[14.02,48.4],[13.94,48.43],[13.82,48.46],[13.75,48.51],[13.66,48.55],[13.52,48.58],[13.42,48.58],[13.32,48.61],[13.24,48.62],[13.12,48.67],[13.04,48.73],[12.97,48.83],[12.87,48.84],[12.78,48.83],[12.68,48.9],[12.59,48.9],[12.51,48.92],[12.51,48.93]]]
+  },
+  {
+    "id": "peteng",
+    "ad": "Pe-teng (Pai-teng) Tepesi",
+    "grup": "Kaynaklarda geçen yerler",
+    "tur": "yer",
+    "turAdi": "Savaş yeri",
+    "digerAdlar": "Çince Baideng; P'ing-ç'eng (bugünkü Datong) yakınında",
+    "kaynak": "Shiji, Bölüm 110",
+    "aciklama": "MÖ 200'de Mete'nin Han imparatoru Kao'yu (Liu Pang) yedi gün kuşattığı tepe. Hun süvarileri tepenin dört yanını, at renklerine göre ayrılmış birliklerle sardı. Kuşatma bir köşenin açılmasıyla sona erdi; ardından Çin'in Hunlara her yıl ipek ve yiyecek göndermeyi kabul ettiği antlaşma yapıldı. Ayrıntılar Devletler penceresindeki Asya Hun Devleti sayfasında.",
+    "konum": [113.45,40.15],
+    "konumNotu": "Tepe, bugünkü Datong şehrinin yakınındaki Baideng tepesi olarak gösterilir; kesin yeri tartışmalıdır."
+  },
+  {
+    "id": "gerros",
+    "ad": "Gerros (İskit hanlarının mezarları)",
+    "grup": "Kaynaklarda geçen yerler",
+    "tur": "yer",
+    "turAdi": "Mezar bölgesi",
+    "digerAdlar": "Herodot'ta Gerrhoi",
+    "kaynak": "Herodot, Tarih, IV. kitap",
+    "aciklama": "Herodot'a göre İskitler ölen hanlarını, Borysthenes (Dinyeper) ırmağında gemiyle 40 günde varılan en uzak yer olan Gerros'ta gömerdi. Dinyeper'in aşağı boylarında, bugünkü Nikopol çevresinde bulunan Çortomlık, Solokha ve Tolstaya Mogila gibi büyük kurganlar bu 'kral mezarlarının' örnekleridir.",
+    "konum": [34.4,47.6],
+    "konumNotu": "Herodot'un Gerros'unun yeri kesin bilinmiyor; simge, büyük İskit kurganlarının toplandığı Nikopol çevresine konmuştur.",
+    "konular": [{"baslik":"Kral mezarları","gorusler":[{"grup":"ana","metin":"Herodot'a göre İskitler ölen krallarını, Borysthenes (Dinyeper) ırmağında gemiyle çıkılabilen en uzak yer olan Gerros'ta gömerdi; ceset buraya kadar İskit boyları arasında dolaştırılırdı.","kaynaklar":["herodot|IV.53, IV.71"]}]}]
+  }
+]
