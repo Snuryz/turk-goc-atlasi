@@ -3,7 +3,7 @@
 // Başlıktaki "Devletler" düğmesiyle ya da bilgi panelindeki "Ayrıntılı bilgi" düğmesiyle açılır.
 
 import { yilYazisi } from "./yardimci.js";
-import { konularHtml, kullanilanKaynaklar, kaynakcaHtml } from "./konular.js";
+import { konularHtml, kullanilanKaynaklar, kaynakcaHtml, yilKaynagiHtml } from "./konular.js";
 
 // Sayfa: özet, kronoloji, konu başlıkları (her başlığın altında kaynağın türüne göre gruplanmış bilgiler) ve kaynakça.
 function ayrintiHtml(devlet, detay, kaynaklar) {
@@ -13,6 +13,7 @@ function ayrintiHtml(devlet, detay, kaynaklar) {
       <p class="eyebrow">Devlet</p>
       <h2>${devlet.ad}</h2>
       <div class="years">${yilYazisi(devlet.baslangic)} – ${yilYazisi(devlet.bitis)}</div>
+      ${yilKaynagiHtml(devlet, kaynaklar)}
       <p class="devlet-ozet">${detay.ozet}</p>
       <button class="makale-linki devlet-haritada" data-id="${devlet.id}">Haritada göster ↗</button>
     </header>

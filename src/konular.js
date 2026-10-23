@@ -20,7 +20,7 @@ const ayir = (ref) => {
 };
 
 // Görüşün altındaki kısa kaynak satırı: "Durmuş (2017), s. 39 · ders notları"
-function kaynakSatiri(refler, kaynaklar) {
+export function kaynakSatiri(refler, kaynaklar) {
   return refler
     .map(ayir)
     .filter(({ id }) => kaynaklar[id])
@@ -32,6 +32,17 @@ function kaynakSatiri(refler, kaynaklar) {
         : `<span title="${kacis(k.kunye)}">${ad}</span>`;
     })
     .join(" · ");
+}
+
+// Devletin başlangıç-bitiş yıllarının kaynağı: devletler.json'daki "yilKaynagi" alanından (yoksa boş).
+// Açılır kutunun başlığında kaynak, içinde farklı görüşlerin açıklaması durur.
+export function yilKaynagiHtml(d, kaynaklar) {
+  const y = d.yilKaynagi;
+  if (!y?.kaynaklar?.length) return "";
+  return `<details class="yil-kaynagi">
+      <summary>Yılların kaynağı: ${kaynakSatiri(y.kaynaklar, kaynaklar)}</summary>
+      ${y.not ? `<p>${y.not}</p>` : ""}
+    </details>`;
 }
 
 // Bir kayıtta geçen bütün kaynak kimlikleri (tekrarsız, ilk geçiş sırasıyla)

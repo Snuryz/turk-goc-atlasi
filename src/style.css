@@ -41,6 +41,28 @@ body {
 .app.panel-kapali { --sag: 0px; }
 .app.panel-kapali aside { display: none; }
 
+/* Bilgi panelini kenarından sürükleyerek büyütme (bkz. main.js, "Panel genişliği").
+   Kullanıcının seçtiği genişlik .app üzerinde --sag-ozel olarak tutulur; panel kapalıyken ve telefonda kullanılmaz. */
+.panel-tutamak { display: none; }
+@media (min-width: 900px) {
+  .app:not(.panel-kapali) { grid-template-columns: var(--sol) minmax(0, 1fr) var(--sag-ozel, var(--sag)); }
+  .app:not(.panel-kapali) .panel-tutamak {
+    display: block; grid-area: panel; justify-self: start; align-self: stretch;
+    position: relative; z-index: 6; width: 10px; margin-left: -5px; cursor: col-resize; touch-action: none;
+  }
+  .panel-tutamak::after {
+    content: ""; position: absolute; top: 0; bottom: 0; left: 4px; width: 2px;
+    background: transparent; transition: background .15s;
+  }
+  .panel-tutamak:hover::after, .panel-tutamak:focus-visible::after, .panel-tutamak.surukleniyor::after { background: var(--turquoise); }
+  .panel-tutamak:focus-visible { outline: none; }
+  .app.panel-genisletiliyor { cursor: col-resize; user-select: none; }
+  .app.panel-genisletiliyor #globe { pointer-events: none; }
+}
+@media (min-width: 900px) and (max-width: 1299px) {
+  .app:not(.panel-kapali) { grid-template-columns: 0 minmax(0, 1fr) var(--sag-ozel, var(--sag)); }
+}
+
 /* ---------- Başlık ---------- */
 header {
   grid-area: head;
@@ -453,6 +475,12 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--turquoise);
 .devlet-baslik h2 { margin: 0 0 4px; font-family: var(--font-display); font-weight: 400; font-size: 1.9rem; }
 .devlet-baslik .years { font-family: var(--font-mono); color: var(--gold); font-size: .9rem; }
 .devlet-ozet { max-width: 68ch; line-height: 1.65; margin: 12px 0; }
+/* Yılların altındaki "Yılların kaynağı" satırı; tıklanınca farklı görüşlerin açıklaması açılır */
+.yil-kaynagi { margin-top: 4px; font-size: .74rem; color: var(--muted); max-width: 68ch; }
+.yil-kaynagi summary { cursor: pointer; }
+.yil-kaynagi a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+.yil-kaynagi a:hover { color: var(--fg); }
+.yil-kaynagi p { margin: 6px 0 0; line-height: 1.5; }
 .devlet-icindekiler { margin: 20px 0; padding: 12px 16px; border: 1px solid var(--line); border-radius: 6px; max-width: 68ch; }
 .devlet-icindekiler ol { margin: 0; padding-left: 20px; columns: 2; column-gap: 24px; font-size: .86rem; line-height: 1.8; }
 .devlet-icindekiler a { color: var(--fg); text-decoration: none; }
@@ -529,3 +557,101 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--turquoise);
   /* Telefonda bilgi paneli zaten haritanın hemen altında: "Bilgi" düğmesine gerek yok, başlığa sığsın */
   #bilgiPaneliDugmesi { display: none; }
 }
+
+/* ---------- Zaman çubuğundaki "Haritada göster" düğmeleri (devletler, göçler, savaşlar) ---------- */
+.timeline { grid-template-columns: auto auto auto auto minmax(0, 1fr); }
+.katman-ayari { display: grid; gap: 4px; }
+.katmanlar { display: flex; gap: 6px; }
+.katman-dugmesi {
+  display: inline-flex; align-items: center; gap: 6px; cursor: pointer; white-space: nowrap;
+  font: 500 .78rem var(--font-body); color: var(--muted); background: transparent;
+  border: 1px solid var(--line); border-radius: 999px; padding: 4px 10px 4px 7px;
+}
+.katman-dugmesi:hover { color: var(--fg); }
+.katman-dugmesi[aria-pressed="true"] { color: var(--fg); border-color: rgba(70, 194, 180, .6); background: rgba(70, 194, 180, .12); }
+/* Onay kutusu görünümlü işaret: açıkken turkuaz ve içinde ✓ */
+.katman-isareti {
+  width: 13px; height: 13px; border-radius: 3px; border: 1.5px solid var(--muted); flex: none;
+  display: inline-grid; place-items: center; font: normal 700 .6rem/1 var(--font-body); color: var(--sky);
+}
+.katman-dugmesi[aria-pressed="true"] .katman-isareti { background: var(--turquoise); border-color: var(--turquoise); }
+.katman-dugmesi[aria-pressed="true"] .katman-isareti::after { content: "✓"; }
+/* Orta genişlikte çubuk tek satıra sığmaz: yıl çubuğu alt satıra iner */
+@media (min-width: 900px) and (max-width: 1149px) {
+  .timeline { grid-template-columns: auto auto auto minmax(0, 1fr); gap: 8px 18px; }
+  .katman-ayari { justify-self: end; }
+  .ruler { grid-column: 1 / -1; }
+}
+@media (max-width: 899px) {
+  .timeline { grid-template-columns: auto auto minmax(0, 1fr); }
+  .katman-ayari { grid-column: 1 / -1; display: flex; align-items: center; gap: 10px; }
+  .katmanlar { flex-wrap: wrap; }
+}
+
+/* ---------- Savaşlar: bilgi panelindeki liste, savaş kartı, Savaşlar penceresi ---------- */
+.savas-listesi-paneli button {
+  display: grid; grid-template-columns: 1fr auto; gap: 8px; width: 100%; text-align: left; cursor: pointer;
+  font: inherit; color: var(--fg); background: transparent; border: 0; padding: 0;
+}
+.savas-listesi-paneli button:hover .goc-adi, .savas-listesi-paneli button.on .goc-adi { color: var(--turquoise); }
+.savas-listesi-paneli .pasif .goc-adi { color: var(--muted); }
+.savas-taraflari { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 8px; align-items: stretch; margin: 14px 0 10px; }
+.savas-tarafi {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px; padding: 8px 10px;
+  border: 1px solid var(--line); border-radius: 6px; font-size: .84rem; line-height: 1.35; background: rgba(255, 255, 255, .02);
+}
+.savas-tarafi i { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+.savas-tarafi span { flex: 1; min-width: 0; }
+.savas-tarafi.kazanan { border-color: rgba(227, 176, 75, .7); background: rgba(227, 176, 75, .08); }
+.savas-tarafi .kazandi { font-size: .64rem; letter-spacing: .1em; text-transform: uppercase; color: var(--gold); font-weight: 600; }
+.savas-taraflari .karsi { align-self: center; color: var(--gold); font-size: 1.1rem; }
+.savas-sonucu { font-size: .88rem; line-height: 1.6; margin: 0; }
+.devlet-baslik .savas-sonucu { max-width: 68ch; }
+.devlet-baslik .not, .savas-penceresi .not { margin: 10px 0 12px; padding: 8px 12px; font-size: .82rem; line-height: 1.5; border-left: 3px solid var(--gold); background: rgba(227, 176, 75, .08); max-width: 68ch; }
+.card .savas-ayrinti, .savas-haritada { margin: 12px 0 4px; cursor: pointer; background: transparent; }
+
+.savaslar-penceresi .devletler-govde { grid-template-columns: 330px minmax(0, 1fr); }
+.savas-suzgeci { display: flex; flex-wrap: wrap; gap: 6px; padding: 2px 20px 12px; }
+.savas-suzgeci .chip { font-size: .76rem; padding: 3px 10px; }
+.savas-suzgeci .chip.on { background: rgba(70, 194, 180, .14); color: var(--turquoise); }
+.savas-listesi { overflow-y: auto; padding: 4px 8px 20px; border-right: 1px solid var(--line); display: grid; gap: 2px; align-content: start; }
+.savas-yuzyili {
+  position: sticky; top: 0; z-index: 1; margin: 10px 0 2px; padding: 6px 8px 4px; background: var(--sky-2);
+  font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: var(--gold);
+  border-bottom: 1px solid var(--line);
+}
+.savas-yuzyili:first-child { margin-top: 0; }
+.savas-satiri {
+  display: grid; grid-template-columns: 5.4em minmax(0, 1fr); gap: 1px 8px; width: 100%; text-align: left; cursor: pointer;
+  font: .84rem var(--font-body); color: var(--fg); background: transparent; border: 0; border-radius: 4px; padding: 7px 8px;
+}
+.savas-yili { grid-row: span 2; padding-top: 1px; font: .76rem var(--font-mono); color: var(--gold); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.savas-adi { display: flex; align-items: baseline; gap: 6px; line-height: 1.35; }
+.savas-adi i { width: 8px; height: 8px; border-radius: 50%; flex: none; transform: translateY(-1px); }
+.savas-karsilik { font-size: .74rem; color: var(--muted); line-height: 1.35; padding-left: 14px; }
+.savas-satiri:hover { background: rgba(255, 255, 255, .04); }
+.savas-satiri.on { background: rgba(70, 194, 180, .14); }
+.savas-satiri.on .savas-adi { color: var(--turquoise); }
+@media (max-width: 760px) {
+  .savas-suzgeci { flex-wrap: nowrap; overflow-x: auto; padding: 2px 16px 10px; }
+  .savas-suzgeci .chip { flex: none; }
+  .savaslar-penceresi .devletler-govde { grid-template-columns: minmax(0, 1fr); grid-template-rows: minmax(0, 42%) minmax(0, 1fr); }
+  .savas-listesi { border-right: 0; border-bottom: 1px solid var(--line); }
+  .savas-taraflari { grid-template-columns: minmax(0, 1fr); }
+  .savas-taraflari .karsi { justify-self: center; }
+}
+/* Dar telefonda başlıktaki dört düğme ve uygulama adı tek satıra sığsın */
+@media (max-width: 430px) {
+  header { gap: 6px; padding-left: 10px; padding-right: 10px; }
+  header h1 { font-size: 1.02rem; }
+  header .orkhon { display: none; }
+  .baslik-dugmeleri { gap: 4px; }
+  .panel-dugmesi { padding: 4px 6px; font-size: .68rem; }
+}
+@media (max-width: 380px) {
+  header h1 { font-size: .9rem; }
+  .panel-dugmesi { padding: 4px 5px; font-size: .64rem; }
+}
+/* "Kazandı" işareti dar kutuda adı sıkıştırmasın: adın üstünde ayrı satırda dursun */
+.savas-tarafi .kazandi { flex-basis: 100%; order: -1; }
+.savas-sonucu + .savas-sonucu { margin-top: 6px; }

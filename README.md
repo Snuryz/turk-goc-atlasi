@@ -22,6 +22,7 @@ public/data/                VERİLER: tarih bilgisi buraya eklenir
   goc-yollari.json
   kavimler.json
   atayurt.json
+  savaslar.json             Savaşlar (küredeki kılıç simgeleri ve Savaşlar penceresi)
 src/
   main.js                   Giriş noktası: veriyi yükler, parçaları birbirine bağlar
   kure.js                   3B küreyi kurar, kamerayı uçurur
@@ -29,6 +30,8 @@ src/
     devletler.js            Devlet alanlarını ve isimlerini çizer
     goc-yollari.js          Göç oklarını çizer
     kavimler.js             Kavim ve atayurt noktalarını çizer
+    savaslar.js             Savaşları kılıç simgesiyle çizer
+  savaslar-paneli.js        Başlıktaki "Savaşlar" penceresi (kronolojik liste)
   panel.js                  Sağdaki bilgi paneli
   zaman-cubugu.js           Alttaki yıl kaydırıcısı ve ▶ düğmesi
   yardimci.js               Küçük ortak fonksiyonlar
@@ -58,6 +61,7 @@ Koordinatlar her zaman **[boylam, enlem]** sırasıyla yazılır (önce doğu-ba
 
 - `id`: Benzersiz, Türkçe karakter ve boşluk içermeyen kısa ad.
 - `merkez`: İsim etiketinin duracağı yer.
+- `yilKaynagi` (isteğe bağlı): `baslangic` ve `bitis` yıllarının kaynağı, `{ "kaynaklar": ["dia-hazarlar"], "not": "farklı görüşler..." }` biçiminde. Devlet kartında ve Devletler penceresinde yılların altında "Yılların kaynağı" satırı olarak görünür; tıklanınca `not` açılır. Yıllar değişince sınır aşamaları da yeniden üretilmelidir, çünkü ilk aşama başlangıç yılına çekilir.
 - `sinir`: Sınırın köşe noktaları (temsili). Yalnızca `sinirlar` yazılmamış devletlerde kullanılır.
 - `sinirlar` (isteğe bağlı): Zamanla değişen sınır. Her aşama `{ "yil", "not", "parcalar" }` biçimindedir; `parcalar` bir ya da birkaç kapalı alandır (ör. Osmanlı'nın Anadolu-Balkan ve Kuzey Afrika parçaları). Haritada, zaman çizelgesindeki yıla eşit ya da ondan küçük olan son aşama gösterilir; `not` devletin kartında "Haritadaki sınır" satırında görünür.
 
@@ -129,6 +133,28 @@ Devlet, kavim ve bölge kayıtlarına ve Devletler penceresindeki sayfalara (`de
 - Yeni bir kaynak `kaynaklar.json` dosyasına `kunye`, `kisa`, `url` ve `grup` alanlarıyla eklenir. Makaleler penceresi bu listeden kendiliğinden dolar.
 - Makalelerin PDF'leri sitede tutulmaz, yalnızca bağlantıları verilir. (Bir PDF eklenecekse `pdf`, `lisans` ve `lisansUrl` alanları hâlâ çalışır; ama lisansı ticari olmayan kullanımla sınırlı ya da değişikliğe kapalı olan PDF'ler eklenmemelidir.)
 
+### Yeni savaş (`public/data/savaslar.json`)
+
+Şimdilik yalnızca ayrıntılı sayfası olan devletlerin savaşları eklidir. Her savaş:
+
+```json
+{ "id": "katalaun", "ad": "Katalaun Ovası Savaşı", "yil": 451, "yilYazi": "20 Haziran 451",
+  "konum": [4.37, 48.95], "konumKesin": false, "konumNotu": "Yerin nereden bilindiği / neden yaklaşık olduğu",
+  "taraflar": [ { "ad": "Avrupa Hunları (Attila)", "devlet": "avrupahun" }, { "ad": "Batı Roma ve Vizigotlar" } ],
+  "kazanan": null, "sebep": "Tek cümlelik sebep", "sonuc": "Kısa sonuç",
+  "konular": [
+    { "baslik": "Sebepleri", "gorusler": [ { "grup": "ana", "metin": "...", "kaynaklar": ["jordanes|Getica XXXVI"] } ] },
+    { "baslik": "Savaşın seyri", "gorusler": [ ... ] },
+    { "baslik": "Sonucu", "gorusler": [ ... ] } ] }
+```
+
+- `kazanan`: kazanan tarafın sırası (`0` ya da `1`); sonuç tartışmalıysa ya da savaşılmadan antlaşma yapıldıysa `null`.
+- `taraflar[].devlet`: `devletler.json` kimliği. Simgenin halkası bu devletin renginde çizilir; Savaşlar penceresindeki süzgeç de buna göre çalışır.
+- `konumKesin: false` olan savaşlar kesik çizgili halkayla gösterilir.
+- `konular` her savaşta üç başlıktır: Sebepleri, Savaşın seyri, Sonucu. Görüşler devlet konularındakiyle aynı biçimdedir (bkz. aşağıdaki bölüm); Çin kaynağından alınan bilginin yanına bir Türk akademisyen görüşü de eklenir. `sebep` ve `sonuc` kartın üstündeki kısa özetlerdir.
+- Bir savaş, yapıldığı yıldan 50 yıl sonrasına kadar haritada görünür ve giderek solar (`src/katmanlar/savaslar.js` → `GORUNME_SURESI`).
+- Zaman çubuğundaki **Haritada göster** düğmeleri: Devletler ve Göçler açık, Savaşlar kapalı başlar. Kapatılan katman hem kürede hem bilgi panelindeki listelerde görünmez.
+
 ## Lisanslar ve telif
 
 Uygulama içinde **Makaleler** penceresinin en altında harita verilerinin kaynakları ve lisansları listelenir. Kısaca:
@@ -140,7 +166,7 @@ Uygulama içinde **Makaleler** penceresinin en altında harita verilerinin kayna
 
 ### Açılıştaki söz kutusu (`public/data/sozler.json`)
 
-Uygulama açılınca haritanın köşesinde bu dosyadan rastgele seçilen bir söz kısa süre görünür. Yalnızca kaynağı kesin sözler eklenir: `{ "metin": "...", "kim": "kişi, eser, tarih", "kaynak": "hangi baskıdan çevrildiği", "url": "..." }`. Kutunun ekranda kalma süresi [src/soz-kutusu.js](src/soz-kutusu.js) dosyasının başındaki `SURE_MS` değeridir.
+Uygulama açılınca haritanın köşesinde bu dosyadan bir söz kısa süre görünür. Sözler karışık sırayla gelir; hepsi bir kez gösterilmeden aynı söz tekrarlanmaz. Yalnızca kaynağı kesin sözler eklenir: `{ "metin": "...", "kim": "kişi, eser, tarih", "kaynak": "hangi baskıdan çevrildiği", "url": "..." }`. Kutunun ekranda kalma süresi [src/soz-kutusu.js](src/soz-kutusu.js) dosyasının başındaki `SURE_MS` değeridir.
 
 ## Coğrafya (dağlar, çöller, nehirler)
 

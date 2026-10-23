@@ -2,7 +2,7 @@
 
 const DONEMLER = [
   [-700, "İskit"],
-  [-220, "Asya Hun"],
+  [-209, "Asya Hun"],
   [552, "Göktürk"],
   [1040, "Selçuklu"],
   [1299, "Osmanlı"],
@@ -12,6 +12,7 @@ const DONEMLER = [
 const HIZLAR = [10, 30, 60, 120, 250];
 const VARSAYILAN_HIZ = 60;
 
+// Döndürdüğü nesneyle yıl dışarıdan da ayarlanabilir: zamanCubugu(...).yilAyarla(451)
 export function zamanCubugu(yilDegisti) {
   const kaydirici = document.getElementById("yearRange");
   const yazi = document.getElementById("yearLabel");
@@ -74,4 +75,7 @@ export function zamanCubugu(yilDegisti) {
   }
 
   yilAyarla(yil);
+
+  // Dışarıdan yıl değiştirmek için (ör. Savaşlar penceresindeki "Haritada göster" düğmesi)
+  return { yilAyarla };
 }

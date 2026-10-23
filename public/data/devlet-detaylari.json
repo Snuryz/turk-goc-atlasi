@@ -124,12 +124,12 @@
           "olay": "Hunlar Kuzey ve Güney olarak bir kez daha bölündü."
         },
         {
-          "yil": "MS 2. yy",
-          "olay": "Kuzey Hunları Moğolistan'dan batıya, Kazak bozkırlarına çekildi."
-        },
-        {
           "yil": "MS 85",
           "olay": "Kuzey Hunlar Güney Hunlar, Ting-lingler, Sienpiler ve Batı Bölgeleri'nin saldırılarıyla uzaklara çekildi."
+        },
+        {
+          "yil": "MS 2. yy",
+          "olay": "Kuzey Hunları Moğolistan'dan batıya, Kazak bozkırlarına çekildi."
         },
         {
           "yil": "MS 216",
@@ -1230,7 +1230,7 @@
       ]
     },
     "avrupahun": {
-      "ozet": "Avrupa Hunları, 370'lerde İtil'i (Volga) geçerek önce Alanları, ardından Gotları yendi ve Avrupa tarihinin akışını değiştiren Kavimler Göçü'nü başlattı. Merkezleri Macar ovası (Tisza boyları) olan devlet, Uldız ve Rua dönemlerinde Doğu Roma'yı vergiye bağladı. Attila döneminde (434-453) Hun hâkimiyeti Ren'den Karadeniz'in kuzeyine uzandı; Balkanlar, Galya ve Kuzey İtalya'ya seferler yapıldı. Attila'nın ölümünden sonra tabi kavimlerin ayaklanmasıyla devlet dağıldı; oğlu Dengizik'in 469'da öldürülmesiyle sona erdi.",
+      "ozet": "Avrupa Hunları, 370'lerde İtil'i (Volga) geçerek önce Alanları, ardından Gotları yendi ve Avrupa tarihinin akışını değiştiren Kavimler Göçü'nü başlattı. Merkezleri Macar ovası (Tisza boyları) olan devlet, Uldız ve Rua dönemlerinde Doğu Roma'yı vergiye bağladı. Attila döneminde (434-453) Hun hâkimiyeti Ren'den Karadeniz'in kuzeyine uzandı; Balkanlar, Galya ve Kuzey İtalya'ya seferler yapıldı. Attila'nın ölümünden sonra tabi kavimlerin ayaklanmasıyla devlet dağıldı; oğlu Dengizik'in 468'de Bizans'a yenilip idam edilmesiyle sona erdi.",
       "kronoloji": [
         {
           "yil": "370 dolayları",
@@ -1329,8 +1329,8 @@
           "olay": "İrnek Doğu Roma'yla barışıp Dobruca'ya yerleşti; Dengizik Doğu Roma'ya savaş açtı."
         },
         {
-          "yil": "469",
-          "olay": "Dengizik pusuya düşürülüp öldürüldü; başı Konstantinopolis'te teşhir edildi. Avrupa Hun Devleti sona erdi."
+          "yil": "468",
+          "olay": "Dengizik Bizans ordusuna yenilip esir düştü ve İstanbul'da idam edildi; Avrupa Hun Devleti sona erdi."
         },
         {
           "yil": "476",
@@ -1834,6 +1834,1766 @@
               "kaynaklar": [
                 "yurdakul-2023",
                 "kemaloglu-2023b"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "gokturk1": {
+      "ozet": "Göktürkler 542'de tarih sahnesine çıktı; 552'de Bumın Kağan, bağlı oldukları Juan-juan devletini yıkarak Ötüken merkezli Göktürk Kağanlığı'nı kurdu. Kardeşi İstemi Yabgu batı topraklarını yönetti; Göktürkler Ak Hunları yıktı ve 568'de Bizans ile ipek ticaretine dayanan bir ittifak kurdu. 582'de devlet doğu ve batı olarak ikiye ayrıldı. Doğu Göktürkleri Sui hanedanının ayrılık politikasıyla zayıfladı, Shih-pi Kağan döneminde yeniden güçlendi; İl Kağan zamanında kıtlık ve boy isyanlarıyla sarsılan devlet 630'da Tang hanedanınca yıkıldı.",
+      "tarihNotu": "Bu sayfadaki bilgiler, hangi kaynaktan geldiklerine göre gruplanmıştır. 'Dönemin kaynaklarında' başlığı altındaki bilgiler Sui Shu ile Jiu Tangshu'nun Çince metinlerinden, Bizans tarihçisi Menandros'un telif süresi dolmuş İngilizce çevirisinden ve Orhun Yazıtları'nın V. Thomsen'e dayanan, kamu malı olan çevirisinden özetlenmiştir; çeviri değildir. Çin kaynaklarındaki yıllar, imparatorların saltanat yıllarından hesaplanmıştır. Çin kaynaklarından alınan bilgilerin yanında Türk akademisyenlerin görüşleri de verilmiştir.",
+      "kronoloji": [
+        {
+          "yil": "542",
+          "olay": "Göktürkler tarih sahnesinde görünmeye başladı."
+        },
+        {
+          "yil": "545",
+          "olay": "Batı Wei devletinin elçisi An-no-p'an-t'o Türklere geldi."
+        },
+        {
+          "yil": "546",
+          "olay": "Bumın, Töles boylarını yenip elli bin çadırdan fazla halkı kendine bağladı."
+        },
+        {
+          "yil": "551",
+          "olay": "Juan-juan hükümdarı A-na-kui'nin hakaretinden sonra Bumın, Batı Wei'nin Ch'ang-lo prensesiyle evlendi."
+        },
+        {
+          "yil": "552",
+          "olay": "Bumın, Juan-juanları yenerek İl Kağan unvanını aldı; Göktürk Kağanlığı kuruldu."
+        },
+        {
+          "yil": "552'den sonra",
+          "olay": "Mukan Kağan Juan-juanları tamamen ortadan kaldırdı, batıda Ak Hunları yendi, doğuda Kitanları kaçırdı."
+        },
+        {
+          "yil": "553",
+          "olay": "Bumın'ın oğlu Kara Kağan Juan-juanları yeniden yendi ve Batı Wei'ye elli bin at gönderdi."
+        },
+        {
+          "yil": "563-564",
+          "olay": "Mukan Kağan ile Kuzey Chou birlikte Kuzey Ch'i'ye saldırdı; Chin-yang kuşatması başarısız oldu."
+        },
+        {
+          "yil": "568",
+          "olay": "Soğdlu Maniakh başkanlığındaki Göktürk elçileri İstanbul'a ulaştı; Bizans elçisi Zemarkhos Ağustos'ta yola çıktı."
+        },
+        {
+          "yil": "577-580",
+          "olay": "Kuzey Ch'i yıkılınca T'a-po Kağan Ch'i prensi Kao Shao-i'yi imparator ilan etti; 578'de Yu-chou'ya akın edildi."
+        },
+        {
+          "yil": "582",
+          "olay": "Göktürk Kağanlığı doğu ve batı olarak ikiye ayrıldı."
+        },
+        {
+          "yil": "587",
+          "olay": "İşbara Kağan Apa'yı esir aldı ve öldü; yerine kardeşi Ch'u-lo-hou, ardından Tu-lan Kağan geçti."
+        },
+        {
+          "yil": "597",
+          "olay": "Tu-li Kağan Sui'nin An-i prensesiyle evlendi."
+        },
+        {
+          "yil": "599",
+          "olay": "Sui, Tu-li'yi Ch'i-min Kağan olarak tanıdı; Tu-lan kendi adamlarınca öldürüldü."
+        },
+        {
+          "yil": "607",
+          "olay": "Ch'i-min Kağan, Yü-lin'e gelen Sui imparatoru Yang'ı karşıladı ve üç bin at sundu."
+        },
+        {
+          "yil": "615",
+          "olay": "Shih-pi Kağan, Sui imparatoru Yang'ı Yen-men'de kuşattı."
+        },
+        {
+          "yil": "617",
+          "olay": "Tang hanedanını kuracak olan Li Yüan, T'ai-yüan'da ayaklanırken Shih-pi Kağan'dan yardım istedi."
+        },
+        {
+          "yil": "626",
+          "olay": "İl Kağan ile Tang imparatoru T'ai-tsung, Wei ırmağı üzerindeki köprüde beyaz at kurban ederek antlaştı."
+        },
+        {
+          "yil": "627",
+          "olay": "Ağır bir kış hayvanları kırdı; Sir Tarduş, Uygur ve Bayırku boyları ayaklandı."
+        },
+        {
+          "yil": "630",
+          "olay": "Tang komutanı Li Ching'in baskınıyla Doğu Göktürk Devleti yıkıldı; İl Kağan esir alınıp Ch'ang-an'a götürüldü."
+        },
+        {
+          "yil": "634",
+          "olay": "İl Kağan Çin'de öldü; eski devlet adamlarından biri onun ardından kendini öldürdü."
+        }
+      ],
+      "konular": [
+        {
+          "baslik": "Çin kaynaklarına göre Türklerin kökeni",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre Türklerin ataları P'ing-liang yöresindeki karışık kavimlerdendi ve soyadları Aşina idi. Kaynak, soyun bir dişi kurttan doğan on oğuldan birine dayandığı efsanesini anlatır. Türklerin yaşadığı Altay dağı (Kin-şan, 'Altın Dağ') bir miğfere benzediği için, onların dilinde miğfere 'Türk' denildiğini ve adın buradan geldiğini yazar.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Göktürkler 542'de tarih sahnesinde görünür ve 552'de bağımsızlıklarını ilan eder; bazı araştırmacılar Türk adını Hun hükümdarı Mete'nin kabilesine kadar götürmüştür.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Juan-juanlara bağlılıktan bağımsızlığa (545-553)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Chou Shu'ya göre Türkler Altay'ın güneyinde Juan-juanların demircileri olarak yaşıyordu. Bumın (T'u-men) zamanında Çin sınırında ipek ticaretine başladılar. 545'te Batı Wei devleti An-no-p'an-t'o adlı bir elçi gönderdi; Türkler 'Büyük bir devletin elçisi geldi, bizim devletimiz de yükselecek' diyerek sevindiler. Ertesi yıl (546) Bumın, Tieh-le (Töles) boylarını yenerek elli bin çadırdan fazla halkı kendine bağladı.",
+              "kaynaklar": [
+                "choushu-50"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Chou Shu'ya göre bu zaferden sonra Bumın, Juan-juan hükümdarı A-na-kui'den bir prenses istedi. A-na-kui öfkelenip ona 'Sen benim demirci kölemsin, bunu söylemeye nasıl cüret edersin?' diye cevap verdi. Bumın da Juan-juan elçisini öldürüp onlarla ilişkisini kesti ve Batı Wei'den eş istedi; 551'de Wei'nin Ch'ang-lo prensesiyle evlendi. 552'nin ilk ayında Juan-juanları Huai-huang'ın kuzeyinde ağır bir yenilgiye uğrattı; A-na-kui canına kıydı. Bumın kendine İl Kağan, eşine de Kağatun (hatun) unvanını verdi.",
+              "kaynaklar": [
+                "choushu-50"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Chou Shu'ya göre Bumın kısa süre sonra öldü; yerine oğlu Kara (İ-hsi-chi Kağan) geçti. Kara, Juan-juanların başa geçirdiği Teng-shu-tzu'yu Mu-lai dağında yendi ve 553'te Batı Wei'ye elli bin at gönderdi.",
+              "kaynaklar": [
+                "choushu-50"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Göktürkler 542'de tarih sahnesinde görünür; 552'de Bumın, o zamana kadar bağlı oldukları Juan-juan devletini yıkarak İl Kağan unvanını aldı ve devleti kurdu.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Kuruluş ve ilk fetihler (552'den sonra)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre İl Kağan önce Tieh-le (Töles) boylarını büyük bir yenilgiye uğrattı, sonra Juan-juanlara baskın yapıp onları yendi. Ardından tahta geçen Mukan Kağan yiğit ve akıllı bir hükümdardı: Juan-juanları tamamen ortadan kaldırdı, batıda Ak Hunları (Ye-ta) yendi, doğuda Kitanları kaçırdı.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı Bumın Kağan ile İstemi Kağan'ı devletin kurucuları olarak anar: Dünyanın dört yanındaki halklar onlara düşmandı, ama onları yenip boyun eğdirdiler; doğuda Kadırkan ormanına, batıda Demir Kapı'ya kadar uzanan ülkeyi yönettiler. Yazıta göre bilge ve yiğit kağanlardı, beyleri ve halkı birlik içindeydi. Öldüklerinde cenazelerine doğudan Bükli halkı, Çinliler, Tibetliler, Apar ve Apurım halkları, Kırgızlar, Üç Kurıkanlar, Otuz Tatarlar, Kitanlar ve Tatabılar temsilci gönderdi.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 864"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Bumın 552'de Juan-juan devletini yıkarak İl Kağan unvanını aldı; devletin merkezi Moğolistan'daki Ötüken'di. Kardeşi İstemi Yabgu batı topraklarını Tanrı dağlarının kuzeyindeki Aktağ'dan yönetti.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Mukan Kağan dönemi: büyük genişleme (553-572)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Chou Shu'ya göre Kara'nın ardından kardeşi Mukan (Mu-han) Kağan tahta geçti. Teng-shu-tzu'yu tamamen ortadan kaldırdı, batıda Ak Hunları (Ye-ta) yendi, doğuda Kitanları kaçırdı, kuzeyde Ch'i-ku boylarını kendine bağladı; ülkesi doğuda Liao denizinden batıda Batı Denizi'ne kadar uzanıyordu. Kuzey Chou'ya sığınan Teng-shu-tzu ve üç bin adamı Ch'ang-an'ın Ch'ing kapısı dışında öldürüldü. Mukan ayrıca T'u-yü-hunlara sefer yaptı.",
+              "kaynaklar": [
+                "choushu-50"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Chou Shu'ya göre Kuzey Chou ile Kuzey Ch'i, Mukan'ın desteğini kazanmak için yarıştı. Mukan bir süre iki taraf arasında kaldı, sonunda Kuzey Chou'yu destekledi: 563'te Chou komutanı Yang Chung on bin askerle Türklerle birleşip Kuzey Ch'i'ye saldırdı; ertesi yıl ortak ordu Ch'i başkenti Chin-yang'ı kuşattı ama alamadı. Mukan kızını Chou imparatoruna eş olarak vermeye söz verdi; gelin, bir süre fırtına yüzünden bekletildikten sonra T'ien-ho döneminde (566-572) Çin'e gönderildi.",
+              "kaynaklar": [
+                "choushu-50"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Chou Shu'ya göre Türklerde ölen kişinin çadırının çevresinde yedi kez at koşturulur, yas tutanlar yüzlerini bıçakla çizerdi; ölü eşyalarıyla birlikte yakılır, mezarın başına ölünün hayattayken öldürdüğü düşman sayısı kadar taş dikilirdi. Yeni kağan keçe üzerinde dokuz kez döndürülür, boğazı ipekle hafifçe sıkılarak kaç yıl hüküm süreceği sorulurdu. Kağanın ordugâhının kapısı güneşin doğduğu doğuya bakardı; her yıl atalarının çıktığı mağaraya gidilir, beşinci ayın ortasında da göğe kurban sunulurdu.",
+              "kaynaklar": [
+                "choushu-50"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Bumın'dan sonra devletin batı toprakları İstemi Yabgu'nun yönetimindeydi; İstemi 567'de İstanbul'a elçi gönderdi.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Bizans ile ittifak ve ipek ticareti (568)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Menandros'a göre Göktürklere bağlanan Soğdlular, ipeklerini İran'da satabilmek için kağandan İran'a elçi göndermesini istedi. Soğdlu Maniakh başkanlığındaki elçiler Sasani hükümdarı Hüsrev'in sarayına gitti; Hüsrev, Göktürklerin İran'a serbestçe girmesini istemediği için ipeği satın alıp elçilerin gözü önünde yaktırdı. İkinci elçilik gönderildiğinde elçilerin çoğu yemeklerine katılan zehirle öldürüldü, ölümleri İran'ın sıcağına bağlandı. Bunun üzerine Maniakh kağana, ipeği en çok kullanan Bizans'a yönelmeyi önerdi; 568'de Göktürk elçileri İskit diliyle yazılmış bir mektup ve değerli ipeklerle İstanbul'a ulaştı. Elçiler imparator II. Justinos'a, Türklerin dört önderi olduğunu ama bütün halkın başında kağanın bulunduğunu, kağanın Ak Hunları yenip vergiye bağladığını anlattı ve iki devlet arasında dostluk ant içilerek kuruldu.",
+              "kaynaklar": [
+                "menandros-yule|s. 205-207"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Menandros'a göre imparator aynı yılın Ağustos ayında Kilikyalı Zemarkhos'u Maniakh ile birlikte Göktürklere elçi gönderdi. Soğd topraklarına vardıklarında Türkler onlara satılık demir gösterdi; kötü ruhları kovan kişiler çan çalıp davul vurarak eşyaları ve Zemarkhos'u ateşten geçirip arındırdı. Menandros kağanın adını Dizabulos olarak verir; ordugâhı 'Altın Dağ' denen Ektağ'daydı. Kağan iki tekerlekli, bir atla çekilebilen altın bir tahtta oturuyordu; çadırlar renkli ipek örtülerle süslüydü, altın kaplar, dört altın tavus kuşu üstünde duran bir taht ve gümüş eşya dolu arabalar vardı. Kağan Zemarkhos'u İran seferine yanında götürdü; Talas'ta İran elçisiyle aynı sofrada Bizans elçisine daha onurlu bir yer verip İranlıları ağır sözlerle suçladı.",
+              "kaynaklar": [
+                "menandros-yule|s. 208-211"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre batı topraklarını yöneten İstemi Yabgu 567'de İstanbul'a elçi göndermiştir.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Göktürklerin yaşayışı ve devlet düzeni",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre Göktürkler keçe çadırlarda yaşar, saçlarını uzatıp çözük bırakır, giysilerini soldan kavuşturur, et yer ve süt içerdi. Savaşta ölmeyi şeref, hastalıkla ölmeyi utanç sayarlardı. Ruhlara saygı gösterir, kamlara (şamanlara) inanırlardı; yılın beşinci ayında koyun ve at kurban ederek göğe tapınırlardı. Kaynak yazılarının olmadığını, sözleşmeleri ağaca çentik atarak yaptıklarını da kaydeder. Devlet unvanları yabgu, şad, tegin gibi yirmi sekiz derecede sıralanırdı.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Menandros'un anlattığı Göktürk elçileri de Türklerin dört önderi bulunduğunu, ama bütün halk üzerinde en yüksek yetkinin kağanda olduğunu söyler.",
+              "kaynaklar": [
+                "menandros-yule|s. 207"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl, Hunlardaki 'toy' adlı devlet meclisinin Göktürk ve Uygur devletlerinde de sürdüğünü belirtir; toy hükümdarlığı onaylar, gerektiğinde hükümdar seçer ve töre koyardı.",
+              "kaynaklar": [
+                "dia-kurultay"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "T'a-po (Taspar) Kağan dönemi (572-581)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Chou Shu'ya göre T'a-po Kağan çok güçlü bir devlet devraldı ve Çin'e hükmetmeye niyetliydi. Kuzey Chou ve Kuzey Ch'i her yıl ona yüz bin top ipek ve kumaş gönderiyor, Chou başkentindeki Türkler bol bol ağırlanıyordu. T'a-po 'Güneydeki iki oğlum itaatli kaldıkça neyin eksikliğini çekerim?' derdi.",
+              "kaynaklar": [
+                "choushu-50"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Chou Shu'ya göre Kuzey Ch'i 577'de yıkılınca Ch'i prensi Kao Shao-i Türklere sığındı ve T'a-po onu Ch'i imparatoru ilan etti. 578'de Türkler Yu-chou'ya akın etti ve Chou komutanı Liu Hsiung savaşta öldü. 579'da T'a-po Chou'dan evlilik istedi ve Ch'ien-chin prensesi ona verildi; Kao Shao-i ise 580'de Chou elçisi Ho-jo I'nin ikna etmesiyle Çin'e teslim edildi.",
+              "kaynaklar": [
+                "choushu-50"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı, kurucu kağanlardan sonraki dönemi şöyle değerlendirir: Onlardan sonra küçük kardeşleri ve oğulları kağan oldu; ama küçük kardeşler ağabeylerine, oğullar babalarına benzemedi. Bilgisiz ve kötü kağanlar tahta çıktı. Beylerle halk arasındaki uyumsuzluk, Çin'in hile ve entrikaları ve kardeşlerin birbirine düşmesi yüzünden Türk devleti dağıldı.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 864"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Orhun Yazıtları'nın başlıca konularından biri, Türk devletinin iç anlaşmazlıklar ve Çin'in entrikaları yüzünden dağılmasıdır.",
+              "kaynaklar": [
+                "dia-orhon"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Taht meselesi ve İşbara Kağan",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre T'a-po (Taspar) Kağan, 'güneydeki iki oğlum itaatli kaldıkça yoksulluk neden korkayım' diyecek kadar güçlüydü; Çin'deki devletler ona hediyeler gönderiyordu. Onun ölümünden sonra ülkenin ileri gelenleri toplanıp 'dört kağanın oğulları içinde en değerlisi She-t'u'dur' diyerek onu tahta çağırdı; tahta geçen An-lo hâkimiyetini sağlayamayınca ülkeyi She-t'u'ya bıraktı. She-t'u, Şa-po-lüe (İşbara) Kağan adıyla hükümdar oldu; tahta aday olan Ta-lo-pien ise daha sonra Apa Kağan olarak anıldı.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre batı topraklarını Tardu yönetirken batı kanadı 582'de bağımsızlığını ilan etti; Taşağıl bunda Çin'in kışkırtmalarının etkili olduğunu belirtir.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "İşbara, Apa ve Tardu arasındaki mücadele (581-587)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre İşbara Kağan Ötüken dağından (Tu-chin) ülkeyi yönetiyordu; Apa Kağan ise Tola (Tu-lo) ırmağı boyuna itilmişti. İşbara'nın yay çeken 400.000 askerden oluşan ordusu Çin sınırını aşıp Wu-wei, T'ien-shui, An-ting, Chin-ch'eng, Shang, Hung-hua ve Yen-an bölgelerini yağmaladı. Sui sarayı Prens Hung ile Kao Ying gibi komutanları sınır ötesine gönderdi ve sınır savunmasını güçlendirdi.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre İşbara Apa'nın ordugâhına saldırıp annesini öldürdü; Apa batıya, Tardu'nun yanına kaçtı. 587'de Tardu'nun baskısı ve Kitanlardan duyduğu korku yüzünden İşbara, Sui'den Pai-tao ovasının güneyine yerleşmek için izin istedi; Sui Prensi Kuang ona yardım gönderdi. İşbara Apa'yı yenip esir aldı ve aynı yıl öldü. Yerine kardeşi Ch'u-lo-hou Yabgu Kağan adıyla geçti; o da batıya yaptığı bir seferde öldü ve İşbara'nın oğlu Yung-yü-lü, Tu-lan Kağan adıyla tahta çıktı.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Göktürk Kağanlığı'nın 582'de ikiye ayrılmasında Çin'in kışkırtmaları rol oynadı; batı topraklarını bu sırada Tardu yönetiyordu.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "İşbara Kağan ve Sui: 'Gökte iki güneş olmaz'",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre İşbara'nın eşi, Kuzey Chou hanedanından Ch'ien-chin prensesiydi. İşbara iki koldan Çin'e akınlar yaptı; kaynak onun ordusunun yay çekebilen 400.000 askerden oluştuğunu yazar. Ancak bir süre sonra Göktürk ülkesinde büyük bir kıtlık başladı: İnsanlar kemikleri öğütüp yiyecek yapmak zorunda kaldı, salgın hastalıklarla çok sayıda kişi öldü.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre İşbara sonunda Sui imparatoruna bir mektup gönderdi: 'Gökte iki güneş, yeryüzünde iki hükümdar olmaz; büyük Sui hükümdarı gerçek hükümdardır' diyerek bağlılığını bildirdi, ama giyim kuşamlarını değiştirmenin, örgülü saçlarını kesmenin ve dillerini bırakmanın mümkün olmadığını, bunların çok eski âdetler olduğunu ekledi. Sui elçileri Yü Ch'ing-tse ve Ch'ang-sun Sheng'in ısrarıyla İşbara diz çöküp imparatorun mektubunu kabul etti ve onu başının üstüne koydu.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Orhun Yazıtları'nda Türk halkı, Çin'in diplomasisine aldanmaması için defalarca uyarılır. Bilge Kağan Yazıtı da Çinlilerin bol altın, gümüş ve ipek verip tatlı sözlerle uzaktaki halkları kendilerine yaklaştırdığını, buna kanan pek çok Türk'ün yok olduğunu söyler.",
+              "kaynaklar": [
+                "dia-orhon",
+                "orhun-thomsen|s. 862-863"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Sui döneminde Çin'in ayırma siyaseti",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre Tu-lan Kağan, eşi Ta-i prensesini öfkeyle çadırında öldürdü. Çin ise Tu-li Kağan'a imparatorluk ailesinden An-i prensesini eş olarak verdi ve onu destekledi; Tu-li daha sonra Çin tarafından Ch'i-min Kağan unvanıyla kağan ilan edildi. Kaynak böylece Göktürk hanedanı içindeki ayrılıkların Çin'in desteklediği kağanlarla derinleştiğini gösterir.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Göktürk Kağanlığı'nın 582'de ikiye ayrılmasında Çin'in kışkırtmaları rol oynamıştır.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Tu-li (Ch'i-min) Kağan ve Sui'nin desteği (597-608)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre Sui, 589'da güneydeki Ch'en devletini yıkınca Ch'en hükümdarının paravanını Ta-i prensesine (eski Ch'ien-chin prensesi) armağan etti; prenses Ch'en'in yıkılışına yanan bir şiir yazdı. Tu-li Kağan Sui'den evlilik isteyince Sui önce Ta-i prensesinin ölümünü şart koştu; Tu-lan Kağan prensesi çadırında öldürdü. 597'de Tu-li, Sui'nin An-i prensesiyle evlendi; buna öfkelenen Tu-lan Sui ile ilişkisini kesti.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre 598'de Tu-lan ile Tardu, Tu-li'ye saldırıp kardeşlerini ve yeğenlerini öldürdü; Tu-li, Ch'ang-sun Sheng ile birlikte Sui'ye sığındı. 599'da Sui komutanları Tardu'yu yendi; Tu-li'ye 'Ch'i-min Kağan' unvanı verildi ve onun için Ta-li kenti yapıldı. Aynı yıl Tu-lan kendi adamları tarafından öldürüldü. Sui'nin desteklediği Ch'i-min, 607'de Yü-lin'e gelen Sui imparatoru Yang'ı I-ch'eng prensesiyle birlikte karşıladı ve ona üç bin at sundu; imparator bu ziyaret üzerine bir şiir yazdı. Ch'i-min kısa süre sonra öldü ve yerine oğlu Shih-pi Kağan geçti.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Çin, Göktürk hanedanı içindeki ayrılıkları kışkırtarak devleti zayıflatmıştır.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Shih-pi Kağan, Yen-men kuşatması ve Tang hanedanının kuruluşu",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre Shih-pi Kağan halkıyla Çin'e girerek Sui imparatoru Yang'ı Yen-men kentinde kuşattı (615).",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Tang hanedanının kurucusu Li Yüan (Kao-tsu) T'ai-yüan'da ayaklandığında, Liu Wen-ching'i elçi olarak Shih-pi Kağan'a gönderip ondan destek istedi. Kaynak bu dönemde Göktürklerin yay çekebilen bir milyonu aşkın askeri olduğunu yazar.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Orhun Yazıtları, Göktürk hükümdarlarının mücadelelerini ve Türk halkına yönelik öğütleri anlatan en eski Türkçe metinlerdir; yazıtlar devletin dağılmasını beylerle halk arasındaki birliğin bozulmasına ve Çin'in entrikalarına bağlar.",
+              "kaynaklar": [
+                "dia-orhon",
+                "orhun-thomsen|s. 864"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "İl Kağan, Wei Antlaşması ve yıkılış (626-630)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Ch'u-lo Kağan tahta geçince Sui hanedanından I-ch'eng prensesiyle evlendi; ondan sonra kardeşi To-pi, Hsieh-li (İl) Kağan adıyla hükümdar oldu. İl Kağan 50.000 atlıyla Çin'e akın edip Fen-chou'ya kadar ilerledi. Daha sonra imparator T'ai-tsung ile Ch'ang-an'ın batısındaki Wei ırmağı üzerinde bulunan köprüde beyaz at kurban ederek ant içti (626).",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre bunu izleyen yıllarda Göktürk ülkesine düz arazide birkaç ayak kalınlığında kar yağdı; koyunlar ve atlar öldü, büyük bir kıtlık başladı. Yin-şan dağlarının kuzeyindeki Sir Tarduş, Uygur ve Bayırku boyları ayaklandı. İl Kağan, isyanı bastıramayan Tu-li Kağan'a öfkelenip onu on günden fazla hapsetti. Tang komutanı Li Ching fırsat bulup baskın yaptı ve devleti yıktı; Chang Pao-hsiang İl Kağan'ı canlı yakalayıp başkente gönderdi (630). İmparator onu suçlarını tek tek sayarak azarladı. İl Kağan 634'te öldü; eski devlet adamlarından Hu-lu Tarkan T'u-yü-hun-ye onun ardından kendini öldürdü.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Taşağıl'a göre 627'den sonra Tola ve Kerulen çevresindeki boyların Çin desteğiyle ayaklanması ve ardından gelen kıtlık Doğu Göktürk Devleti'ni yıktı.",
+              "kaynaklar": [
+                "tasagil-2014"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Doğu Göktürk Devleti'ne 630'da Çin son verdi; her iki Göktürk devleti de bu tarihte Çin hâkimiyetine girdi.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "batigokturk": {
+      "ozet": "Batı Göktürk Kağanlığı, kuruluştan beri İstemi Yabgu ve soyunun yönettiği batı kanadının 582'de bağımsızlığını ilan etmesiyle ortaya çıktı. T'ung Yabgu döneminde Töles boylarını bağladı, İran'a ve Hindistan'ın kuzeybatısına uzanan bir güç oldu. 630'da T'ung Yabgu'nun öldürülmesiyle devlet çözüldü ve On Ok adı verilen on boy sağ ve sol kanat olarak ikiye ayrıldı. Ho-lu'nun bağımsızlık mücadelesi Tang ordularınca bastırıldı; Çin 659'da Batı Göktürklerini kendine bağladı. Bu kanattan çıkan Türgişler bir süre bağımsız yaşadı.",
+      "tarihNotu": "Bu sayfadaki bilgiler, hangi kaynaktan geldiklerine göre gruplanmıştır. 'Dönemin kaynaklarında' başlığı altındaki bilgiler Sui Shu ile Jiu Tangshu'nun Çince metinlerinden, Bizans tarihçisi Menandros'un telif süresi dolmuş İngilizce çevirisinden ve Orhun Yazıtları'nın V. Thomsen'e dayanan, kamu malı olan çevirisinden özetlenmiştir; çeviri değildir. Çin kaynaklarındaki yıllar, imparatorların saltanat yıllarından hesaplanmıştır. Çin kaynaklarından alınan bilgilerin yanında Türk akademisyenlerin görüşleri de verilmiştir.",
+      "kronoloji": [
+        {
+          "yil": "582",
+          "olay": "Batı kanadı, Tardu'nun yönetiminde bağımsızlığını ilan etti."
+        },
+        {
+          "yil": "598",
+          "olay": "Tardu, Tu-lan Kağan ile birlikte Sui'nin desteklediği Tu-li Kağan'a saldırdı."
+        },
+        {
+          "yil": "599",
+          "olay": "Tardu kendini Bu-ka Kağan ilan etti, ama Sui ordusuna yenildi."
+        },
+        {
+          "yil": "601",
+          "olay": "Yenilen Tardu T'u-yü-hunların ülkesine kaçtı."
+        },
+        {
+          "yil": "611",
+          "olay": "Batı Göktürk kağanı Ch'u-lo, Sui sarayına gelip bağlılığını bildirdi."
+        },
+        {
+          "yil": "620",
+          "olay": "T'ung Yabgu Tang sarayından evlilik yoluyla ittifak istedi."
+        },
+        {
+          "yil": "630",
+          "olay": "T'ung Yabgu amcası tarafından öldürüldü; devlet beyliklere bölünmeye başladı."
+        },
+        {
+          "yil": "630 dolayları",
+          "olay": "Çinli hacı Hsüan-tsang, Suyab'da T'ung Yabgu Kağan'ın konuğu oldu."
+        },
+        {
+          "yil": "648",
+          "olay": "Aşina Ho-lu Tang'a bağlandı ve T'ing-chou'ya yerleştirildi."
+        },
+        {
+          "yil": "651",
+          "olay": "Ho-lu oğluyla batıya kaçıp Şa-po-lo Kağan unvanıyla bağımsızlığını ilan etti."
+        },
+        {
+          "yil": "657",
+          "olay": "Su Ting-fang komutasındaki Tang ordusu Ho-lu'yu yendi; Ho-lu Taşkent'te yakalanıp Çin'e teslim edildi."
+        },
+        {
+          "yil": "659",
+          "olay": "Tang hanedanı Batı Göktürklerini tamamen kendine bağladı."
+        },
+        {
+          "yil": "709",
+          "olay": "II. Göktürk kağanı Kapgan, Türgiş kağanı Sakal'ı (So-ko) öldürdü."
+        },
+        {
+          "yil": "715",
+          "olay": "Türgiş önderi Su-lu'ya Tang sarayı kağan unvanı tanıdı."
+        }
+      ],
+      "konular": [
+        {
+          "baslik": "Çin kaynaklarına göre Batı Göktürklerinin ayrılışı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Batı Türkleri Kuzey (Doğu) Türkleriyle aynı atadan gelir; iki kol, Mukan Kağan ile İşbara Kağan döneminden kalan bir anlaşmazlık yüzünden ayrılmıştı. Kaynak, Şi-kui (She-küi) Kağan'ı Tardu'nun torunu olarak tanıtır.",
+              "kaynaklar": [
+                "jiutangshu-194b"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre batı topraklarını İstemi Yabgu'dan sonra Tardu yönetiyordu; batı kanadı 582'de, Çin'in kışkırtmalarının da etkisiyle bağımsızlığını ilan etti.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Tardu'nun mücadelesi (582-603)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre doğuda İşbara'nın saldırısına uğrayan Apa Kağan, batıdaki Tardu'nun yanına sığındı. 598'de Tardu, Tu-lan Kağan ile birlikte Sui'nin desteklediği Tu-li'ye saldırdı. Ertesi yıl Tu-lan'ın öldürülmesi üzerine Tardu kendini 'Bu-ka Kağan' ilan etti; ancak Sui komutanı Shih Wan-sui onu Ta-chin dağında yendi. 601'de yeniden yenilen Tardu, T'u-yü-hunların ülkesine kaçtı.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Taşağıl'a göre 603'te Batı Göktürk kağanı Tardu'nun yenilmesi Töles boylarını dağıttı.",
+              "kaynaklar": [
+                "tasagil-2014"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Ni-li ve Ch'u-lo Kağan (603-611)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre Batı Göktürklerde Tardu'dan sonra Ni-li Kağan, onun ardından oğlu Ta-man, Ni-chüeh Ch'u-lo Kağan adıyla başa geçti. Ch'u-lo, Sui'nin Ta-yeh döneminin başlarında Tieh-le (Töles) boylarına yenildi. 610'da Şi-kui (She-küi) Sui'den evlilik isteyince Ch'u-lo Kao-ch'ang'a (Turfan) çekilmek zorunda kaldı ve 611'de Sui sarayına gelip bağlılığını bildirdi.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Şi-kui Kağan Tardu'nun torunuydu; onun ardından kardeşi T'ung Yabgu tahta geçti.",
+              "kaynaklar": [
+                "jiutangshu-194b"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "T'ung Yabgu dönemi",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre T'ung Yabgu yiğit, akıllı ve savaşta usta bir hükümdardı. Kuzeyde Töles boylarını kendine bağladı, batıda İran'la karşı karşıya geldi, güneyde Keşmir'e (Ki-pin) komşu oldu; yay çekebilen yüz binlerce askeri vardı ve ordugâhını Taşkent'in kuzeyindeki Bin Pınar'a (Ch'ien-ch'üan) taşıdı. 620'de Tang'dan evlilik yoluyla ittifak istedi; Tang devlet adamı Feng Te-i, 'uzaktakiyle dost olup yakındakine saldırmak' gerektiğini söyleyerek bunu destekledi. Ancak İl Kağan batıya giden yolu kapattı, Karluk boyları da isyan etti ve T'ung Yabgu amcası tarafından öldürüldü.",
+              "kaynaklar": [
+                "jiutangshu-194b"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre T'ung Yabgu 630'da öldürüldükten sonra Batı Göktürk Devleti birçok beyliğe bölündü ve bu beylikler Çin'e bağlandı.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Hsüan-tsang'ın gözünden T'ung Yabgu'nun sarayı (630 dolayları)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Hindistan'a giden Çinli Budist hacı Hsüan-tsang'ın hayatını anlatan esere göre, hacı Suyab (Su-yeh) kentinde ava çıkmış olan Türk kağanı Yeh-hu (T'ung Yabgu) ile karşılaştı. Kağan yeşil ipekten bir kaftan giymişti; saçları çözüktü, yalnızca başına sarılıp arkasından sarkan on ayak uzunluğunda ipek bir bantla bağlıydı. Çevresinde brokar giysili, saçları örgülü iki yüz kadar beyi; sağında ve solunda kürk giymiş, mızrak, yay ve sancak taşıyan, develere ve atlara binmiş, sayılamayacak kadar çok askeri vardı.",
+              "kaynaklar": [
+                "hsuantsang-beal|s. 42"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Aynı esere göre kağanın çadırı, gözleri kamaştıran altın çiçek süsleriyle bezenmiş büyük bir otağdı. Beyler önüne serilmiş uzun hasırların üzerinde iki sıra hâlinde oturuyor, muhafızlar arkalarında duruyordu. Eser, kağanın göçebe bir halkın hükümdarı olmasına rağmen çevresinde saygı uyandıran bir düzen bulunduğunu belirtir. Türkler ateşe saygı gösterdiği için tahta sandalye kullanmaz, yere minderli hasırlar sererdi. Ziyafette müzik eşliğinde şarap içildi, haşlanmış koyun ve dana eti ikram edildi; hacıya ise pirinç çöreği, kaymak, şeker, bal ve kuru üzüm sunuldu.",
+              "kaynaklar": [
+                "hsuantsang-beal|s. 42-43"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Aynı esere göre kağan, hacının Budist öğretisini dinledikten sonra saygıyla yere eğildi. Hindistan'ın çok sıcak olduğunu söyleyerek onu gitmekten vazgeçirmeye çalıştı; vazgeçmeyince ordusunda Ch'ang-an'da uzun yıllar yaşamış, Çinceyi iyi bilen bir genci tercüman olarak buldurdu, yol üzerindeki ülkelere tavsiye mektupları yazdırdı, hacıya kırmızı ipekten bir giysi ve elli top ipek verdi ve onu beyleriyle birlikte on li kadar uğurladı. Eser, kağanın yaz sıcağından kaçmak için kaldığı, havuzları ve pınarlarıyla ünlü Bin Pınar'ı, kağanın Kunduz'da oturan büyük oğlu Ta-tu Şad'ı ve Türklerin ilerleyişine karşı bir sınır kapısı olan Demir Kapı'yı da anlatır.",
+              "kaynaklar": [
+                "hsuantsang-beal|s. 44-46"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre T'ung Yabgu 630'da öldürüldükten sonra Batı Göktürk Devleti birçok beyliğe bölündü.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "On Ok: sol ve sağ kanat",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Batı Göktürk ülkesi on bölüme ayrıldı ve her birinin başına bir şad getirildi; her şada bir ok verildiği için bu düzene 'On Ok' (On Ok boyları) dendi. Sol kanatta çor unvanlı beylerin yönettiği beş Tu-lu boyu, sağ kanatta erkin unvanlı beylerin yönettiği beş Nu-şi-pi boyu vardı.",
+              "kaynaklar": [
+                "jiutangshu-194b"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin ve Bilge Kağan yazıtlarında da 'On Ok' adı Batı Göktürk halkları için kullanılır: Bilge Kağan yazıtının On Ok'un oğullarına ve halkına kadar okunmasını ister; Kül Tigin'in cenazesine On Ok'tan ve Türgiş kağanından elçiler gelir.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 863, 870"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Ho-lu'nun mücadelesi ve Tang hâkimiyeti (648-659)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Aşina Ho-lu, 648'de Tang'a bağlanıp T'ing-chou'ya yerleştirildi. İmparator T'ai-tsung ölünce 651'de oğlu Tie-yün ile batıya kaçtı ve kendini Şa-po-lo Kağan ilan etti. Tang önce Liang Chien-fang ile Ch'i-pi Ho-li'yi, 657'de de Su Ting-fang'ı üzerine gönderdi. Yenilen Ho-lu Taşkent'e (Şi kenti) sığındı; kentin beyi onu yakalayıp Tang komutanı Hsiao Ssu-yeh'e teslim etti. Tang bundan sonra Batı Göktürk ülkesinde K'un-ling ve Meng-ch'ih adlı iki koruyuculuk (tu-hu-fu) kurdu.",
+              "kaynaklar": [
+                "jiutangshu-194b"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Tang hanedanı 659'da Batı Göktürklerini kendine bağladı ve Tanrı dağlarının güneyindeki şehir devletleri üzerinde otorite kurdu.",
+              "kaynaklar": [
+                "dia-talas"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Türgişler",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Türgişler Batı Türklerinin bir koluydu. Önderleri Wu-chih-le'den sonra oğlu So-ko (Sakal) başa geçti; II. Göktürk kağanı Kapgan 709'da So-ko'yu ve kardeşini öldürdü. Sonra So-ko'nun adamlarından Su-lu dağılan halkı toplayıp kendini kağan ilan etti; Tang sarayı 715'te ona 'Sadık ve İtaatkâr Kağan' unvanını verdi.",
+              "kaynaklar": [
+                "jiutangshu-194b"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı'na göre Türgiş kağanı Göktürklerin kendi halkındandı, ama aldatıcı davrandığı için öldürüldü. Göktürk ordusu Altun ormanını aşıp İrtiş'i geçti, Türgişleri uykuda bastı ve Bolçu'da Türgiş kağanının ordusunu yendi; kağan öldürüldü, Türgiş halkı boyun eğdi.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 866, 868-869"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Batı Göktürklerinden çıkan Türgişler bağımsızlıklarını uzun süre korudu; ancak 766'da dağıldılar.",
+              "kaynaklar": [
+                "dia-talas",
+                "dia-turk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "gokturk2": {
+      "ozet": "630'dan sonra yaklaşık elli yıl Çin hâkimiyetinde kalan Göktürkler, bu dönemde birkaç kez ayaklandı. 682'de Kutlug ile danışmanı Tonyukuk'un önderliğinde devlet yeniden kuruldu; Kutlug, devleti derleyip toplayan anlamında İlteriş unvanını aldı. Kardeşi Kapgan Kağan döneminde Göktürkler Kırgızları, Türgişleri ve Soğd bölgesini kendilerine bağladı ve Çin'e büyük akınlar yaptı. Kapgan'ın 716'da öldürülmesinden sonra Kül Tegin'in desteğiyle Bilge Kağan tahta geçti; Bilge ile Kül Tegin'in adına dikilen Orhun Yazıtları bu dönemden kalır. 742'de Basmıl ve Uygurların saldırısıyla dağılan devlet 745'te ortadan kalktı.",
+      "tarihNotu": "Bu sayfadaki bilgiler, hangi kaynaktan geldiklerine göre gruplanmıştır. 'Dönemin kaynaklarında' başlığı altındaki bilgiler Sui Shu ile Jiu Tangshu'nun Çince metinlerinden, Bizans tarihçisi Menandros'un telif süresi dolmuş İngilizce çevirisinden ve Orhun Yazıtları'nın V. Thomsen'e dayanan, kamu malı olan çevirisinden özetlenmiştir; çeviri değildir. Çin kaynaklarındaki yıllar, imparatorların saltanat yıllarından hesaplanmıştır. Çin kaynaklarından alınan bilgilerin yanında Türk akademisyenlerin görüşleri de verilmiştir.",
+      "kronoloji": [
+        {
+          "yil": "630-681",
+          "olay": "Göktürkler Çin (Tang) hâkimiyetinde yaşadı."
+        },
+        {
+          "yil": "639",
+          "olay": "Kürşad ve kırk kadar arkadaşı, imparatorun bulunduğu Chiu-ch'eng sarayına saldırdı; girişim başarısız oldu."
+        },
+        {
+          "yil": "650",
+          "olay": "Bağımsızlık için savaşan Ch'e-pi Kağan yakalanıp Çin başkentine götürüldü."
+        },
+        {
+          "yil": "679",
+          "olay": "A-shih-te Wen-fu ve Feng-chih'in önderliğinde büyük bir ayaklanma çıktı; Tang 300.000 kişilik ordu gönderdi."
+        },
+        {
+          "yil": "682",
+          "olay": "Kutlug ve Tonyukuk, Ötüken'de Oğuzları yenerek devleti yeniden kurdu; Kutlug İlteriş Kağan oldu."
+        },
+        {
+          "yil": "709",
+          "olay": "Göktürk ordusu Türgiş kağanını yendi."
+        },
+        {
+          "yil": "710-711",
+          "olay": "Tonyukuk komutasındaki Göktürk ordusu karlı Kögmen dağlarını aşıp Kırgızları yendi; aynı yıl Bolçu'da Türgişler yenildi."
+        },
+        {
+          "yil": "716",
+          "olay": "Kapgan Kağan, Bayırkulara karşı seferden dönerken öldürüldü; Kül Tegin, Bilge'yi kağan yaptı."
+        },
+        {
+          "yil": "720",
+          "olay": "Tang, Basmıl, Kitan ve Tatabılarla Göktürklere karşı ittifak kurmaya çalıştı; Basmıllar geri çekildi."
+        },
+        {
+          "yil": "720 dolayları",
+          "olay": "Tonyukuk Yazıtı dikildi."
+        },
+        {
+          "yil": "725",
+          "olay": "Tang elçisi Yüan Chen Bilge Kağan'ın sarayına geldi; Bilge Kağan bir devlet adamını imparatorun yanına gönderdi."
+        },
+        {
+          "yil": "727",
+          "olay": "Göktürk elçisi Tibet'in ittifak mektubunu Tang sarayına götürdü; sınırda pazar yeri kurulması kararlaştırıldı."
+        },
+        {
+          "yil": "731",
+          "olay": "Kül Tegin öldü; cenazesi ve anıtı için komşu ülkelerden elçiler geldi."
+        },
+        {
+          "yil": "732",
+          "olay": "Kül Tigin anıtı ve yazıtı tamamlandı (21 Ağustos 732)."
+        },
+        {
+          "yil": "734",
+          "olay": "Bilge Kağan zehirlenerek öldü."
+        },
+        {
+          "yil": "735",
+          "olay": "Bilge Kağan'ın cenaze töreni yapıldı; adına yazıt dikildi."
+        },
+        {
+          "yil": "742",
+          "olay": "Basmıl ve Uygurlar Göktürkleri bozguna uğrattı."
+        },
+        {
+          "yil": "744",
+          "olay": "Uygurlar Basmılları yenerek kendi kağanlıklarını kurdu."
+        },
+        {
+          "yil": "745",
+          "olay": "II. Göktürk Kağanlığı tamamen ortadan kalktı."
+        }
+      ],
+      "konular": [
+        {
+          "baslik": "Çin hâkimiyeti yılları (630-681)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı bu dönemi şöyle anlatır: Beylerin oğulları Çinlilere kul, temiz kızları cariye oldu; Türk beyleri Türk unvanlarını bırakıp Çin unvanları aldı ve elli yıl Çin imparatoruna hizmet etti. Doğuda ve batıda Çin imparatoru için ülkeler fethettiler. Sonunda halk 'Devleti olan bir halktım, devletim nerede? Kağanı olan bir halktım, kağanım nerede?' diyerek Çin'e karşı ayaklandı; ama birliğini sağlayamadığı için yeniden boyun eğdi.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 864-865"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre 630'dan sonra Çin sarayında teslim olan Türklerin nereye yerleştirileceği uzun süre tartışıldı. Wen Yen-po, Han hanedanının teslim olan Hunları sınır boyuna yerleştirdiği gibi Türklerin de sınıra yerleştirilmesini önerdi; Wei Cheng ise onların Sarı Irmak'ın güneyine yerleştirilmesine karşı çıktı.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre her iki Göktürk devleti de 630'da Çin hâkimiyetine girdi; Doğu Göktürklerinin bağımsızlığı ancak 682'de yeniden kazanıldı.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Orhun Yazıtları'nın ana konularından biri, Türk halkının Çin'in diplomasisine aldanarak devletini kaybetmesi ve bundan ders alması gerektiğidir.",
+              "kaynaklar": [
+                "dia-orhon"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Bağımsızlık girişimleri: Kürşad, Ch'e-pi ve A-shih-te Wen-fu",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre 639'da, imparatorla birlikte Chiu-ch'eng sarayına giden Tu-li Kağan'ın kardeşi Chieh-she-shuai (Kürşad), kırk kadar adamını gizlice örgütledi ve Tu-li'nin oğlu Ho-lo-hu'yu da yanına aldı. Girişim başarısız oldu. Bunun ardından imparator Aşina Ssu-mo'yu Göktürklerin başına kağan olarak atadı.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre bağımsızlık için savaşan Ch'e-pi Kağan, Tang komutanı Kao K'an'ın seçkin atlılarınca kovalanıp yakalandı ve başkente götürüldü (650). 679'da ise A-shih-te Wen-fu ile Feng-chih, Ni-shu-fu'yu kağan ilan edip ayaklandı; Tang, P'ei Hsing-chien'i 300.000'den fazla askerle üzerlerine gönderdi.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı da bu dönemde Türklerin Çin'e karşı ayaklandığını, ama birlik sağlayamadıkları için yeniden boyun eğdiklerini anlatır.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 865"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Yeniden kuruluş: İlteriş Kutlug ve Tonyukuk (682)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı'na göre 'Türk'ün Tanrısı ve kutsal yeri-suyu', Türk halkı yok olmasın diye Bilge'nin babası İlteriş Kağan'ı ve annesi İl Bilge Hatun'u başa getirdi. İlteriş on yedi kişiyle yola çıktı; şehirdekiler ve dağdakiler ona katılınca sayıları yetmiş, sonra yedi yüz oldu. Ataların töresine göre halkı düzene soktu, Töliş ve Tarduş halklarını teşkilatlandırıp onlara bir yabgu ve bir şad verdi. Güneyde Çin, kuzeyde Baz Kağan ve Dokuz Oğuzlar, ayrıca Kırgızlar, Kurıkanlar, Otuz Tatarlar, Kitanlar ve Tatabılar düşmandı; İlteriş kırk yedi kez sefere çıktı, yirmi savaş yaptı.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 865-866"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Kutlug'un yanında kısa sürede beş binden fazla kişi toplandı. Daha önce Çin'de bulunan A-shih-te Yüan-chen (Tonyukuk) ona katılınca Kutlug çok sevindi ve ona Apa Tarkan unvanını verdi.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre 682'de Kutlug, Tonyukuk'la birlikte Ötüken'de Oğuzları yendi ve İlteriş unvanıyla kağan oldu.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Tonyukuk'un anlatımıyla kuruluş ve Oğuz zaferi (682 dolayları)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Tonyukuk Yazıtı'nda Tonyukuk, Türk halkı Çin'e bağlıyken Çin ülkesinde doğduğunu anlatır. Yazıta göre Çin'den ayrılıp kağanlarını seçen, sonra yeniden Çin'e boyun eğen Türk halkını Tanrı cezalandırdı. Bağımsız kalanlar bir araya gelince yedi yüz kişi oldular; üçte ikisi atlı, üçte biri yayaydı. Onlara önderlik eden şada Tonyukuk da katıldı ve onu kağan olmaya zorladı; şad, 'Bilge Tonyukuk yanımda olduğuna göre İlteriş Kağan olayım' dedi. Bir süre Çugay-kuzı ve Kara-kum'da büyük av hayvanları ve tavşanla geçindiler.",
+              "kaynaklar": [
+                "tonyukuk-thomsen|s. 38"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Tonyukuk Yazıtı'na göre bir Oğuz casusu, Dokuz Oğuzların yeni kağanının Çin'e ve Kitanlara elçi gönderip Türklere üç yandan birlikte saldırmayı önerdiğini haber verdi. Tonyukuk bu haberle geceleri uyuyamadığını, kağanına şöyle dediğini yazar: 'İnce bir şeyi bükmek kolaydır, körpe bir şeyi koparmak kolaydır; ama ince olan kalınlaşırsa bükmek, körpe olan sertleşirse koparmak güç ister.' Kağanın izniyle iki bin kişilik ordu Ötüken ormanına yöneldi; Tola boyunda kendilerinden kalabalık Oğuz ordusunu yendi. Türklerin Ötüken'e yerleştiğini duyan güneydeki, batıdaki, kuzeydeki ve doğudaki halklar onlara katıldı.",
+              "kaynaklar": [
+                "tonyukuk-thomsen|s. 38-39"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Tonyukuk Yazıtı'na göre İlteriş Kağan bilgeliği ve yiğitliği sayesinde Çin'le yedi, Kitanlarla yedi, Oğuzlarla beş kez savaştı; Tonyukuk bu savaşlarda onun danışmanı ve ordu komutanıydı.",
+              "kaynaklar": [
+                "tonyukuk-thomsen|s. 42"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Kutlug, Tonyukuk'la birlikte Ötüken'de Oğuzları yendi ve İlteriş unvanıyla kağan oldu.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Kapgan Kağan dönemi",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı'na göre İlteriş'ten sonra tahta geçen amcası (Kapgan Kağan) halkı yeniden düzene soktu; Bilge bu dönemde Tarduş halkına şad oldu. Kapgan'la birlikte doğuda Yeşil Ögüz'e ve Şantung ovasına, batıda Demir Kapı'ya kadar, Kögmen'in ötesindeki Kırgız ülkesine kadar seferler yapıldı; toplam yirmi beş sefer ve on üç savaş yapıldı. Yazıt, devletin bu kadar genişlediği bir zamanda halkın kağanına karşı sadakatsizlik ettiğini ve Kapgan'ın bu yüzden öldüğünü söyler.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 866-867"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre İmparatoriçe Wu, Kapgan Kağan'ın kızıyla evlenmesi için kendi ailesinden Wu Yen-hsiu'yu gönderdi; Kapgan ise kızını Li ailesinden, yani Tang hanedanından bir imparator oğluna vermek istediğini söyleyerek buna karşı çıktı. Ardından Ting-chou'ya saldırıp valisini öldürdü. İmparatoriçe Wu, öfkesinden onun adını 'Mo-ch'o' yerine 'kafası kesilecek' anlamına gelen 'Chan-ch'o' olarak değiştirdi ve 300.000 kişilik bir ordu gönderdi.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Kapgan Kağan, 716'da Bayırkulara karşı seferden dönerken bir söğütlükte saklanan Bayırku askeri Hsieh-chih-lüe'nin ani saldırısıyla öldürüldü; başı Çin elçisi Hao Ling-ch'üan tarafından başkente götürüldü.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Orhun Yazıtları II. Göktürk Kağanlığı'nın tarihini ve hükümdarlarının mücadelelerini anlatan en önemli Türkçe kaynaklardır.",
+              "kaynaklar": [
+                "dia-orhon"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Tonyukuk'un anlatımıyla Kırgız ve Türgiş seferleri (710 dolayları)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Tonyukuk Yazıtı'na göre Çin imparatoru, On Ok (Türgiş) kağanı ve Kırgız kağanı Altun ormanında buluşup Doğu Türklerinin kağanına birlikte saldırmak için anlaştı: 'Kağanı yiğit, danışmanı bilgedir; ona saldırmazsak o bizi öldürecek' diyorlardı. Tonyukuk önce Kırgızların üzerine yürümeye karar verdi. Kögmen'den geçen tek yolun karla kapalı olduğunu öğrenince Az halkından bir kılavuz buldu; ordu atlarını yedekte çekip ağaçlara tutunarak karı yara yara dağı aştı, on gün karlı yamaçlarda ilerledi. Yolu şaşıran kılavuz öldürüldü. Anı ırmağı boyunca gece gündüz at sürüp Kırgızları uykuda bastılar; Kırgız kağanı öldürüldü ve halkı boyun eğdi.",
+              "kaynaklar": [
+                "tonyukuk-thomsen|s. 39-40"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Tonyukuk Yazıtı'na göre ardından Türgiş kağanının ve On Ok ordusunun yola çıktığı haberi geldi. Kağan, hatunu öldüğü için geri dönüp cenazesini kaldıracağını söyledi ve orduyu İnel Kağan, Tarduş Şad ve Tonyukuk'a bıraktı. Tonyukuk yolu olmayan Altun ormanını aşıp geçidi olmayan İrtiş'i geçti ve Bolçu'ya ulaştı. Yarış ovasında yüz bin kişilik bir ordu toplandığı haberi gelince beyler geri dönmek istedi; Tonyukuk ise 'Neden kaçalım? Çok oldukları için neden korkalım, az olduğumuz için neden yılalım? Saldıralım!' dedi. Yapılan savaşta Türgiş kağanı esir alındı, yabgusu ve şadı öldürüldü; On Ok beyleri ve halkı gelip boyun eğdi.",
+              "kaynaklar": [
+                "tonyukuk-thomsen|s. 40-42"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Tonyukuk Yazıtı'na göre Göktürk ordusu kaçanları İnci ırmağını (Yençü Ögüz) geçerek Demir Kapı'ya kadar kovaladı; Soğd halkı da gelip İnel Kağan'a boyun eğdi. Yazıta göre atalarının zamanında da Türkler Demir Kapı'ya kadar ulaşmıştı; ordu oradan sarı altın, ak gümüş ve bol ganimetle döndü.",
+              "kaynaklar": [
+                "tonyukuk-thomsen|s. 42"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Tonyukuk, yazıtının sonunda yaşlandığını, geceleri uyumadan ve gündüzleri oturmadan Türk halkı için çalıştığını anlatır; İlteriş Kağan ile kendisi çalışmasaydı ne devletin ne de halkın olacağını söyler. Thomsen'e göre yazıt, Tonyukuk'un Bilge Kağan döneminin başında hâlâ hayatta olmasından dolayı 720 dolaylarında dikilmiş olmalıdır.",
+              "kaynaklar": [
+                "tonyukuk-thomsen|s. 37, 42-43"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Tonyukuk Yazıtı, Kül Tigin ve Bilge Kağan yazıtlarıyla aynı döneme ait olduğu için onlarla birlikte ele alınır; yazıtın metni Tonyukuk'un ağzından anlatılır.",
+              "kaynaklar": [
+                "dia-orhon"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Bilge Kağan'ın tahta çıkışı (716)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Kül Tegin, Kapgan'ın oğlu küçük kağanı ve onun kardeşleriyle yakınlarını öldürerek ağabeyi Mo-chi-lien'i (Bilge) kağan yaptı. Bilge, devleti Kül Tegin sayesinde kazandığı için tahtı ona bırakmak istedi; Kül Tegin kabul etmedi ve sol bilge bey oldu. Bilge Kağan, Kapgan döneminin devlet adamı Tonyukuk'u yeniden çağırıp başdanışman yaptı; Tonyukuk o sırada yetmiş yaşını aşmıştı.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Bilge Kağan Yazıtı'na göre babası İlteriş öldüğünde Bilge sekiz yaşındaydı; on dört yaşında Tarduş halkına şad oldu ve otuz üç yaşında kağan oldu. Bilge on dokuz yıl şad, on dokuz yıl kağan olarak ülkeyi yönettiğini söyler. Kül Tigin Yazıtı'na göre de babaları öldüğünde Kül Tegin yedi yaşındaydı.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 868, 872, 875"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı'nda Bilge Kağan, tahta çıktığında içte aç, dışta çıplak, yoksul ve güçsüz bir halkın başına geçtiğini, kardeşi Kül Tegin ve iki şadla birlikte geceleri uyumadan, gündüzleri dinlenmeden çalışarak dağılan halkı yeniden topladığını anlatır.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 867"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Kül Tegin ve Bilge Kağan'ın seferleri",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı, Kül Tegin'in seferlerini yaşlarıyla birlikte sayar: On altı yaşında Altı Çub ve Soğd halkına karşı savaşa katıldı; Çinli Ong Tutuk'un 50.000 kişilik ordusuna karşı yaya hücum edip tutuğu esir aldı. Yirmi bir yaşında Çaça Sengün'e karşı üç ayrı atla hücum etti; zırhına yüzden fazla ok isabet etti. Bayırkuları Türgi Yargun gölünde yendiler. Yirmi altı yaşında, mızrak boyu karı yararak Kögmen ormanını aştılar ve Kırgızları uykuda basıp kağanlarını öldürdüler; aynı yıl Altun ormanını ve İrtiş'i geçip Türgişleri Bolçu'da yendiler. Sonra Karluklar, Azlar, İzgiller ve bir yıl içinde beş kez savaşılan Dokuz Oğuzlar geldi.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 868-870"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Bilge Kağan Yazıtı da benzer seferleri Bilge'nin yaşlarıyla anlatır: On yedi yaşında Tangutlara, on sekiz yaşında Altı Çub ve Soğdlara, yirmi yaşında Basmıllara karşı sefer yaptı; yirmi iki yaşında Çaça Sengün'ün 80.000 kişilik ordusunu yendi; yirmi yedi yaşında Kırgızlara, aynı yıl Türgişlere karşı savaştı; otuz yaşında Beşbalık'a sefer yaptı, otuz bir yaşında Karlukları yendi.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 873-874"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Kül Tigin ve Bilge Kağan yazıtlarını Yollug Tegin yazmıştır; yazıtlar dilinin zenginliği ve hitabet gücüyle Türkçenin en eski ve en güzel düzyazı örnekleri arasında sayılır.",
+              "kaynaklar": [
+                "dia-orhon"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Tonyukuk'un öğüdü: şehir ve tapınak yapılmasın",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Bilge Kağan şehirleri surlarla çevirmek ve tapınaklar yaptırmak istedi. Tonyukuk buna karşı çıktı: Türklerin nüfusu Tang'ın yüzde biri bile değildi; onlara karşı dayanabilmelerinin sebebi, su ve otlak peşinde dolaşıp sabit bir yerde oturmamalarıydı. Güçlü olduklarında ilerleyip saldırabilir, zayıf düştüklerinde dağlara ve ormanlara çekilebilirlerdi. Surlarla çevrili şehirlerde yaşar ve eski âdetlerini değiştirirlerse bir gün yenilip Çin'e yem olacaklardı; tapınaklardaki öğretiler ise insanları yumuşak ve savaşmaz yapardı. Bilge Kağan bu öğüdü kabul etti.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Bilge Kağan Yazıtı da Türk halkını Ötüken'de kalmaya çağırır: Güneye, ovaya inip Çin'e yakın yerleşenler yok olmuştur; Ötüken'de kalıp oradan kervan gönderen halkın ise hiçbir sıkıntısı olmayacaktır.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 862-863"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre yazıtların öğütlerinin başında, Türk halkının Çin'e yaklaşıp onun tatlı sözlerine ve zenginliğine kanmaması gelir.",
+              "kaynaklar": [
+                "dia-orhon"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çin ile barış ve ticaret (720-727)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre 720'de Tang komutanı Wang Chün, batıdan Basmılların, doğudan Kitan ve Tatabıların Göktürklere birlikte saldırmasını önerdi. Tonyukuk, Wang Chün'ün ordusunun gelemeyeceğini öngördü; nitekim Basmıllar yalnız kalınca korkup geri çekildi ve Beşbalık'a sığınmak istedi ama kente giremedi. Göktürkler ardından Liang-chou'nun koyun ve atlarını yağmaladı.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre 725'te imparator doğuya büyük bir ziyarete çıkarken Göktürklerin saldırmasından çekiniyordu; bu yüzden Yüan Chen elçi olarak Bilge Kağan'a gönderildi. Bilge Kağan bir ziyafette evlilik meselesini açtı: 'Köpek soyundan gelen Tibetlilere de, eskiden Türklerin kulu olan Kitan ve Tatabılara da prenses verildi; biz defalarca istediğimiz hâlde neden bize verilmiyor?' diye sordu ve sınır ötesine giden prenseslerin hepsinin imparatorun öz kızı olmadığını da duyduklarını ekledi. Sonunda devlet adamlarından A-shih-te Hsieh-li-fa'yı imparatorun yanına gönderdi.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre 727'de Bilge Kağan'ın devlet adamı Mei-lu Ch'o otuz seçme atla Tang sarayına geldi; Tibet'in Göktürklere gönderdiği ve birlikte Çin'e saldırmayı önerdiği mektubu da imparatora sundu. Bunun üzerine Şuo-fang'daki Batı Shou-hsiang kalesinde bir pazar yeri kurulmasına izin verildi ve Göktürklere her yıl yüz binlerce top ipek gönderilmeye başlandı.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Bilge Kağan Yazıtı'nda Bilge, Çin halkıyla barıştığını, Çinlilerin bol altın, gümüş ve ipek verdiğini söyler; ama aynı yazıt, bu zenginliğin ve tatlı sözlerin Türkleri zayıflatıp kendine bağlamaya yönelik olduğunu da hatırlatır.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 862"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Kül Tegin'in ölümü ve anıtı (731-732)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Kül Tigin Yazıtı'na göre Kül Tegin koyun yılında (731) kırk yedi yaşında öldü; cenaze töreni dokuzuncu ayın 27'sinde yapıldı, anıtı, resimleri ve yazıtı maymun yılının yedinci ayının 27'sinde (21 Ağustos 732) tamamlandı. Bilge Kağan kardeşinin ölümüne öyle yandığını yazar ki 'gören gözü görmez, bilen aklı bilmez gibi' olmuştu. Cenazeye Kitan ve Tatabılardan Udar Sengün, Çin imparatorundan İşiyi ve Likeng, Tibet kağanından bir bölön (devlet adamı), Soğd, İran ve Buhara halklarından Nang Sengün ve Oğul Tarkan, On Ok ve Türgiş kağanından Makaraç ve Oğuz Bilge, Kırgız kağanından Tarduş İnançu Çor geldi. Yazıtı Kül Tegin'in yeğeni Yollug Tegin yirmi günde yazdı.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 870-871"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Kül Tegin ölünce imparator Chang Ch'ü-i ile Lü Hsiang'ı başsağlığı mektubuyla Göktürklere gönderdi; onun için bir tapınak yapıldı, taştan heykeli dikildi, dört duvarına savaş sahneleri resmedildi ve yazıtın Çince metnini imparator kendisi yazdı.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Bilge Kağan Yazıtı'na göre Bilge Kağan, anıtı yapmak için Çin imparatorundan usta istedi; imparatorun saray ressamları gönderildi ve ayrı bir yapının içi ve dışı resimlerle süslendi.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 863"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Kül Tigin Yazıtı yaklaşık 732'de dikildi; dört yüzünde 71 satır hâlinde yaklaşık 10.000 harf bulunur.",
+              "kaynaklar": [
+                "dia-orhon"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Bilge Kağan'ın ölümü (734-735)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Bilge Kağan devlet adamı Mei-lu Ch'o tarafından zehirlendi; zehir etkisini gösterip ölmeden önce Mei-lu Ch'o'yu ve onun taraftarlarını öldürttü. İmparator Li Ch'üan'ı başsağlığına gönderdi, Bilge'nin oğlunu kağan olarak tanıdı ve onun için yazıt ile tapınak yaptırdı; yazıtın Çince metnini tarihçi Li Jung yazdı.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Bilge Kağan Yazıtı'na göre Bilge Kağan köpek yılının onuncu ayının 26'sında (734) öldü; cenaze töreni domuz yılının beşinci ayının 27'sinde (735) yapıldı. Çin'den Lisün Tay Sengün 500 kişiyle, ölçüsüz altın, gümüş ve güzel kokular getirerek geldi. Yas töreninde halk saçlarını kesti, kulaklarını ve yanaklarını yaraladı; iyi binek atlarını, kara samurlarını ve mavi sincap kürklerini sundu. Yazıtı ve resimleri Yollug Tegin bir ay dört günde tamamladı.",
+              "kaynaklar": [
+                "orhun-thomsen|s. 875-876"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Kaçalin'e göre Bilge Kağan Yazıtı yaklaşık 735'te dikildi; metni Kül Tigin Yazıtı'ndan daha çok aşınmıştır.",
+              "kaynaklar": [
+                "dia-orhon"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Son yıllar ve yıkılış (734-745)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Jiu Tangshu'ya göre Bilge'den sonra oğlu İ-jan Kağan, onun ardından kardeşi Teng-li Kağan tahta geçti. Sol şad, kendisine zarar geleceğinden korkup Teng-li'yi öldürdü. Ardından Wu-su-mi-shih (Ozmış) kendini kağan ilan etti; Basmıl boyları ona karşı ayaklandı. 742'de teslim olan Göktürkler Çin başkentine geldi.",
+              "kaynaklar": [
+                "jiutangshu-194a"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre 742'de Basmıl ve Uygurlar Göktürkleri bozguna uğrattı; Uygurlar 744'te Basmılları da yenerek kendi kağanlıklarını kurdu ve Göktürk devleti 745'te tamamen ortadan kalktı. Göktürk kalıntıları Kuzey Çin'de 941'e kadar izlenebilir.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "akhun": {
+      "ozet": "Bizans kaynaklarında Eftalitler, Çin kaynaklarında Ye-ta, Türk tarihçiliğinde Ak Hunlar diye anılan topluluk, 4. yüzyılın ortalarında Altaylardan güneye inerek Güney Kazakistan'a geldi. Bugünkü Afganistan, Tohâristan ve Maveraünnehir'i merkez alan güçlü bir devlet kurdu; Hotan'dan İran sınırına kadar otuz kadar ülkeyi kendine bağladı, Kuzey Hindistan'a hâkim oldu. 484'te Sasani hükümdarı Firuz'u ordusuyla birlikte yok etti ve İran'ı bir süre vergiye bağladı. 6. yüzyılın ortalarında Göktürklerin batı kanadı ile Sasanilerin saldırıları sonucunda ortadan kalktı.",
+      "tarihNotu": "Bu sayfadaki bilgiler, hangi kaynaktan geldiklerine göre gruplanmıştır. 'Dönemin kaynaklarında' başlığı altındaki bilgiler Bizans tarihçileri Prokopios ve Menandros'un telif süresi dolmuş İngilizce çevirilerinden ve Wei Shu'nun Çince metninden özetlenmiştir; çeviri değildir. Devletin başlangıç ve bitiş yılları kaynaklarda farklıdır; haritadaki yıllar yaklaşıktır.",
+      "kronoloji": [
+        {
+          "yil": "350'ler",
+          "olay": "Juan-juanlara bağlı Uar ve Hun adlı gruplar Altaylardan ayrılıp Güney Kazakistan'a geldi."
+        },
+        {
+          "yil": "420",
+          "olay": "Bazı Türk tarihçilerine göre Ak Hun Devleti'nin başlangıcı."
+        },
+        {
+          "yil": "455'ten sonra",
+          "olay": "Ye-ta (Ak Hun) elçileri Kuzey Wei sarayına düzenli olarak gelmeye başladı."
+        },
+        {
+          "yil": "484",
+          "olay": "Sasani hükümdarı Firuz, Ak Hunların kazdığı gizli hendeğe düşerek ordusu ve oğullarıyla birlikte öldü; İran iki yıl Ak Hunlara vergi ödedi."
+        },
+        {
+          "yil": "488",
+          "olay": "Tahttan indirilen Sasani hükümdarı Kavad, Ak Hun hükümdarının desteğiyle tahtını geri aldı."
+        },
+        {
+          "yil": "502",
+          "olay": "Ak Hun birlikleri Kavad'ın Bizans'a karşı seferinde Sasani ordusuyla birlikte savaştı."
+        },
+        {
+          "yil": "516",
+          "olay": "Ak Hun hükümdarı Yen-tai-i-li-t'o, Liang sarayına ilk elçisini gönderdi."
+        },
+        {
+          "yil": "519 dolayları",
+          "olay": "Kuzey Wei elçisi Sung Yün Ak Hun hükümdarının sarayını ziyaret etti."
+        },
+        {
+          "yil": "520",
+          "olay": "Ak Hun elçileri Liang sarayına sarı bir aslan, ak samur kürk ve İran brokarı getirdi."
+        },
+        {
+          "yil": "550'ler-560'lar",
+          "olay": "Göktürkler Ak Hunları yenip vergiye bağladı; devlet ortadan kalktı."
+        }
+      ],
+      "konular": [
+        {
+          "baslik": "Adı ve kökeni",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Prokopios'a göre Eftalitler, 'Ak Hunlar' diye de anılan bir Hun kavmidir; hem soy hem ad bakımından Hunlardandır, ama bildiğimiz öteki Hunlarla karışmaz, çünkü onlardan çok uzakta, İran'ın hemen kuzeyinde yaşarlar.",
+              "kaynaklar": [
+                "prokopios-dewing|I.3"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Wei Shu'ya göre Ye-ta'lar Büyük Yüeçilerin bir koludur; Kao-ch'e'lerin (Töleslerin) ayrı bir kolu oldukları da söylenir. Kökenleri kuzeydeki bozkırlardır ve Altay dağlarından (Kin-şan) güneye inmişlerdir. Dilleri Juan-juanların, Kao-ch'e'lerin ve öteki batılı kavimlerin dilinden farklıdır.",
+              "kaynaklar": [
+                "weishu-102"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Juan-juan Devleti'ne bağlı Uar ve Hun adlı gruplar 350'li yıllarda Altaylardan ayrılıp Güney Kazakistan'a geldi ve Akhun (Eftalit) Devleti'ni kurdu.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun incelediği eserinde Hacıfazlıoğlu, Ak Hunları Asya Hunlarıyla birlikte ele alır ve devletin tarihlerini MS 420-557 olarak verir.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 36"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Ülkesi ve hâkimiyet alanı",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Wei Shu'ya göre Ye-ta ülkesi Hotan'ın batısında, Oxus (Amu Derya) ırmağının iki yüz li kadar güneyindeydi; başkentleri, içinde birçok tapınak bulunan Pa-ti-yen kentiydi. Kang-chü (Soğd), Hotan, Kaşgar, Part ülkesi ve otuz kadar küçük devlet onlara bağlıydı; bu yüzden 'büyük devlet' diye anılırlardı. Nüfusları yüz bin kadardı.",
+              "kaynaklar": [
+                "weishu-102"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Prokopios'a göre Eftalitlerin Gorgo adlı kenti İran sınırının tam karşısındaydı ve iki halk arasındaki sınır anlaşmazlıklarının merkeziydi.",
+              "kaynaklar": [
+                "prokopios-dewing|I.3"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Akhunlar Tohâristan çevresine ve Afganistan'a yerleşti; Toramana ile oğlu Mihiragula zamanında Kuzey Hindistan'a hâkim oldular.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Yaşayış ve töre",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Prokopios'a göre Eftalitler öteki Hun kavimleri gibi göçebe değildi; uzun zamandır verimli bir ülkeye yerleşmişlerdi. Hunlar içinde beyaz tenli ve yüzleri çirkin olmayan tek kavimdiler. Tek bir hükümdar tarafından yönetiliyor, düzenli bir yasaya sahip oldukları için hem kendi aralarında hem komşularıyla ilişkilerinde Romalılar ve Persler kadar hak ve adalete uyuyorlardı. Zenginler yirmi ya da daha fazla kişiyi kendilerine sofra arkadaşı edinir, bunlar malına ortak olurdu; zengin ölünce bu arkadaşları da onunla birlikte diri diri mezara girerdi.",
+              "kaynaklar": [
+                "prokopios-dewing|I.3"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Wei Shu'ya göre Ye-ta'lar surla çevrili kentlerde değil, su ve otlak peşinde keçe çadırlarda yaşar, yazın serin yerlere, kışın ılık yerlere göçerdi. Hükümdar ülkesini dolaşarak her ay başka bir yerde kalırdı. Kardeşlerin tek bir kadınla evlenmesi âdetti; kocasının kardeşi olmayan kadın tek boynuzlu bir başlık, kardeşi olan ise her kardeş için bir boynuz daha eklenmiş başlık takardı. Zenginler ölülerini taştan yapılmış mezarlara, yoksullar toprağa kazılan çukurlara gömer, ölünün eşyalarını da mezara koyardı. Kaynak onları sert ve savaşçı bir halk olarak anlatır.",
+              "kaynaklar": [
+                "weishu-102"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Menandros'a göre Göktürk elçileri Bizans imparatoruna Eftalitlerin kentlerde yaşayan bir halk olduğunu söylemiştir.",
+              "kaynaklar": [
+                "menandros-yule|s. 207"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çin ile ilişkiler",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Wei Shu'ya göre Ye-ta'lar Juan-juanlarla evlilik yoluyla akrabalık kurmuştu. T'ai-an döneminden (455-459) sonra Kuzey Wei sarayına düzenli olarak elçi gönderdiler; Cheng-kuang döneminden sonra bir elçilikleri isyan yüzünden yolda kaldı, Yung-hsi döneminden sonra da elçilikleri kesildi.",
+              "kaynaklar": [
+                "weishu-102"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl, Ak Hunları Juan-juan Devleti'ne bağlı gruplardan çıkmış bir topluluk olarak değerlendirir.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Sasanilerle savaş: Firuz'un yenilgisi (484)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Prokopios'a göre Sasani hükümdarı Firuz sınır anlaşmazlığı yüzünden büyük bir orduyla Eftalitlerin üzerine yürüdü. Eftalitler korkup kaçıyor gibi yaparak onu dağlarla çevrili, çıkışı olmayan bir vadiye çektiler ve arkasını kestiler. Eftalit hükümdarı, Firuz önünde eğilir ve bir daha Eftalitlere savaş açmayacağına ant içerse onu bırakacağını bildirdi. Firuz, din adamlarının öğüdüyle eğilmeyi doğan güneşe yönelerek yaptı ve ordusuyla geri döndü.",
+              "kaynaklar": [
+                "prokopios-dewing|I.3"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Prokopios'a göre Firuz kısa süre sonra andını bozarak yeniden sefere çıktı. Eftalit hükümdarı ovada geniş ve derin bir hendek kazdırdı, ortasında on atın geçebileceği kadar bir yol bıraktı, üstünü kamışla örtüp toprakla gizledi; Firuz'un üzerine ant içtiği tuzu da sancağının tepesine astı. Küçük bir birlik Persleri bu hendeğe kadar çekti; peşlerinden hızla gelen Persler, Firuz ve otuz kadar oğluyla birlikte hendeğe düştü ve ordu yok oldu (484). Bunun üzerine Perslerde düşman topraklarında asla takibe girişilmemesi bir kural hâline geldi. Persler bundan sonra iki yıl Eftalitlere vergi ödedi.",
+              "kaynaklar": [
+                "prokopios-dewing|I.4"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Kavad ve Ak Hunlar",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Prokopios'a göre tahttan indirilip hapsedilen Sasani hükümdarı Kavad kaçarak Eftalitlere sığındı. Eftalit hükümdarı ona kızını verdi ve damadı olan Kavad'ın emrine güçlü bir ordu verdi; Persler bu orduyla karşılaşmaktan kaçındı ve Kavad tahtını geri aldı (488).",
+              "kaynaklar": [
+                "prokopios-dewing|I.6"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Prokopios'a göre Kavad bir süre sonra Eftalit hükümdarına borçlandı ve borcunu ödeyemedi. Bizans imparatoru Anastasios'tan borç istedi, ama Bizans devlet adamları düşmanları Perslerle Eftalitler arasındaki dostluğu güçlendirmemek için buna karşı çıktı. Kavad bunun üzerine Bizans'a sefer açtı (502); bu seferde Eftalit birlikleri de Pers ordusuyla birlikte savaştı.",
+              "kaynaklar": [
+                "prokopios-dewing|I.7"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Liang Shu'ya göre Ak Hunlar ve Liang sarayına elçilikler (516-526)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Liang Shu'ya göre 'Hua' ülkesi, Ch'e-shih (Turfan) halkının bir koluydu. Kuzey Wei döneminde küçük bir ülkeydi ve Juan-juanlara bağlıydı. Sonra güçlenerek İran (Po-ssu), P'an-p'an, Keşmir (Ki-pin), Karaşar, Kuça, Kaşgar, Ku-mo, Hotan ve Ku-p'an gibi komşu ülkeleri kendine bağladı ve topraklarını bin li'den fazla genişletti. Hükümdarları Yen-tai-i-li-t'o 516'da Liang sarayına ilk kez elçi gönderdi; 520'de sarı bir aslan, ak samur kürk ve İran brokarı armağan etti; 526'da yeniden elçi yolladı.",
+              "kaynaklar": [
+                "liangshu-54"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Liang Shu'ya göre Hua halkının surla çevrili kentleri yoktu; kapıları doğuya bakan keçe çadırlarda yaşarlardı. Hükümdar altın bir taht üzerinde, eşiyle yan yana oturarak konuklarını kabul ederdi. Erkekler iyi okçuydu; dar kollu uzun kaftanlar ve altın ile yeşimden kemerler takarlardı. Kadınlar kürk giyer, başlarına altın ve gümüşle süslenmiş tahtadan uzun bir boynuz takardı. Kardeşler tek bir kadınla evlenirdi. Yazıları yoktu, sözleşmeleri tahtaya çentik atarak yaparlardı; komşu ülkelerle yazışırken o ülkelerin insanlarına koyun derisi üzerine yazdırırlardı. Gök tanrısına ve ateş tanrısına taparlardı.",
+              "kaynaklar": [
+                "liangshu-54"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Yule'ün eserinin 1915 baskısındaki nota göre (H. Cordier) Eftalitler adlarını 516'da Çin'e elçi gönderen hükümdarları Ye-tai-i-li-t'o'dan alır. Aynı nota göre 500 dolaylarında Belh'in batısındaki Talikhan, Ak Hunlarla İran arasındaki sınır kentiydi.",
+              "kaynaklar": [
+                "menandros-yule|s. 205"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Akhunlar Tohâristan çevresine ve Afganistan'a yerleşti; Toramana ile oğlu Mihiragula zamanında Kuzey Hindistan'a hâkim oldular.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Çinli elçi Sung Yün'ün Ak Hun sarayını ziyareti (519 dolayları)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Lo-yang Ch'ieh-lan Chi'ye göre Kuzey Wei'nin Hindistan'a gönderdiği Sung Yün ve Hui-sheng, yolculukları sırasında onuncu ayın başında Ak Hun (Ye-ta) ülkesine ulaştılar. Hükümdarın kırk adım genişliğinde büyük bir keçe çadırı vardı; çadırın duvarları dokuma halılarla kaplıydı. Hükümdar brokar giysiler içinde, dört ayağı altın anka kuşu biçiminde olan altın bir tahtta oturuyordu. Wei elçisini kabul ederken iki kez eğildi ve diz çöküp imparatorun mektubunu aldı.",
+              "kaynaklar": [
+                "luoyang-5"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Aynı esere göre hükümdarın eşi de brokar giyiyordu; giysisi sekiz ch'ih'ten uzundu, yerde üç ch'ih kadar sürünüyor ve bir hizmetçi tarafından taşınıyordu. Başında üç ch'ih uzunluğunda, renkli boncuklarla süslü tek bir boynuz vardı. Tahtı altı dişli beyaz bir fil ile dört aslanın üzerinde duruyordu; devlet adamlarının eşleri onun ardından gelirdi.",
+              "kaynaklar": [
+                "luoyang-5"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Aynı esere göre Ak Hunlar Buda'nın öğretisine inanmaz, başka tanrılara taparlardı; hayvan kesip et yerler, ama yedi değerli maddeden yapılmış kaplar kullanırlardı. Kırktan fazla ülke onlara vergi verirdi; hâkimiyetleri güneyde Tieh-lo'ya, kuzeyde Töleslere (Ch'ih-le), doğuda Hotan'a, batıda İran'a kadar uzanıyordu. Surla çevrili kentleri yoktu, su ve otlak peşinde mevsimden mevsime göçerlerdi. Yazıları ve törensel kuralları yoktu; yılları on iki aydı ve artık ay kullanmazlardı.",
+              "kaynaklar": [
+                "luoyang-5"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Aynı esere göre Ak Hunlar Gandhara (Ch'ien-t'o-lo) krallığını yıkıp başına Ch'ih-ch'in adlı birini kral yapmıştı; onun soyu iki kuşaktır orayı yönetiyordu. Bu kral Budist değildi; Keşmir ile sınır yüzünden üç yıldır savaşıyor ve bu savaşta yedi yüz savaş fili kullanıyordu. Wei elçilerini oturduğu yerden kabul etti.",
+              "kaynaklar": [
+                "luoyang-5"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl, Ak Hunların Kuzey Hindistan'a hâkim olduğunu belirtir.",
+              "kaynaklar": [
+                "dia-turk"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Göktürklerle mücadele ve yıkılış",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Menandros'a göre Göktürk elçileri 568'de Bizans imparatoruna, kağanlarının Eftalitleri yenip vergiye bağladığını, Eftalitlerin bütün gücünün yıkıldığını ve kentlerinin Türklerin eline geçtiğini anlattı. Menandros'un aktardığına göre Eftalitlerin Katulphos adlı bir önderi, hükümdarın karısına el koyması üzerine kendi halkını Türklere ele vermiş ve sonra Perslere sığınmıştı.",
+              "kaynaklar": [
+                "menandros-yule|s. 206-207"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Sui Shu'ya göre Göktürk hükümdarı Mukan Kağan, Juan-juanları ortadan kaldırdıktan sonra batıda Ak Hunları (Ye-ta) yendi.",
+              "kaynaklar": [
+                "suishu-84"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu Ak Hun Devleti'nin 557'ye kadar sürdüğünü kabul eder; eserinde Ak Hun-Sasani ilişkileri ve Ak Hunların sonu ayrı başlıklar hâlinde ele alınır.",
+              "kaynaklar": [
+                "kemaloglu-2023|s. 36, 43"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "hazar": {
+      "ozet": "Hazarlar, Kafkasların kuzeyindeki Sabarların devamı olarak tarih sahnesine çıkan bir Türk boyudur. Önce Batı Göktürk Kağanlığı'nın en batı ucunu oluşturdular, Batı Göktürklerin dağılmasıyla bağımsız oldular. Karadeniz ile Hazar Denizi arasındaki geniş bozkırlara, İdil (Volga), Don ve Kuban havzalarına hâkim oldular. Bizans ile ittifak kurup Sasanilere karşı savaştılar; Araplarla Derbend geçidi için yaklaşık bir buçuk yüzyıl mücadele ettiler. Yönetici tabakanın Yahudiliği benimsemesine rağmen ülkede Müslüman, Hristiyan ve eski Türk inancına bağlı halklar bir arada yaşadı. İpek ve kürk yolları üzerindeki ticaretle zenginleşen devlet, Peçenek ve Rus saldırılarıyla 10. yüzyılın sonlarından itibaren çözüldü ve 11. yüzyılın ortalarında ortadan kalktı.",
+      "tarihNotu": "Bu sayfadaki bilgiler, hangi kaynaktan geldiklerine göre gruplanmıştır. Hazar hükümdarı Yusuf'un mektubu ve Arap coğrafyacı Mesudi'nin anlattıkları, telif süresi dolmuş Jewish Encyclopedia (1903) maddesi aracılığıyla verilmiştir. Kaynaklarda farklı geçen yıllar ve adlar, Taşağıl'ın DİA maddesine göre yazılmıştır. Devletin kuruluş yılı kaynaklara göre değişir; haritadaki yıllar yaklaşıktır.",
+      "kronoloji": [
+        {
+          "yil": "576",
+          "olay": "Göktürkler Kırım'daki Kerç kalesini aldı; Göktürk sınırları Karadeniz'e ulaştı."
+        },
+        {
+          "yil": "582'den sonra",
+          "olay": "Hazarlar Batı Göktürk Kağanlığı'nın en batı ucunu oluşturdu."
+        },
+        {
+          "yil": "626",
+          "olay": "Hazarlar, Sasanilere ve Avarlara karşı Bizans imparatoru Herakleios'a 40.000 kişilik bir ordu gönderdi."
+        },
+        {
+          "yil": "630",
+          "olay": "Batı Göktürklerinin dağılmasıyla Hazarlar bağımsız oldu."
+        },
+        {
+          "yil": "652-653",
+          "olay": "Selman b. Rebia'nın seferiyle Araplarla Hazarlar arasındaki savaşlar büyüdü."
+        },
+        {
+          "yil": "714",
+          "olay": "Arap komutanı Mesleme b. Abdülmelik Derbend geçidini aldı."
+        },
+        {
+          "yil": "717",
+          "olay": "Hazarlar Azerbaycan'ın büyük kısmına girdi."
+        },
+        {
+          "yil": "730",
+          "olay": "Belencer'i alan Arap komutanı Cerrâh b. Abdullah geri çekilmek zorunda kaldı."
+        },
+        {
+          "yil": "833",
+          "olay": "Bizanslı mühendisler Don kıyısında Sarkel (Ak Kale) kalesini yaptı."
+        },
+        {
+          "yil": "860 dolayları",
+          "olay": "Hristiyan misyoner Kyrillos İdil'e geldi."
+        },
+        {
+          "yil": "943",
+          "olay": "Arap tarihçi Mesudi, Hazar ülkesini ve başkent İdil'i anlattı."
+        },
+        {
+          "yil": "960 dolayları",
+          "olay": "Endülüslü devlet adamı Hasday b. Şaprut ile Hazar hükümdarı Yusuf mektuplaştı."
+        },
+        {
+          "yil": "965",
+          "olay": "Hazar hakanı Harizmlilere sığındı; Kiev prensi Svyatoslav Sarkel'i yıktı."
+        },
+        {
+          "yil": "968'den sonra",
+          "olay": "Rus saldırılarıyla Semender harap oldu."
+        },
+        {
+          "yil": "1016",
+          "olay": "Rus ve Bizans ortak seferiyle Kırım'daki son Hazar toprakları elden çıktı."
+        },
+        {
+          "yil": "11. yüzyılın ortası",
+          "olay": "Hazar Devleti ortadan kalktı."
+        }
+      ],
+      "konular": [
+        {
+          "baslik": "Kökeni ve adı",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Hazarlar Sabar Türklerinin devamı olarak tarih sahnesine çıktı; adları Arapça, İbranice, Latince, Grekçe ve Çince kaynaklarda farklı biçimlerde geçer. Hanedanın Göktürklerin Aşina soyuyla bağlantılı olduğu belirtilir.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'a göre Hazarlar Türk kökenli bir halktı; başkentlerinde Türkçe ve Hazarca konuşulurdu.",
+              "kaynaklar": [
+                "je-chazars"
+              ]
+            },
+            {
+              "grup": "makale",
+              "metin": "Taşağıl'a göre Kafkasların kuzeyinde devlet kuran Sabarların yerini Hazar Kağanlığı aldı ve yaklaşık 400 yıl varlığını sürdürdü.",
+              "kaynaklar": [
+                "tasagil-2014"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Göktürklerden bağımsızlığa",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre 576'da Kerç kalesinin Göktürklerin eline geçmesiyle Göktürk sınırları Karadeniz'e ulaştı. Göktürk Devleti 582'de ikiye ayrılınca Hazarlar Batı Göktürk Kağanlığı'nın en uç noktasını oluşturdu; Batı Göktürk Devleti'nin dağılmasıyla 630'da bağımsızlıklarını ilan ettiler. Hazar ülkesinin ağırlık merkezi önce Terek boyundaydı, sonra İdil, Yayık, Don ve Kuban havzalarına kaydı.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Bizans ile ittifak",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Bizans imparatoru Herakleios 626'da Sasanilere ve Avarlara karşı Hazarlardan 40.000 kişilik yardım aldı; hakanın Herakleios'un kızı Eudokia ile evlenmesi planlandı, ama hakanın ölümüyle bu evlilik gerçekleşmedi. Tahttan indirilen II. Iustinianos Hazar hakanına sığındı ve onun kız kardeşiyle evlendi; prenses vaftiz edilince Theodora adını aldı. Bizans imparatoru IV. Leon, Hazar asıllı annesinden dolayı 'Hazar Leon' lakabıyla anılır.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'a göre 7. yüzyılın başında Hazar kağanı Herakleios'a 40.000 kişilik bir ordu gönderdi ve bu ordu Perslerin yenilmesine yardım etti. Rosenthal, IV. Leon'un anne tarafından Hazar hükümdarının torunu olduğunu belirtir.",
+              "kaynaklar": [
+                "je-chazars"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Araplarla savaşlar ve Derbend",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Araplarla çatışmalar Halife Ömer döneminde başladı ve 652-653'te Selman b. Rebia'nın seferiyle büyüdü. Mesleme b. Abdülmelik 708'de Hazarlara karşı başarılar kazandı ve 714'te Derbend geçidini aldı; Hazarlar ise 717'de Azerbaycan'ın büyük kısmına girdi. Cerrâh b. Abdullah Belencer'i aldı ama 730'da geri çekilmek zorunda kaldı. Mervân b. Muhammed'in seferinde Araplar İdil'e kadar ilerledi; yenilen hakan İslam'ı kabul etme şartıyla barış yaptı, ama kısa süre sonra eski dinine döndü. Abbasiler döneminde ilişkiler genelde dostane geçti ve evlilik ittifakları kuruldu.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Aliev'e göre Araplar Derbend'i muhtemelen 652-653'te aldı; ardından Araplarla Hazarlar arasında bu kapı şehir için yaklaşık 150 yıl süren savaşlar yaşandı.",
+              "kaynaklar": [
+                "dia-derbend"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'a göre Derbend surlarını Sasani hükümdarları Kavad ve Hüsrev yaptırmıştı; Hazarlar bu geçidin ötesinden gelecek saldırılara karşı bölgeyi tutuyordu.",
+              "kaynaklar": [
+                "je-chazars"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Başkentler: Belencer, Semender ve İdil",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Hazarların başkenti önce Dağıstan'daki Belencer ve Semender, sonra İdil oldu. İdil, Akşehir ve Sarıgşın adlı iki bölümden oluşuyordu. 833'te Bizans'tan gelen mühendisler Don kıyısında Sarkel (Ak Kale) kalesini yaptı.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'a göre İdil, bugünkü Astrahan'a yaklaşık sekiz mil uzaklıkta, İdil (Volga) ırmağının aşağı kesimindeydi. Kentin surlarında dört kapı vardı ve hükümdarın sarayı kentteki tek tuğla yapıydı. Rosenthal'ın aktardığına göre Hazar hükümdarı Yusuf, ülkesinin ırmak boyunca doğuya dört aylık yol uzandığını, sınırlarının Hazar Denizi'ne, Kafkaslara ve Karadeniz'e ulaştığını yazar; hakan kışı başkentte, ilkbahardan güz sonuna kadar olan zamanı bozkırda geçirirdi.",
+              "kaynaklar": [
+                "je-chazars"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Mesudi'ye göre Hazarların başkenti eskiden Derbend'e (Bâbü'l-ebvâb) sekiz gün uzaklıktaki Semender'di; kentte hâlâ kalabalık bir Hazar nüfusu yaşıyordu. İslam'ın ilk yıllarında Selman b. Rebia Semender'i alınca hükümdar oturduğu yeri yedi gün uzaklıktaki İdil'e taşıdı. İdil'i Türk ülkesinin yukarı kesimlerinden gelen büyük bir ırmak ikiye bölüyordu; ırmağın ortasındaki adada hükümdarın sarayı vardı ve saray kentin bir yakasına kayıklardan yapılmış bir köprüyle bağlanıyordu. Kentte Müslümanlar, Hristiyanlar, Yahudiler ve putperestler yaşıyordu; büyük caminin minaresi hükümdar sarayından yüksekti.",
+              "kaynaklar": [
+                "mesudi-sprenger|s. 406-407, 410"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Devlet düzeni: hakan ve bey",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre hükümdar 'hakan' unvanını taşırdı; devletin günlük işlerini 'hakan beg' (abşad, tarhan) yürütürdü, onun altında 'kündür' ve 'çavşıgır' gelirdi. Bağlı kavimler merkezden atanan ilteber ve tudunlarca yönetilirdi. Taşağıl, bu düzenin büyük ölçüde Göktürk devlet teşkilatına benzediğini belirtir.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'a göre hakanın gücü mutlak sayılırdı; ordunun başında ve günlük işlerde onun yardımcısı olan bey (işa) bulunurdu. Bey bile hakanın huzuruna yalınayak ve büyük bir saygıyla çıkardı.",
+              "kaynaklar": [
+                "je-chazars"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Mesudi'ye göre Hazar ülkesinde iki hükümdar vardı. Biri sarayından hiç çıkmaz, halka ve beylere görünmezdi; kişiliği kutsal sayılırdı, ama devlet işlerine karışmazdı. Bütün işleri öteki yürütürdü. Kıtlık, savaş yenilgisi ya da başka bir felaket olduğunda halk sarayına koşup 'Bunun yönetimi başımıza uğursuzluk getirdi; onu öldür ya da bize ver' derdi; bazen istenen kişi öldürülür, bazen de bağışlanırdı. Mesudi bu kurumun ne kadar eski olduğunu bilmediğini, hükümdarların beylerin önde gelenleri arasından seçildiğini yazar.",
+              "kaynaklar": [
+                "mesudi-sprenger|s. 410-411"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Ordu ve Müslüman ücretli askerler (10. yüzyıl)",
+          "gorusler": [
+            {
+              "grup": "ana",
+              "metin": "Mesudi'ye göre Hazar hükümdarının sürekli ordusu Harizm'den gelen ve Larisiye denen Müslümanlardan oluşuyordu. Bunlar İslam'ın yayılmasından kısa süre sonra kuraklık ve veba yüzünden ülkelerini bırakıp Hazar ülkesine gelmişlerdi. Yerleşirken bazı şartlar koşmuşlardı: İslam'ı açıkça yaşayabilecek, cami yapıp ezan okuyabilecekler, vezir de kendi aralarından seçilecekti. Mesudi'nin zamanında vezir Ahmed b. Kuveyh adlı bir Müslümandı. Hükümdar Müslümanlarla savaşırsa onlar tarafsız kalacak, öteki düşmanlara karşı ise onun için savaşacaklardı. Mesudi bu ordunun zırh, miğfer ve zincir zırh giyen yedi bin okçu atlıdan oluştuğunu yazar ve bölgede ücretli asker besleyen başka hükümdar olmadığını ekler.",
+              "kaynaklar": [
+                "mesudi-sprenger|s. 408-409"
+              ]
+            },
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Hazar Devleti'nin son döneminde ordunun önemli bir kısmı Harizm'den gelen ücretli askerlerden oluşuyordu.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Din ve hoşgörü",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Hazarların asıl ve en uzun süreli inancı Gök Tanrı'ya dayanan eski Türk diniydi. Hristiyanlık Arran misyonerleriyle yayıldı ve 860 dolaylarında Kyrillos'un İdil'e gelişiyle en geniş yayılışına ulaştı. Yöneticilerin Yahudiliği kabul ettiği tarih kaynaklarda farklıdır: Yehuda Halevi 740'ı, Mesudi Harun Reşid dönemini (786-809) verir. 10. yüzyılda İdil'de 10.000'den fazla Müslüman yaşıyordu ve Yahudi olan hakanlar İslam'ın yayılmasına engel olmadı.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'ın Hazar hükümdarı Yusuf'un mektubundan aktardığına göre, hükümdar Bulan rüyasında kendisine güç ve şan vaat edildiğini gördükten sonra Bizans imparatorundan ve halifeden gelen din bilginlerini dinledi. Hristiyan ve Müslüman bilginler kendi dinlerinden sonra en çok Yahudiliği üstün tuttuğu için Yahudiliği seçti.",
+              "kaynaklar": [
+                "je-chazars"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'ın Arap coğrafyacı Mesudi'den aktardığına göre Hazar ülkesinde yedi kişilik bir yüksek mahkeme vardı: İkisi Yahudi, ikisi Müslüman, ikisi Hristiyan, biri de Slavlar ve öteki putperestler için. Rosenthal, Hazar ülkesinin dinleri yüzünden zulme uğrayanları kabul ettiğini belirtir.",
+              "kaynaklar": [
+                "je-chazars"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Mesudi'ye göre Hazar hükümdarı ve çevresi Harun Reşid döneminde Yahudiliği kabul etti; Bizans imparatoru kendi ülkesindeki Yahudileri Hristiyan olmaya zorlayınca pek çok Yahudi Bizans'tan ve İslam ülkelerinden Hazar ülkesine kaçtı. Mesudi, ülkedeki yargıçları şöyle sayar: Müslümanlar için iki, Tevrat'a göre karar veren Yahudi Hazarlar için iki, İncil'e göre karar veren Hristiyanlar için iki ve Slavlar, Ruslar ve öteki putperestler için bir yargıç. Putperestlerin yargıcı önemli bir davayla karşılaşınca kararı Müslüman yargıçlara bırakırdı. Mesudi'ye göre Müslümanlarla Hristiyanlar anlaşırsa hükümdarın onlar üzerinde gücü kalmazdı.",
+              "kaynaklar": [
+                "mesudi-sprenger|s. 407, 409-410"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Ticaret ve ekonomi",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre Hazar ülkesi Batı Avrupa, Yakındoğu ve Uzakdoğu arasındaki transit ticarette önemli bir konumdaydı ve gümrük vergileri devletin en önemli geliriydi. Burtas kürkleri, özellikle siyah ve kızıl tilki kürkleri çok değerliydi. Ekonomide hayvancılık temel olmaya devam etti; son dönemde ordunun önemli bir kısmı Harizm'den gelen ücretli askerlerden oluşuyordu.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'a göre Hazar ülkesinden kürk, bal, deri ve balık gibi mallar İstanbul'a, İspanya'ya ve Fransa'ya kadar ulaşırdı; Raddanî denen Yahudi tüccarlar Hazar Denizi üzerinden Hindistan'a ve Çin'e giderdi. Rosenthal'ın aktardığına göre Burtaslar, Bulgarlar ve Slavlar gibi birçok halk Hazarlara vergi öderdi.",
+              "kaynaklar": [
+                "je-chazars"
+              ]
+            },
+            {
+              "grup": "ana",
+              "metin": "Mesudi'ye göre Hazar ülkesinin bir parçası olan Burtaslar, İdil'e kavuşan ve adını onlardan alan bir ırmağın kıyısında yaşayan bir Türk halkıydı; ırmakta Bulgarlarla Hazarlar arasında canlı bir gemi ticareti vardı. Burtas ülkesinden gelen kara ve kızıl tilki kürklerinin karası yüz dinardan fazlaya satılırdı; Arap ve Arap olmayan hükümdarlar bunlardan külah ve kaftan giyerdi.",
+              "kaynaklar": [
+                "mesudi-sprenger|s. 411-412"
+              ]
+            }
+          ]
+        },
+        {
+          "baslik": "Yıkılış",
+          "gorusler": [
+            {
+              "grup": "turk",
+              "metin": "Taşağıl'a göre 860'tan sonra Peçenek ve Uzların, 1000'den sonra da Kuman-Kıpçakların baskısı devleti zayıflattı; ticaret yollarının kesilmesi ekonomiyi çökertti. Hakanın 965'te Harizmlilere sığınması ve Rus saldırıları, Semender'in 968'den sonra harap olması devletin sonunu hazırladı. Hazar Devleti 11. yüzyılın ortalarında ortadan kalktı; 1066'da 3000 kadar Hazar ailesi Selçuklulara bağlandı. Bugünkü Karaim ve Karaçayların Hazarların bakiyesi olduğu kabul edilir.",
+              "kaynaklar": [
+                "dia-hazarlar"
+              ]
+            },
+            {
+              "grup": "uluslararasi",
+              "metin": "Rosenthal'a göre Hasday ile Yusuf'un mektuplaşmasından yaklaşık beş yıl sonra (965 dolayları) Kiev prensi Svyatoslav Hazarlara saldırdı ve Sarkel'i yıktı; İdil ve Semender de Rusların eline geçti. Kırım'daki Hazar toprakları 1016'ya kadar dayandı; o yıl Rus ve Bizans'ın ortak seferiyle son Hazar önderi Georgios Tzulas esir alındı.",
+              "kaynaklar": [
+                "je-chazars"
               ]
             }
           ]

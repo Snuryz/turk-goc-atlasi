@@ -89,16 +89,23 @@ export function gocKatmani(viewer, yollar, kavimler) {
     return { veri: g, kavim, renk, kontur, ok, etiket, sonSaydamlik: 1 };
   });
 
+  // Zaman çubuğundaki "Göçler" düğmesiyle kapatılınca hiçbir göç oku çizilmez
+  let acik = true;
+
   return {
+    // Açıp kapatma; ardından guncelle çağrılmalıdır (main.js bunu herSeyiGuncelle ile yapar)
+    goster(yeni) {
+      acik = yeni;
+    },
     guncelle(yeniYil) {
       yil = yeniYil;
       for (const k of kayitlar) {
         const { baslangic, bitis } = k.veri;
-        const gorunur = yil >= baslangic && yil <= bitis + SOLMA_SURESI;
+        const gorunur = acik && yil >= baslangic && yil <= bitis + SOLMA_SURESI;
         k.ok.show = k.kontur.show = gorunur;
 
         // Göç sürerken ve kavimin kendi noktası görünmüyorken okun ucuna adını yaz
-        k.etiket.show = yil >= baslangic && yil <= bitis && !(k.kavim && yildaVarMi(k.kavim, yil));
+        k.etiket.show = acik && yil >= baslangic && yil <= bitis && !(k.kavim && yildaVarMi(k.kavim, yil));
         if (!gorunur) continue;
 
         // Bitmiş göçler yavaşça solsun, ama en fazla yarı saydama kadar

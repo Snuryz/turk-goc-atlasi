@@ -218,11 +218,18 @@ export function devletKatmani(viewer, devletler) {
     if (bekleyen) sahne.requestRender();
   });
 
+  // Zaman çubuğundaki "Devletler" düğmesiyle kapatılınca hiçbir devlet çizilmez (bkz. goster)
+  let acik = true;
+
   return {
+    // Açıp kapatma; ardından guncelle çağrılmalıdır (main.js bunu herSeyiGuncelle ile yapar)
+    goster(yeni) {
+      acik = yeni;
+    },
     // Yıl veya seçim değişince çağrılır: hangi devletin hangi aşaması görünecek, hangisi vurgulanacak
     guncelle(yil, seciliId) {
       for (const k of kayitlar) {
-        const asama = haritadaMi(k.veri, yil) ? devletAsamasi(k.veri, yil) : null;
+        const asama = acik && haritadaMi(k.veri, yil) ? devletAsamasi(k.veri, yil) : null;
         k.hedef = asama ? asamaGetir(k, asama) : null;
 
         // Bir sonraki aşamayı önceden hazırla (zaman çizelgesi ileri oynarken beklemesin)

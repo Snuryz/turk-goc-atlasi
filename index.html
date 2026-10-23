@@ -32,6 +32,7 @@
         <button id="bolgePaneliDugmesi" class="panel-dugmesi" aria-expanded="true" aria-controls="bolgeler"><span class="uzun">Yazıtlar ve bölgeler</span><span class="kisa">Yazıtlar</span></button>
         <button id="bilgiPaneliDugmesi" class="panel-dugmesi" aria-expanded="true" aria-controls="bilgiPaneli"><span class="uzun">Bilgi paneli</span><span class="kisa">Bilgi</span></button>
         <button id="devletlerDugmesi" class="panel-dugmesi" aria-haspopup="dialog">Devletler</button>
+        <button id="savaslarDugmesi" class="panel-dugmesi" aria-haspopup="dialog">Savaşlar</button>
         <button id="makalelerDugmesi" class="panel-dugmesi" aria-haspopup="dialog">Makaleler</button>
       </div>
     </header>
@@ -85,13 +86,23 @@
       </div>
     </div>
 
+    <!-- Bilgi panelinin sol kenarındaki tutamak: sürüklenince panel genişler/daralır (bilgisayar düzeninde) -->
+    <div class="panel-tutamak" id="panelTutamak" role="separator" aria-orientation="vertical"
+         aria-controls="bilgiPaneli" aria-label="Bilgi panelinin genişliği" tabindex="0"
+         title="Sürükleyerek paneli büyütün ya da küçültün (çift tıklama: varsayılan genişlik)"></div>
     <aside id="bilgiPaneli">
       <section class="card" id="card"></section>
       <section>
         <p class="eyebrow">Bu yılda haritada</p>
         <div id="chips"></div>
       </section>
-      <section>
+      <!-- Zaman çubuğundaki "Savaşlar" düğmesi açıkken görünür -->
+      <section id="savasBolumu" hidden>
+        <p class="eyebrow">Bu yıllarda yapılan savaşlar</p>
+        <div class="routes-list savas-listesi-paneli" id="panelSavaslari"></div>
+      </section>
+      <!-- Zaman çubuğundaki "Göçler" düğmesi kapatılınca gizlenir -->
+      <section id="gocBolumu">
         <p class="eyebrow">Süren ve yakın zamanda biten göçler</p>
         <div class="routes-list" id="routes"></div>
       </section>
@@ -103,6 +114,15 @@
       <div class="hiz-ayari">
         <span class="hiz-baslik">Hız <small>(yıl/sn)</small></span>
         <div class="hiz" id="hiz" role="group" aria-label="Oynatma hızı (yıl/saniye)"></div>
+      </div>
+      <!-- Haritada ve zaman akışında gösterilecek katmanlar: devletler ve göçler açık, savaşlar kapalı başlar -->
+      <div class="katman-ayari">
+        <span class="hiz-baslik">Haritada göster</span>
+        <div class="katmanlar" role="group" aria-label="Haritada göster">
+          <button class="katman-dugmesi" id="devletlerAcik" aria-pressed="true" title="Devletleri göster / gizle"><i class="katman-isareti"></i>Devletler</button>
+          <button class="katman-dugmesi" id="goclerAcik" aria-pressed="true" title="Göçleri göster / gizle"><i class="katman-isareti"></i>Göçler</button>
+          <button class="katman-dugmesi" id="savaslarAcik" aria-pressed="false" title="Savaşları göster / gizle"><i class="katman-isareti"></i>⚔ Savaşlar</button>
+        </div>
       </div>
       <div class="ruler">
         <input type="range" id="yearRange" min="-800" max="2025" step="1" value="560" aria-label="Yıl">
@@ -121,6 +141,19 @@
     <div class="devletler-govde">
       <div class="devlet-listesi" id="devletListesi"></div>
       <article class="devlet-icerigi" id="devletIcerigi"></article>
+    </div>
+  </dialog>
+
+  <!-- Savaşlar penceresi: kronolojik savaş listesi (devlete göre süzülebilir), sağda seçili savaşın ayrıntısı -->
+  <dialog class="makaleler-penceresi devletler-penceresi savaslar-penceresi" id="savaslarPenceresi" aria-labelledby="savaslarBasligi">
+    <div class="makaleler-ust">
+      <h2 id="savaslarBasligi">Savaşlar</h2>
+      <button class="makaleler-kapat" id="savaslarKapat" aria-label="Kapat">✕</button>
+    </div>
+    <div class="savas-suzgeci" id="savasSuzgeci" role="group" aria-label="Devlete göre süz"></div>
+    <div class="devletler-govde">
+      <div class="savas-listesi" id="savasListesi"></div>
+      <article class="devlet-icerigi" id="savasIcerigi"></article>
     </div>
   </dialog>
 

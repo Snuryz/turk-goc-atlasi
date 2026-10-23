@@ -3,7 +3,9 @@
 import { yildaVarMi, yilYazisi, devletAsamasi } from "./yardimci.js";
 import { KOLLAR } from "./kollar.js";
 import { SOLMA_SURESI } from "./katmanlar/goc-yollari.js";
-import { konularHtml, kullanilanKaynaklar, kaynakcaHtml } from "./konular.js";
+import { savasGorunurMu } from "./katmanlar/savaslar.js";
+import { konularHtml, kullanilanKaynaklar, kaynakcaHtml, yilKaynagiHtml } from "./konular.js";
+import { savasOzetiHtml, savasKonulari } from "./savaslar-paneli.js";
 
 const yillar = (k) => `${yilYazisi(k.baslangic)} – ${yilYazisi(k.bitis)}`;
 const renkNoktasi = (renk) => `<i style="background:${renk}"></i>`;
@@ -27,6 +29,7 @@ function devletKarti(d, ayrintili, kaynaklar, yil) {
   return `<p class="eyebrow">Devlet</p>
     <h2>${d.ad}</h2>
     <div class="years">${yillar(d)}</div>
+    ${yilKaynagiHtml(d, kaynaklar)}
     <dl>
       <dt>Başkent</dt><dd>${d.baskent}</dd>
       <dt>Kurucu</dt><dd>${d.kurucu}</dd>
@@ -93,6 +96,16 @@ function yazitKarti(y, kaynaklar) {
     </section>`;
 }
 
+// Savaş kartı: taraflar, sonuç, konum ve kaynaklara göre gruplanmış bilgiler
+function savasKarti(s, devletler, kaynaklar) {
+  return `<p class="eyebrow">Savaş</p>
+    <h2>${s.ad}</h2>
+    <div class="years">${s.yilYazi}</div>
+    ${savasOzetiHtml(s, devletler)}
+    <button class="makale-linki savas-ayrinti" data-id="${s.id}">Savaşlar panelinde aç →</button>
+    ${bilgiler({ konular: savasKonulari(s) }, kaynaklar)}`;
+}
+
 function cipler(liste, tur, secili) {
   return liste
     .map((x) => {
@@ -106,28 +119,47 @@ function cipler(liste, tur, secili) {
     .join("");
 }
 
-export function paneliCiz({ devletler, kavimler, yollar, bolgeler, yazitlar = [], yazitKaynaklari = {}, kaynaklar = {}, ayrintiliDevletler = new Set(), yil, secili, sec }) {
+// katmanlar: zaman çubuğundaki "Haritada göster" düğmelerinin durumu. Kapalı olan katman panelde de görünmez.
+export function paneliCiz({ devletler, kavimler, yollar, bolgeler, yazitlar = [], yazitKaynaklari = {}, kaynaklar = {}, ayrintiliDevletler = new Set(), savaslar = [], katmanlar = { devletler: true, gocler: true, savaslar: false }, yil, secili, sec }) {
   // 1) Seçili devletin, kavimin, bölgenin ya da yazıtın bilgi kartı
   const kart = document.getElementById("card");
   const d = secili?.tur === "devlet" && devletler.find((x) => x.id === secili.id);
   const k = secili?.tur === "kavim" && kavimler.find((x) => x.id === secili.id);
   const b = secili?.tur === "bolge" && bolgeler.find((x) => x.id === secili.id);
   const y = secili?.tur === "yazit" && yazitlar.find((x) => x.id === secili.id);
+  const s = secili?.tur === "savas" && savaslar.find((x) => x.id === secili.id);
   kart.innerHTML = d ? devletKarti(d, ayrintiliDevletler.has(d.id), kaynaklar, yil)
+    : s ? savasKarti(s, devletler, kaynaklar)
     : k ? kavimKarti(k, yollar, kaynaklar)
     : b ? bolgeKarti(b, kaynaklar)
     : y ? yazitKarti(y, yazitKaynaklari)
     : `<p class="eyebrow">Seçim yok</p><p>Haritada bir devlete ya da kavime tıklayın.</p>`;
 
   // 2) Bu yılda haritada olan devletler ve kavimler
-  const aktifDevletler = devletler.filter((x) => yildaVarMi(x, yil));
+  const aktifDevletler = katmanlar.devletler ? devletler.filter((x) => yildaVarMi(x, yil)) : [];
   const aktifKavimler = kavimler.filter((x) => yildaVarMi(x, yil));
   document.getElementById("chips").innerHTML =
     (aktifDevletler.length ? `<p class="alt-baslik">Devletler</p><div class="chips">${cipler(aktifDevletler, "devlet", secili)}</div>` : "") +
     `<p class="alt-baslik">Kavimler (${aktifKavimler.length})</p><div class="chips">${cipler(aktifKavimler, "kavim", secili)}</div>`;
   document.querySelectorAll("#chips button").forEach((b) => (b.onclick = () => sec(b.dataset.tur, b.dataset.id)));
 
-  // 3) Süren ve yakın zamanda biten göçler
+  // 3) Bu yıllarda yapılan savaşlar (katman açıksa): savaş yılından sonraki birkaç on yıl listede kalır, eskiyenler soluk
+  const savasBolumu = document.getElementById("savasBolumu");
+  savasBolumu.hidden = !katmanlar.savaslar;
+  if (katmanlar.savaslar) {
+    const gorunen = savaslar.filter((x) => savasGorunurMu(x, yil)).sort((a, b) => b.yil - a.yil);
+    const renk = (x) => devletler.find((dv) => dv.id === x.taraflar.find((t) => t.devlet)?.devlet)?.renk ?? "#e3b04b";
+    const liste = document.getElementById("panelSavaslari");
+    liste.innerHTML = gorunen.length
+      ? gorunen.map((x) => `<button class="${yil - x.yil <= 10 ? "aktif" : "pasif"} ${secili?.tur === "savas" && secili.id === x.id ? "on" : ""}" data-id="${x.id}">
+          <span class="goc-adi">${renkNoktasi(renk(x))}⚔ ${x.ad}</span><span class="yr">${yilYazisi(x.yil)}</span></button>`).join("")
+      : `<span class="pasif">Bu yıllarda kayıtlı bir savaş yok. Bütün savaşlar için üstteki "Savaşlar" düğmesine dokunun.</span>`;
+    liste.querySelectorAll("button").forEach((b) => (b.onclick = () => sec("savas", b.dataset.id)));
+  }
+
+  // 4) Süren ve yakın zamanda biten göçler (katman açıksa)
+  document.getElementById("gocBolumu").hidden = !katmanlar.gocler;
+  if (!katmanlar.gocler) return;
   const sureler = yollar.filter((g) => yil >= g.baslangic && yil <= g.bitis);
   const bitenler = yollar.filter((g) => yil > g.bitis && yil <= g.bitis + SOLMA_SURESI);
   const aralik = (a, b) => (b < 0 ? `MÖ ${-a}–${-b}` : a < 0 ? `MÖ ${-a}–MS ${b}` : `${a}–${b}`);

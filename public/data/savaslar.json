@@ -1,0 +1,1277 @@
+{
+  "_aciklama": "Ayrıntılı sayfası olan devletlerin (Asya Hun, Avrupa Hun, Ak Hun, I. Göktürk, Batı Göktürk, II. Göktürk, Hazar) savaşları. Her savaşın bilgileri üç başlık altındadır: Sebepleri, Savaşın seyri, Sonucu (konular.js biçiminde, kaynağın türüne göre gruplu). Kaynak kimlikleri kaynaklar.json'dadır. yil: haritada ve listede kullanılan yıl (MÖ yıllar eksi); yilYazi: ekranda yazılan yıl. sebep: kartın üstündeki tek cümlelik özet. konumKesin=false olan savaşların yeri kaynaklarda kesin verilmez, işaret yaklaşık bir yerdedir (konumNotu). taraflar[].devlet: devletler.json kimliği (varsa). kazanan: kazanan tarafın sırası (0 ya da 1); null = sonuç belirsiz, akın ya da savaşmadan antlaşma.",
+  "savaslar": [
+    {
+      "id": "tunghu",
+      "ad": "Mete'nin Tung-hu seferi",
+      "yil": -209,
+      "yilYazi": "MÖ 209'dan kısa süre sonra",
+      "konum": [118.5, 44.5],
+      "konumKesin": false,
+      "konumNotu": "Shiji yer adı vermez; Tung-hular Hunların doğusunda yaşıyordu. İşaret bugünkü Doğu Moğolistan dolaylarındadır.",
+      "taraflar": [
+        { "ad": "Asya Hunları (Mete)", "devlet": "asyahun" },
+        { "ad": "Tung-hular" }
+      ],
+      "kazanan": 0,
+      "sebep": "Tung-hular, yeni tahta çıkan Mete'den önce atını, sonra eşini, en sonunda da iki ülke arasındaki toprağı istedi.",
+      "sonuc": "Tung-hu hükümdarı öldürüldü; halkı ve sürüleri Hunların eline geçti.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre Mete'nin tahta çıktığını duyan Tung-hular önce Teoman'dan kalan ve günde bin li koştuğu söylenen atı istedi; Mete danışmanlarının itirazına rağmen atı verdi. Ardından Mete'nin eşlerinden birini istediler; Mete onu da verdi. Üçüncü olarak iki ülke arasında kimsenin oturmadığı, bin li genişliğindeki toprak şeridini istediler.", "kaynaklar": ["shiji"] },
+          { "grup": "makale", "metin": "Pamir'e göre Tung-hular, iç sarsıntı geçiren Hunları köşeye sıkıştırıp toprak kazanmak istiyor, ama savaşı başlatan taraf olmamak için isteklerini adım adım artırıyordu. Pamir, Mete'nin her istek için kurultayı toplamasını Hun devlet düzeninin bir göstergesi sayar.", "kaynaklar": ["pamir-2022|s. 10-11"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre danışmanların bir kısmı boş toprağın verilebileceğini söyleyince Mete öfkelendi: Toprak devletin temeliydi, verilemezdi. Bunu önerenleri idam ettirdi, atına binip geride kalanın öldürüleceğini ilan etti ve doğuya yürüdü. Mete'yi küçümseyen Tung-hular hazırlıksız yakalandı.", "kaynaklar": ["shiji"] },
+          { "grup": "makale", "metin": "Pamir'e göre istenen toprak çorak ve verimsizdi; ama atalardan kalma bir yurt olduğu için Mete onu vermeyi önerenleri cezalandırdı. Pamir'in aktardığına göre Gömeç, Tung-hulara verilen kadının Mete'nin ulu hatunu değil, bir cariye olduğunu belirtir.", "kaynaklar": ["pamir-2022|s. 10-11"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre Tung-hu hükümdarı öldürüldü; halkı ve sürüleri Hunların eline geçti. Mete bundan sonra batıya, Yüeçilerin üzerine yöneldi.", "kaynaklar": ["shiji"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Mete Tung-huları ve Yüeçileri yenerek Orta Asya'daki yirmi altı boyu kendine bağladı.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "yueci",
+      "ad": "Hunların Yüeçi seferleri",
+      "yil": -176,
+      "yilYazi": "MÖ 176 (Mete'nin mektubu; Pamir'e göre ilk sefer MÖ 203)",
+      "konum": [98.5, 39.8],
+      "konumKesin": false,
+      "konumNotu": "Shiji'ye göre Yüeçiler Tun-huang ile Ch'i-lien dağları arasında yaşıyordu; işaret bu bölgededir.",
+      "taraflar": [
+        { "ad": "Asya Hunları (Mete, Sağ Bilge Bey)", "devlet": "asyahun" },
+        { "ad": "Yüeçiler" }
+      ],
+      "kazanan": 0,
+      "sebep": "Batıdaki Yüeçiler Hunlardan güçlüydü; Mete gençliğinde onlara rehin verilmiş, ölümden kaçarak kurtulmuştu.",
+      "sonuc": "Yüeçiler yenildi; Lao-şang döneminde kralları öldürüldü ve halkın büyük kısmı batıya göçtü.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre Teoman döneminde doğudaki Tung-hular güçlü, batıdaki Yüeçiler varlıklıydı. Teoman, veliahdı Mete'yi Yüeçilere rehin olarak gönderdi ve hemen ardından onlara saldırdı; Yüeçiler Mete'yi öldürmek istedi, ama Mete iyi bir atlarını çalıp kaçtı.", "kaynaklar": ["shiji"] },
+          { "grup": "makale", "metin": "Bakır ve Badakoğlu'na göre Yüeçiler başlangıçta Hunlardan güçlüydü; Teoman'ın oğlunu onlara rehin vermesi de bunu gösterir.", "kaynaklar": ["bakir-2019|s. 125-126"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre Mete, Tung-huları yendikten sonra batıya yöneldi ve Yüeçileri yurtlarından kaçırdı. MÖ 177'de Hunların Sağ Bilge Beyi izinsiz olarak Ordos'a girip Çin sınırını yağmalayınca Mete onu ceza olarak batıya, Yüeçilerin üzerine gönderdi. MÖ 176'daki mektubunda Mete, Yüeçilerin yok edildiğini, öldürüldüğünü ya da teslim olduğunu bildirdi.", "kaynaklar": ["shiji"] },
+          { "grup": "turk", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Mete'nin önce doğu komşusu Tung-huları, sonra batı komşusu Yüeçileri hâkimiyeti altına aldığını ve bundan sonra Çin seferine hazırlandığını anlatır. Pamir ise Yüeçi seferini MÖ 203'e tarihler.", "kaynaklar": ["kemaloglu-2023|s. 39", "pamir-2022|s. 11-12"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'deki MÖ 176 tarihli mektuba göre Lou-lan, Wusun, Hu-chie ve çevrelerindeki yirmi altı ülke Hunlara bağlandı; Mete 'yay çeken bütün halkların tek bir aile olduğunu' yazdı. Shiji'nin batı ülkeleri bölümüne göre Mete'nin oğlu Lao-şang Şan-yü Yüeçi kralını öldürüp kafatasından içki kabı yaptırdı; Yüeçilerin büyük kısmı Fergana'yı geçip Amuderya'nın kuzeyine yerleşti, küçük bir kısmı güneydeki dağlara sığındı.", "kaynaklar": ["shiji", "shiji-123"] },
+          { "grup": "makale", "metin": "Bakır ve Badakoğlu'na göre Yüeçilerin batıya göçü Mete döneminde değil, Lao-şang döneminde oldu: MÖ 172'de Çin imparatoruna sunulan bir bildiride Yüeçiler hâlâ eski yerlerinde gösterilir.", "kaynaklar": ["bakir-2019|s. 125-126"] }
+        ]}
+      ]
+    },
+    {
+      "id": "peteng",
+      "ad": "Pe-teng kuşatması",
+      "yil": -200,
+      "yilYazi": "MÖ 200 (Hacıfazlıoğlu'na göre MÖ 201)",
+      "konum": [113.3, 40.1],
+      "konumKesin": false,
+      "konumNotu": "P'ing-ch'eng (bugünkü Datong) yakınındaki Pe-teng tepesi; işaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Asya Hunları (Mete)", "devlet": "asyahun" },
+        { "ad": "Han Çini (İmparator Kao)" }
+      ],
+      "kazanan": 0,
+      "sebep": "Ma-yi'deki Çinli kral Han Sin Hunlara teslim olunca İmparator Kao büyük bir orduyla Mete'nin üzerine yürüdü.",
+      "sonuc": "Çin imparatoru yedi gün kuşatıldı, sonra çemberden çıkmasına izin verildi; ardından Çin'in yıllık ödeme yapacağı bir barış antlaşması imzalandı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre Han hanedanını kuran İmparator Kao (Liu Pang), Ma-yi'ye Han Sin'i kral olarak atamıştı. Hunlar Ma-yi'yi kuşatınca Han Sin Mete'ye teslim oldu ve Hunlar Kuzey Çin'e girdi. Kao bunun üzerine ordusunun başına geçip Hunların üzerine yürüdü.", "kaynaklar": ["shiji"] },
+          { "grup": "turk", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Mete'nin Tung-huları ve Yüeçileri yendikten sonra Çin seferine hazırlandığını yazar.", "kaynaklar": ["kemaloglu-2023|s. 39"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre sefer çok sert bir kışa denk geldi; her on Çinli askerden ikisi-üçü donan parmaklarını kaybetti. Mete en iyi askerlerini ve sağlıklı hayvanlarını saklayıp Çin gözcülerine yalnızca zayıfları gösterdi ve yenilmiş gibi geri çekildi. Tuzağı sezen Liu Çing dinlenmedi. Çoğu piyade olan 320.000 kişilik Çin ordusu Hunları kovaladı; öncü birliklerle önden giden Kao, P'ing-ch'eng yakınındaki Pe-teng tepesinde 400.000 Hun atlısıyla çevrildi.", "kaynaklar": ["shiji"] },
+          { "grup": "ana", "metin": "Shiji'ye göre Hun atlıları yönlere göre at rengiyle dizilmişti: batıda ak, doğuda boz-kır, kuzeyde yağız, güneyde doru atlar vardı. Çinliler yedi gün ne yardım ne erzak alabildi. Kao, Mete'nin hatununa gizlice değerli hediyeler gönderdi; hatun Mete'ye Çin topraklarını alsa bile orada yaşayamayacağını söyledi. Han Sin'in komutanlarının buluşmaya gelmemesi de Mete'yi şüphelendirdi; Mete çemberin bir köşesini açtı ve Çin askerleri yaylarını gerip oklarını dışarı çevirerek çıktı.", "kaynaklar": ["shiji"] },
+          { "grup": "turk", "metin": "Durmuş'a göre düşmanı sahte bir geri çekilmeyle pusu yerine kadar çekip çembere alan bu bozkır savaş yöntemine 'kurt oyunu' ya da 'Turan taktiği' denir.", "kaynaklar": ["durmus-iskit|s. 246"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre Pe-teng'den sonra Liu Çing aracılığıyla akrabalık yoluyla barış (he-çin) kuruldu: Çin hanedan ailesinden bir kızı Mete'ye eş olarak verdi, her yıl ipek, kumaş, şarap, pirinç ve yiyecek göndermeyi kabul etti; iki hükümdar 'kardeş' sayıldı.", "kaynaklar": ["shiji"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre bu antlaşmayla Çin Hunların üstünlüğünü kabul etti ve onlara vergi ödemeye başladı. Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu bu antlaşmayı Çin ile Orta Asya arasındaki ilk milletlerarası antlaşma sayar; Mete'nin Çin'i fethetmeye kalkışmamasını da 2-3 milyonluk Hunların 50 milyonluk Çin nüfusu içinde eriyip gitme tehlikesiyle açıklar.", "kaynaklar": ["dia-turk", "kemaloglu-2023|s. 36, 39"] },
+          { "grup": "uluslararasi", "metin": "Di Cosmo, he-çin düzenini prenses evliliği, yıllık hediyeler, iki hükümdarın eşit sayılması ve sınırın karşılıklı tanınmasına dayanan bir barış düzeni olarak tanımlar ve bunun Han sarayına ağır geldiğini vurgular.", "kaynaklar": ["dicosmo-2002"] }
+        ]}
+      ]
+    },
+    {
+      "id": "ordos127",
+      "ad": "Ordos (Ho-nan) savaşı",
+      "yil": -127,
+      "yilYazi": "MÖ 127",
+      "konum": [108.5, 39.6],
+      "konumKesin": false,
+      "konumNotu": "Sarı Irmak'ın büyük kıvrımı içindeki Ordos bölgesi.",
+      "taraflar": [
+        { "ad": "Asya Hunları (Lou-fan ve Pai-yang beyleri)", "devlet": "asyahun" },
+        { "ad": "Han Çini (Wei Ch'ing)" }
+      ],
+      "kazanan": 1,
+      "sebep": "MÖ 133'teki Ma-yi tuzağıyla barış bozulmuştu; Çin imparatoru Wu-di Hunlara karşı saldırı siyasetine geçti.",
+      "sonuc": "Ordos Çin'in eline geçti; Çin burada Şuo-fang ve Wu-yüan eyaletlerini kurup surları yeniden yaptı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre Çin, MÖ 133'te Hun hükümdarını Ma-yi kenti yakınında pusuya düşürmek istedi: Hunlarla gizli ticaret yapan Nie Yi adlı biri kenti teslim edecekmiş gibi davrandı, vadilere üç yüz binden fazla asker gizlendi. Yüz bin atlıyla gelen hükümdar otlaklarda çobansız sürüleri görünce şüphelendi, bir esirden planı öğrenip geri çekildi. Bu olaydan sonra iki devlet arasında uzun savaşlar başladı.", "kaynaklar": ["shiji"] },
+          { "grup": "makale", "metin": "Kalkır'a göre Wu-di 54 yıllık saltanatında Hunlara 43 kez saldırdı; saldırılar MÖ 133-119 arasında yoğunlaştı. Ordos verimli otlakları ve Çin başkenti Ch'ang-an'a yakınlığı yüzünden iki taraf için de çok değerliydi. MÖ 127'de Hunlar Liao ırmağının batısına saldırıp valiyi öldürünce Çin ordusu harekete geçti.", "kaynaklar": ["kalkir-2021|s. 1487, 1490-1491"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Kalkır'a göre Wei Ch'ing (Wei Qing) Yen-men'den çıkıp dolambaçlı bir yoldan Hunları kuşattı ve Ordos'taki Lou-fan ve Pai-yang beylerini bozguna uğrattı.", "kaynaklar": ["kalkir-2021|s. 1491"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Han Shu'ya göre Çin, Sarı Irmak'ın güneyindeki Ordos bölgesini Hunlardan aldı ve orada Şuo-fang kalesini kurdu.", "kaynaklar": ["hanshu-94"] },
+          { "grup": "makale", "metin": "Kalkır'a göre Çin bölgede Şuo-fang ve Wu-yüan eyaletlerini kurdu ve eski surları yeniden yaptı.", "kaynaklar": ["kalkir-2021|s. 1491"] }
+        ]}
+      ]
+    },
+    {
+      "id": "sagbey124",
+      "ad": "Sağ Bilge Bey'e gece baskını",
+      "yil": -124,
+      "yilYazi": "MÖ 124",
+      "konum": [106.8, 41.6],
+      "konumKesin": false,
+      "konumNotu": "Kaynağa göre baskın Çin sınırından 600-700 li (300-350 km kadar) içeride yapıldı; işaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Asya Hunları (Sağ Bilge Bey)", "devlet": "asyahun" },
+        { "ad": "Han Çini (Wei Ch'ing)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Ordos'u alan Çin, saldırı siyasetini sürdürerek Hunların sağ kanadının ordugâhını hedef aldı.",
+      "sonuc": "Sağ Bilge Bey kaçtı; birçok Hun beyi, insan ve hayvan ele geçirildi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "makale", "metin": "Kalkır'a göre Wu-di, Hunlara karşı barış siyasetini bırakıp savaşa geçen ve o zamana kadar Hunlarla savaşmayı göze alan tek Çin imparatoruydu; saldırılar MÖ 133-119 arasında yoğunlaştı.", "kaynaklar": ["kalkir-2021|s. 1487, 1490-1491"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Kalkır'a göre Wei Ch'ing sınırdan 600-700 li ilerledi ve gece Sağ Bilge Bey'in ordugâhını kuşattı. Bey kaçmayı başardı, ama ordugâhtaki beyler, insanlar ve sürüler Çinlilerin eline geçti.", "kaynaklar": ["kalkir-2021|s. 1492-1493"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre bu yıllarda Hunlara sığınan Çinli komutan Chao Hsin, hükümdara çölün daha kuzeyine çekilmesini, Çin ordularını uzaklara çekip yorduktan sonra vurmasını ve sınıra yaklaşmamasını öğütledi.", "kaynaklar": ["shiji"] }
+        ]}
+      ]
+    },
+    {
+      "id": "hohsi121",
+      "ad": "Ho-hsi (Kansu koridoru) savaşları",
+      "yil": -121,
+      "yilYazi": "MÖ 121",
+      "konum": [101.5, 38.6],
+      "konumKesin": false,
+      "konumNotu": "Huo K'ü-ping'in aştığı Yen-chih dağı ve Sarı Irmak'ın batısındaki Kansu koridoru.",
+      "taraflar": [
+        { "ad": "Asya Hunları (Hun-ye ve Hsiu-t'u beyleri)", "devlet": "asyahun" },
+        { "ad": "Han Çini (Huo K'ü-ping)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Çin, Hunları batıdaki müttefiklerinden ayırmak ve Batı Bölgeleri'ne giden yolu açmak istiyordu.",
+      "sonuc": "Hun-ye beyi halkıyla Çin'e teslim oldu; Çin koridorda dört kent kurdu ve Batı Bölgeleri'ne giden yol açıldı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'nin batı ülkeleri bölümüne göre Çin elçisi Cang-çien, Hunların arasında on yıldan fazla alıkonulduktan sonra döndüğünde batıdaki halklarla ittifak kurulmasını önerdi; Wusunları kazanmanın 'Hunların sağ kolunu kesmek' olacağını söyledi.", "kaynaklar": ["shiji-123"] },
+          { "grup": "makale", "metin": "Kalkır'a göre Çin, Ho-hsi koridorunda Hunların Ch'iang'larla bağlantısını kesmek istiyordu; Cang-çien'in raporuyla da yabancı malların nereden geldiğini öğrenmişti. Bakır ve Badakoğlu'na göre Cang-çien'in raporu Çin'in batıya giden yolları tanımasını sağladı.", "kaynaklar": ["kalkir-2021|s. 1490, 1492-1493", "bakir-2019|s. 126-127, 131"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Kalkır'a göre Wei Ch'ing'in yeğeni Huo K'ü-ping (Huo Qubing) MÖ 121'de Lung-hsi'den çıktı, Yen-chih dağını aşıp Hunları yendi; aynı yazki ikinci seferinde beş Hun beyini esir aldı. Bu yenilgiler yüzünden hükümdar İ-chih-hsie'nin cezalandırmasından korkan Hun-ye ve Hsiu-t'u beyleri halklarıyla Çin'e teslim olmaya karar verdi; son anda vazgeçen Hsiu-t'u'yu Hun-ye öldürdü.", "kaynaklar": ["kalkir-2021|s. 1492-1493"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "makale", "metin": "Kalkır'a göre teslim olanlar Çin'in beş kuzey eyaletine yerleştirildi. Çin koridorda Chiu-ch'üan, Chang-yeh, Wu-wei ve Tun-huang kentlerini kurdu ve Batı Bölgeleri'ne giden yol açıldı. Hsiu-t'u beyinin veliahdı Chin Mi-ti on dört yaşında Çin askerlerine teslim olmuş, önce atlara bakmakla görevlendirilmiş, sonra imparatorun güvenini kazanmıştı.", "kaynaklar": ["kalkir-2021|s. 1489, 1492-1493"] }
+        ]}
+      ]
+    },
+    {
+      "id": "mobei119",
+      "ad": "Gobi'nin kuzeyindeki büyük savaş",
+      "yil": -119,
+      "yilYazi": "MÖ 119",
+      "konum": [106.5, 45.8],
+      "konumKesin": false,
+      "konumNotu": "Kaynaklar savaşın Gobi çölünün kuzeyinde yapıldığını söyler; işaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Asya Hunları (İ-chih-hsie)", "devlet": "asyahun" },
+        { "ad": "Han Çini (Wei Ch'ing, Huo K'ü-ping)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Hunlar Chao Hsin'in öğüdüyle çölün kuzeyine çekilmişti; Wu-di onları orada vurmak için en büyük seferini düzenledi.",
+      "sonuc": "Hunlar ağır kayıp verip kuzeybatıya çekildi ve Wuhuanlar üzerindeki güçlerini yitirdi; Huo K'ü-ping'in ölümünden sonra uzun süre büyük sefer yapılmadı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Shiji'ye göre Hunlara sığınan Çinli komutan Chao Hsin, hükümdara çölün kuzeyine çekilmesini ve Çin ordularını uzaklara çekip yorduktan sonra vurmasını öğütlemişti. Hunlar Çin askerlerinin çölü aşamayacağını düşünüyordu; Çin ise savaşı çölün öbür yakasına taşımaya karar verdi.", "kaynaklar": ["shiji"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Kalkır'a göre MÖ 119 baharında Wei Ch'ing ve Li Kuang Ting-hsiang'dan, Huo K'ü-ping Tai'den kuzeye yürüdü. Çin ordusunun büyüklüğünü gören hükümdar kuzeybatıya çekildi; Huo K'ü-ping sol kanattaki beylere saldırdı. Çöldeki kum fırtınası askerlerin birbirini göremeyeceği kadar şiddetliydi. Yolunu kaybettiği için suçlanacağını anlayan Li Kuang canına kıydı.", "kaynaklar": ["kalkir-2021|s. 1493"] },
+          { "grup": "ana", "metin": "Shiji'ye göre savaş sırasında akşama doğru büyük bir rüzgâr çıktı ve Çin ordusu iki kanattan dolaşarak Hun hükümdarını kuşattı; hükümdar birkaç yüz seçkin atlıyla çemberi yarıp kuzeybatıya kaçtı.", "kaynaklar": ["shiji"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "makale", "metin": "Kalkır bu savaşı Hun-Çin savaşlarının en büyüğü ve en kanlısı sayar. Hunlar ağır kayıp verdi ve Wuhuanlar üzerindeki güçlerini yitirdi; ardından yeniden akrabalık yoluyla barış istediler. Çin'in tâbiyet şartı koyan elçisi Jen Ch'ang alıkonuldu. Huo K'ü-ping'in hastalanıp ölmesiyle Wu-di yeni bir seferden vazgeçti.", "kaynaklar": ["kalkir-2021|s. 1493"] },
+          { "grup": "ana", "metin": "Shiji'ye göre Çin elçisi Kuo Chi hükümdara, savaşamıyorsa güneye dönüp Çin'e bağlanmasını söyledi. Hükümdar elçiyi kendisine getiren görevliyi hemen öldürttü, Kuo Chi'yi ise geri göndermeyip Kuzey Denizi kıyısına sürdü.", "kaynaklar": ["shiji"] }
+        ]}
+      ]
+    },
+    {
+      "id": "cici36",
+      "ad": "Çi-çi'nin son savaşı",
+      "yil": -36,
+      "yilYazi": "MÖ 36",
+      "konum": [71.4, 42.9],
+      "konumKesin": false,
+      "konumNotu": "Çi-çi'nin K'ang-chü ülkesinde, Talas ırmağı çevresinde kurduğu kale; tam yeri bilinmez.",
+      "taraflar": [
+        { "ad": "Batı Hunları (Çi-çi)", "devlet": "asyahun" },
+        { "ad": "Han Çini (Kan Yen-shou, Ch'en T'ang)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Hunlar Çin'e bağlanma meselesinde ikiye bölündü; Çin'e boyun eğmeyi reddeden Çi-çi batıya çekilip ayrı bir devlet kurdu.",
+      "sonuc": "Çi-çi savaşırken öldü; Batı Hun Devleti sona erdi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Han Shu'ya göre Çin'e bağlanma tartışmasında karşı çıkanlar, Hun töresinin gücü üstün tuttuğunu, başkasına hizmet etmeyi aşağılık saydığını ve savaşta ölmenin yiğitlik olduğunu söyledi. Sol İ-chih-tzu ise Çin'e hizmet etmenin hayatta kalmak, etmemenin yok olmak demek olduğunu savundu. Ho-han-yeh onun görüşüne uydu, güneyde sınıra yaklaştı ve oğlunu Çin sarayına gönderdi.", "kaynaklar": ["hanshu-94b"] },
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre bağımsızlıktan yana olanların görüşü Çin yıllıklarına şöyle geçmiştir: Devlet at sırtında savaşılarak kurulmuştu; Çin'e bağlanmak ölmüş atalara hakaret olur, Hunları komşuları arasında gülünç duruma düşürürdü. Ölseler bile kahramanlıklarının şöhreti kalacak, torunları devletin hâkimi olacaktı.", "kaynaklar": ["kemaloglu-2023|s. 41"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Han Shu'ya göre Çi-çi önce Ho-han-yeh'i yenip hükümdar ordugâhına yerleşti; ardından Wu-chieh'leri bağladı, batıda Chien-k'unları (Kırgızlar) yendi, kuzeyde Ting-lingleri kendine bağladı ve Wusunları defalarca yendi. Sonra daha batıya, K'ang-chü ülkesine gitti. Çin'in Batı Bölgeleri koruyucusu Kan Yen-shou ile yardımcısı Ch'en T'ang K'ang-chü'ye girip Çi-çi'nin üzerine yürüdü.", "kaynaklar": ["hanshu-94b"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Han Shu'ya göre Çi-çi bu saldırıda öldürüldü. Çin'e bağlanan Ho-han-yeh'e daha sonra imparator Yüan sarayındaki kadınlardan Wang Chao-chün'ü eş olarak verdi.", "kaynaklar": ["hanshu-94b"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Çi-çi MÖ 36'da üzerine gönderilen Çin ordusuna direnirken öldü; Hun Devleti MS 48'de bir kez daha kuzey ve güney olarak bölündü.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "alanlar",
+      "ad": "Hunların Alanları yenmesi",
+      "yil": 370,
+      "yilYazi": "370 dolayları",
+      "konum": [43.5, 46.5],
+      "konumKesin": false,
+      "konumNotu": "Ammianus'a göre bu Alanlar Don (Tanais) çevresinde yaşıyordu; işaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (Balamir)", "devlet": "avrupahun" },
+        { "ad": "Alanlar" }
+      ],
+      "kazanan": 0,
+      "sebep": "İtil'i geçerek batıya ilerleyen Hunların önündeki ilk güçlü halk Don çevresindeki Alanlardı.",
+      "sonuc": "Alanların birçoğu öldürüldü ya da yağmalandı; kalanlar antlaşmayla Hunlara katıldı ve birlikte Gotların üzerine yürüdüler.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus, Hunların komşu halkları yağmalayarak ve öldürerek Alanların yurduna kadar geldiğini yazar. Ona göre Alanlar da Hunlar gibi göçebeydi: Üstü örtülü arabalarda yaşar, at yetiştirir, savaşı ve tehlikeyi severlerdi.", "kaynaklar": ["ammianus|XXXI.2"] },
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Balamir önderliğindeki Hunların 370'te İtil'i geçtiğini ve önce Kuban ile Terek arasında yaşayan Alanlara yöneldiğini anlatır.", "kaynaklar": ["kemaloglu-2023b|s. 83-84"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus'a göre Hunlar, Got ülkesine komşu olan ve Tanaitler (Don Alanları) diye anılan Alanların topraklarını çiğneyip birçoğunu öldürdü ve yağmaladı.", "kaynaklar": ["ammianus|XXXI.3"] },
+          { "grup": "makale", "metin": "Hacıfazlıoğlu'na göre at üstünde öne ve arkaya ok atabilen Hunlar karşısında, iyi süvari olan ama at üstünde ok atamayan Alanlar yenildi.", "kaynaklar": ["kemaloglu-2023b|s. 83-84"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus'a göre Hunlar hayatta kalan Alanları bir ittifak antlaşmasıyla kendilerine bağladı ve onlarla birlikte, daha da cesaretlenerek, Ostrogot kralı Ermanarik'in geniş ve zengin topraklarına ani bir akın yaptı.", "kaynaklar": ["ammianus|XXXI.3"] }
+        ]}
+      ]
+    },
+    {
+      "id": "ostrogot",
+      "ad": "Ostrogot (Doğu Got) krallığının yıkılışı",
+      "yil": 375,
+      "yilYazi": "374-375",
+      "konum": [33.5, 47.5],
+      "konumKesin": false,
+      "konumNotu": "Ostrogot krallığı Karadeniz'in kuzeyindeydi; işaret bugünkü Ukrayna bozkırındadır.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları ve Alanlar", "devlet": "avrupahun" },
+        { "ad": "Ostrogotlar (Ermanarik, Withimir)" }
+      ],
+      "kazanan": 0,
+      "sebep": "Alanları yanlarına alan Hunlar, Karadeniz'in kuzeyindeki zengin Ostrogot krallığına yöneldi.",
+      "sonuc": "Ermanarik canına kıydı, yerine geçen Withimir savaşta öldü; Ostrogotlar Hunlara bağlandı ve Kavimler Göçü başladı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus, Ermanarik'in ülkesini geniş ve zengin, kendisini de komşularının korktuğu savaşçı bir kral olarak anlatır.", "kaynaklar": ["ammianus|XXXI.3"] },
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Ermanarik'in krallığının 17 kavmi kendine bağlamış güçlü bir devlet olduğunu yazar.", "kaynaklar": ["kemaloglu-2023b|s. 83-84"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus'a göre bu ani saldırıya şaşıran Ermanarik uzun süre direndi; ama yaklaşan tehlikenin dehşeti dilden dile büyüyünce canına kıydı. Yerine kral olan Withimir, parayla yanına aldığı başka Hun gruplarına güvenerek bir süre Alanlara karşı koydu; birçok yenilgiden sonra savaşta öldü.", "kaynaklar": ["ammianus|XXXI.3"] },
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Hunların önce Gotlar arasında ikilik çıkardığını, sonra devleti diriltmeye çalışan Withimir'i 375'te savaşta öldürüp yerine kendilerine bağlı Hunimund'u kral yaptığını anlatır.", "kaynaklar": ["kemaloglu-2023b|s. 83-84"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus'a göre Withimir'in küçük oğlu Viderik adına yönetimi üstlenen komutanlar Alatheus ve Saphrax direnmekten umudu kesip halkıyla birlikte Dinyester ırmağına kadar çekildi.", "kaynaklar": ["ammianus|XXXI.3"] },
+          { "grup": "makale", "metin": "Çoban'a göre Hunlar Ostrogotları hâkimiyet altına aldıktan sonra kısa zamanda Tuna ile Tisa ırmakları arasındaki sahaya yerleşti.", "kaynaklar": ["coban-2019"] }
+        ]}
+      ]
+    },
+    {
+      "id": "dinyester376",
+      "ad": "Dinyester baskını (Vizigotlara karşı)",
+      "yil": 376,
+      "yilYazi": "376",
+      "konum": [29.2, 47.6],
+      "konumKesin": false,
+      "konumNotu": "Ammianus'a göre Vizigot (Tervingi) ordugâhı Dinyester (Danastius) kıyısındaydı; baskının tam yeri bilinmez.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları", "devlet": "avrupahun" },
+        { "ad": "Vizigotlar (Athanarik)" }
+      ],
+      "kazanan": 0,
+      "sebep": "Ostrogotların çöküşünü duyan Vizigot önderi Athanarik, Dinyester kıyısında ordugâh kurup Hunları beklemeye başladı.",
+      "sonuc": "Athanarik dağlara kaçtı; Vizigotların büyük kısmı ondan ayrılıp Tuna'ya yığıldı ve Roma'ya sığınma istedi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus'a göre Ostrogotların başına gelenleri öğrenen Vizigot (Tervingi) önderi Athanarik, kendisine de saldırılırsa bütün gücüyle karşı koymaya hazırlandı. Dinyester kıyısında, Ostrogot kamplarından uzakça bir yere ordugâh kurdu ve Hunların gelişini gözetlemek için yirmi mil ileriye soylulardan oluşan bir öncü birlik gönderdi.", "kaynaklar": ["ammianus|XXXI.3"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus'a göre Hunlar, gördükleri öncü birliğin arkasında daha büyük bir ordu olduğunu sezdi ve onlara dokunmadı. Ay ışığında ırmağı bir sığlıktan geçtiler; haber yetişip düşman kaçmasın diye hızla doğrudan Athanarik'in üzerine yürüdüler. İlk saldırıyla sarsılan Athanarik, birkaç adamını kaybederek sarp dağlara sığındı.", "kaynaklar": ["ammianus|XXXI.3"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Ammianus'a göre Athanarik, Gerasus (Prut) ırmağından Tuna'ya kadar yüksek bir sur çektirerek kendini korumaya çalıştı. Ama Vizigotların büyük kısmı ondan ayrıldı; Hunların önünden kaçan Vizigotlar 376'da Tuna'ya yığılıp Roma'dan sığınma istedi ve iki yıl sonra Edirne yakınında Roma ordusunu yendiler.", "kaynaklar": ["ammianus|XXXI.3", "ammianus"] },
+          { "grup": "makale", "metin": "Hacıfazlıoğlu'na göre Vizigotlar Hunların hızlı süvari taktiği karşısında çöktü; büyük kısmı güneye kaçarak 376'da Tuna'yı geçti, bir kısmı Karpatları aşıp Macar ovasına çekildi.", "kaynaklar": ["kemaloglu-2023b|s. 84"] }
+        ]}
+      ]
+    },
+    {
+      "id": "anadolu395",
+      "ad": "Basık ve Kursık'ın Anadolu akını",
+      "yil": 395,
+      "yilYazi": "395",
+      "konum": [40.5, 39.5],
+      "konumKesin": false,
+      "konumNotu": "Akın Kafkasya üzerinden Anadolu ve Suriye'ye uzandı; işaret Doğu Anadolu'dadır.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (Basık ve Kursık)", "devlet": "avrupahun" },
+        { "ad": "Doğu Roma'nın doğu eyaletleri" }
+      ],
+      "kazanan": null,
+      "sebep": "I. Theodosius'un öldüğü ve Roma'nın ikiye bölündüğü 395'te Hunlar iki cepheden birden harekete geçti.",
+      "sonuc": "Hunlar Anadolu ve Suriye'ye kadar akın etti; bu akınlar Sasanileri de korkuttu.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Roma İmparatoru I. Theodosius'un öldüğü 395'te Hunların iki cepheden birden harekete geçtiğini yazar.", "kaynaklar": ["kemaloglu-2023b|s. 84"] },
+          { "grup": "uluslararasi", "metin": "Theodosius'un ölümüyle Roma İmparatorluğu oğulları Arcadius ve Honorius arasında Doğu ve Batı olarak ikiye ayrıldı.", "kaynaklar": ["britannica-theodosius"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Hacıfazlıoğlu'na göre Hunların bir kolu Balkanlardan Trakya'ya yürüdü. Don yöresindeki doğu kanadı ise Basık ve Kursık adlı komutanların önderliğinde Kafkasya'yı aşıp Anadolu'ya akın etti.", "kaynaklar": ["kemaloglu-2023b|s. 84"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "makale", "metin": "Kemaloğlu'nun Hacıfazlıoğlu'ndan aktardığına göre Basık ve Kursık komutasındaki Hunlar Kafkaslar üzerinden Anadolu ve Suriye'ye kadar indi; bu akınlar Sasanileri de korkuttu.", "kaynaklar": ["kemaloglu-2023b", "kemaloglu-2023b|s. 84"] }
+        ]}
+      ]
+    },
+    {
+      "id": "gainas",
+      "ad": "Uldız'ın Gainas'ı yenmesi",
+      "yil": 400,
+      "yilYazi": "400",
+      "konum": [27.5, 44.2],
+      "konumKesin": false,
+      "konumNotu": "Kaynakta yer verilmez; işaret yaklaşık olarak aşağı Tuna'dadır.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (Uldız)", "devlet": "avrupahun" },
+        { "ad": "Got komutanı Gainas" }
+      ],
+      "kazanan": 0,
+      "sebep": "Got komutanı Gainas Doğu Roma'ya isyan etmişti; Uldız, Roma ile ilişkileri kendi çıkarına göre yürütüyordu.",
+      "sonuc": "Gainas öldürüldü; başı Konstantinopolis'e gönderildi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Roma kaynaklarında adı geçen ilk Hun önderi Uldız'ın (Uldin) Balamir'in oğlu ya da torunu olduğunu ve Hunların batı kanadından sorumlu olarak Roma ile ilişkileri yürüttüğünü yazar. 400'de Got kökenli komutan Gainas Doğu Roma'ya isyan etmişti.", "kaynaklar": ["kemaloglu-2023b", "kemaloglu-2023b|s. 84-86"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Uldız, Gainas'ı yenip öldürdü ve başını Konstantinopolis'e gönderdi.", "kaynaklar": ["kemaloglu-2023b"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Uldız birkaç yıl sonra, 406'da, İtalya'yı yağmalayan Radagais'in ordusunun yok edilmesinde Batı Roma'ya da yardım etti.", "kaynaklar": ["kemaloglu-2023b"] }
+        ]}
+      ]
+    },
+    {
+      "id": "castramartis",
+      "ad": "Castra Martis'in alınması",
+      "yil": 409,
+      "yilYazi": "409",
+      "konum": [22.65, 43.85],
+      "konumKesin": false,
+      "konumNotu": "Moesia'daki Castra Martis kalesi (bugünkü Kula, Bulgaristan dolayları).",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (Uldız)", "devlet": "avrupahun" },
+        { "ad": "Doğu Roma" }
+      ],
+      "kazanan": 0,
+      "sebep": "Uldız'ın siyaseti Doğu Roma'yı sürekli baskı altında tutmak, Batı Roma ile iyi geçinmekti.",
+      "sonuc": "Kale alındı, Hunlar Trakya'ya ilerledi; Heather'a göre Konstantinopolis'in büyük kara surları bu tehdit karşısında yapıldı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Uldız'ın koyduğu dış politika ilkesinin Attila döneminde de sürdüğünü yazar: Doğu Roma sürekli baskı altında tutulacak, Batı Roma ile iyi ilişkiler korunacaktı.", "kaynaklar": ["kemaloglu-2023b|s. 84-86"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Hacıfazlıoğlu'na göre Uldız 404-405'te ve özellikle 409'da Tuna'yı geçti, Moesia'daki Castra Martis kalesini aldı ve Trakya'ya ilerledi. Rivayete göre barış teklifiyle gelen Roma elçilerine doğan güneşi gösterip, güneşin doğduğu yerden battığı yere kadar her yeri alabileceğini söyledi.", "kaynaklar": ["kemaloglu-2023b|s. 84-86", "kemaloglu-2023b"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre eserde Peter Heather'ın, Konstantinopolis surlarının Hun saldırıları karşısında 410 dolaylarında yapıldığı görüşü de aktarılır.", "kaynaklar": ["kemaloglu-2023b|s. 84-86"] }
+        ]}
+      ]
+    },
+    {
+      "id": "balkan441",
+      "ad": "Birinci Balkan seferi",
+      "yil": 441,
+      "yilYazi": "441-442",
+      "konum": [21.9, 43.32],
+      "konumKesin": true,
+      "konumNotu": "İşaret seferde alınan Naissus'tadır (Niş); Sirmium, Margus ve Singidunum (Belgrad) da alındı.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (Attila ve Bleda)", "devlet": "avrupahun" },
+        { "ad": "Doğu Roma" }
+      ],
+      "kazanan": 0,
+      "sebep": "Vandal kralı Geiserik, Akdeniz'de kendisini engelleyen Bizans'a karşı Attila'dan yardım istedi.",
+      "sonuc": "Tuna boyundaki birçok güçlü kent alındı; sefer Anatolius Barışı ile bitti.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Margus Antlaşması'yla Doğu Roma, Hun ülkesinden kaçanları geri verecek, Hunların savaştığı halklarla ittifak yapmayacak, Hun tüccarlarına eşit ticaret hakkı tanıyacak ve yıllık vergiyi iki katına çıkaracaktı. Hacıfazlıoğlu'na göre Akdeniz'deki hareketini Bizans'ın engellediği Vandal kralı Geiserik de Attila'dan yardım istedi.", "kaynaklar": ["kemaloglu-2023b|s. 88", "kemaloglu-2023b|s. 88-89"] },
+          { "grup": "makale", "metin": "Dıngıl Ilgın'a göre Margus Antlaşması'yla Doğu Roma'nın yıllık ödemesi 700 libre altına çıkmıştı.", "kaynaklar": ["dingil-2022"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Hacıfazlıoğlu'na göre Attila seferi Margus'u alarak başlattı; Belgrad ve Niş üzerinden Trakya'ya yöneldi. Dıngıl Ilgın'a göre Sirmium gibi iyi tahkim edilmiş birçok kent de alındı.", "kaynaklar": ["kemaloglu-2023b|s. 88-89", "dingil-2022"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "makale", "metin": "Hacıfazlıoğlu'na göre Attila, Batı Roma'nın araya girmesiyle seferi durdurdu; Roma ordularının başkomutanı Aetius, Doğu Roma'nın antlaşmaya uyacağına güvence olarak kendi oğlunu Hun sarayına rehin gönderdi. Dıngıl Ilgın'a göre sefer Anatolius Barışı ile sona erdi.", "kaynaklar": ["kemaloglu-2023b|s. 88-89", "dingil-2022"] }
+        ]}
+      ]
+    },
+    {
+      "id": "balkan447",
+      "ad": "İkinci Balkan seferi",
+      "yil": 447,
+      "yilYazi": "447",
+      "konum": [27.36, 41.4],
+      "konumKesin": true,
+      "konumNotu": "İşaret Hunların ulaştığı Arcadiopolis'tedir (Lüleburgaz).",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (Attila)", "devlet": "avrupahun" },
+        { "ad": "Doğu Roma" }
+      ],
+      "kazanan": 0,
+      "sebep": "Bleda'nın ölümüyle tek başına hükümdar olan Attila, Doğu Roma üzerindeki baskıyı artırdı.",
+      "sonuc": "Hunlar Arcadiopolis'e kadar geldi; Doğu Roma ağır vergiyi kabul etti (İkinci Anatolius Barışı).",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "makale", "metin": "Yurdakul'a göre Attila 444-445'te, kardeşi Bleda'nın ölümünden sonra tek başına hükümdar oldu ve Doğu Roma'ya karşı ikinci büyük seferi düzenledi.", "kaynaklar": ["yurdakul-2023"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Yurdakul'a göre 447'deki seferde Hunlar Balkanları geçip Arcadiopolis'e (Lüleburgaz) kadar geldi.", "kaynaklar": ["yurdakul-2023"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "makale", "metin": "Yurdakul'a göre vergiyi ödeyebilmek için Konstantinopolisli zenginler eşlerinin mücevherlerini satmak zorunda kaldı. İkinci Anatolius Barışı'nın yılı kesin değildir; Yurdakul 448 ya da 449'u muhtemel görür. Türel'in anlattığına göre bu barıştan sonra Priskos'un da bulunduğu Doğu Roma elçiliği Attila'nın sarayına gitti.", "kaynaklar": ["yurdakul-2023", "turel-2015|s. 337"] }
+        ]}
+      ]
+    },
+    {
+      "id": "katalaun",
+      "ad": "Katalaun Ovası Savaşı",
+      "yil": 451,
+      "yilYazi": "20 Haziran 451",
+      "konum": [4.37, 48.95],
+      "konumKesin": false,
+      "konumNotu": "Jordanes'e göre Mauriacum da denen Katalaun ovası; bugünkü Châlons-en-Champagne ile Troyes arasında aranır, tam yeri tartışmalıdır.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları ve müttefikleri (Attila)", "devlet": "avrupahun" },
+        { "ad": "Batı Roma (Aetius) ve Vizigotlar (Theodorik)" }
+      ],
+      "kazanan": null,
+      "sebep": "Honoria meselesi, Doğu Roma'nın vergiyi kesmesi ve Vandal kralının kışkırtmasıyla Attila batıya, Galya'ya yöneldi.",
+      "sonuc": "Kazananı tartışmalıdır; Vizigot kralı Theodorik öldü, Attila geri çekildi ama ertesi yıl İtalya'ya sefer yapabildi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "makale", "metin": "Yurdakul'a göre 450'de Doğu Roma'da tahta çıkan Marcianus vergiyi ödemeyi reddetti; ona atfedilen söze göre Attila'ya verecek altını yok, demiri vardı. Batı Roma imparatoru III. Valentinianus'un kız kardeşi Honoria, istemediği bir evliliğe zorlanınca Attila'ya yüzüğünü göndererek yardım istedi. Çoban'a göre Attila bunu evlenme teklifi sayıp Honoria'yı ve çeyiz olarak Batı Roma topraklarının yarısını istedi; Valentinianus reddetti.", "kaynaklar": ["yurdakul-2023", "coban-2019|s. 61-63"] },
+          { "grup": "ana", "metin": "Jordanes'e göre Vandal kralı Geiserik de Attila'yı bol hediyelerle Vizigotlara karşı savaşa kışkırttı: Oğlu Hunerik, Vizigot kralı Theodorik'in kızını burnunu ve kulaklarını kestirerek babasına geri göndermişti ve Geiserik Theodorik'in intikamından korkuyordu. Attila, Romalılarla Gotların arasını açmak için hem İmparator Valentinianus'a hem Theodorik'e ayrı ayrı mektuplar yolladı; ama iki taraf ona karşı birleşti.", "kaynaklar": ["jordanes|Getica XXXVI"] },
+          { "grup": "makale", "metin": "Çoban'a göre Attila bu evlilikle Roma imparatorlarıyla eşit sayılmayı ve Avrupa'da iki Roma'nın yanında üçüncü büyük güç olmayı amaçlıyordu.", "kaynaklar": ["coban-2019|s. 61-63"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "makale", "metin": "Yurdakul ve Dıngıl Ilgın'a göre Attila 451 baharında Galya'ya girdi, 7 Nisan'da Metz'i aldı ve Orléans'a kadar ilerledi; Aetius ile Theodorik'in ordusu yetişince geri çekildi. Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Attila'nın orduyu Asya Hunlarında olduğu gibi sağ ve sol kol olarak düzenlediğini yazar.", "kaynaklar": ["yurdakul-2023", "dingil-2022", "kemaloglu-2023b|s. 89"] },
+          { "grup": "ana", "metin": "Jordanes'e göre Orléans'taki Alan kralı Sangiban kenti Attila'ya teslim etmeye söz vermişti; Aetius ile Theodorik kentin çevresine toprak tabyalar kazdırıp Sangiban'ı güvenilir birliklerin ortasına yerleştirdi. Bundan sarsılan Attila falcılara danıştı; falcılar Hunların yenileceğini, ama düşman komutanlarından birinin öleceğini söyledi. Attila, işler kötü giderse karanlıktan yararlanmak için savaşı günün dokuzuncu saatinde başlattı. Büyük savaştan önceki gece Gepidlerle Franklar karşılaşmış, 15.000 kişi ölmüştü.", "kaynaklar": ["jordanes|Getica XXXVII", "jordanes|Getica XLI"] },
+          { "grup": "ana", "metin": "Jordanes'e göre ovada bir sırt vardı ve iki ordu da onu ele geçirmeye çalıştı. Attila ve seçkin askerleri ortada, Ostrogot ve Gepid kralları kanatlardaydı; karşı tarafta Vizigotlar sağda, Romalılar solda, Alanlar ortadaydı. Sırtı Theodorik'in oğlu Thorismund ile Aetius önce tuttu. Çarpışma sırasında Theodorik atından düşüp kendi askerlerinin ayakları altında kaldı (başka bir rivayete göre Ostrogot Andag'ın mızrağıyla öldü). Vizigotların saldırısıyla Attila çekildi ve arabalarla çevrili ordugâhına kapandı; teslim olmaktansa kendini yakmak için eğerlerden bir odun yığını hazırlattığı anlatılır.", "kaynaklar": ["jordanes|Getica XXXVIII", "jordanes|Getica XL"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jordanes'e göre Aetius, Hunlar tamamen yok edilirse Roma'nın Gotlar karşısında yalnız kalacağından korktu ve Thorismund'a, kardeşleri tahtı ele geçirmeden ülkesine dönmesini öğütledi. Vizigotlar çekilince Attila önce bunu bir tuzak sandı, uzun bir sessizlikten sonra ordusunu toplayıp döndü. Jordanes iki tarafın kaybını 165.000 olarak verir.", "kaynaklar": ["jordanes|Getica XLI"] },
+          { "grup": "makale", "metin": "Savaşı kimin kazandığı tartışmalıdır. Jordanes ve Prosper savaşı Roma-Vizigot zaferi olarak anlatır. Yurdakul'un aktardığına göre N. Fields kazananın belli olmadığını düşünür, T. Kaçar ise savaşın tek kaybedeninin Attila olmadığını belirtir; Yurdakul bu görüşü daha makul bulur ve Attila'nın ertesi yıl İtalya'ya sefer yapabilmesini gücünü koruduğunun kanıtı sayar. Kaynaklardaki 500.000 kişilik Hun ordusu rakamı da çok abartılıdır; S. Macdowall 20.000-40.000, H. Kennedy 30.000 kadar bir sayı tahmin eder.", "kaynaklar": ["yurdakul-2023"] }
+        ]}
+      ]
+    },
+    {
+      "id": "aquileia",
+      "ad": "İtalya seferi ve Aquileia'nın alınması",
+      "yil": 452,
+      "yilYazi": "452",
+      "konum": [13.37, 45.77],
+      "konumKesin": true,
+      "konumNotu": "Aquileia (Kuzeydoğu İtalya, Adriyatik kıyısı).",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (Attila)", "devlet": "avrupahun" },
+        { "ad": "Batı Roma" }
+      ],
+      "kazanan": 0,
+      "sebep": "Vizigotların Galya'dan çekilmesiyle düşmanları bölünmüştü; Attila Honoria isteğinde ısrar ediyordu.",
+      "sonuc": "Aquileia, Milano ve Pavia alındı; Papa I. Leo'nun heyetiyle görüşülünce Hunlar İtalya'dan çekildi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jordanes'e göre Attila, Vizigotların Katalaun'dan sonra ülkelerine dönmesini, uzun zamandır beklediği gibi düşmanlarının bölünmesi olarak gördü ve güvenle Romalıların üzerine yürüdü.", "kaynaklar": ["jordanes|Getica XLII"] },
+          { "grup": "makale", "metin": "Çoban'a göre Attila 451'deki batı seferine çıkarken Honoria'nın yüzüğünü kanıt gösterip 'nişanlısının' teslimini yeniden istemişti; Batı Roma bunu kabul etmedi.", "kaynaklar": ["coban-2019|s. 61-63"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jordanes'e göre Venetia'nın merkezi Aquileia uzun ve şiddetli bir kuşatmaya direndi; Hun ordusu bıkıp çekilmek istedi. Surların çevresinde dolaşan Attila, leyleklerin yavrularını kentten dışarı taşıdığını gördü ve askerlerine kuşların kentin düşeceğini sezdiğini söyledi. Koçbaşları ve kuşatma makineleriyle yeniden saldıran Hunlar kenti aldı. Ardından Venetia'nın öteki kentlerini, Liguria'nın merkezi Mediolanum'u (Milano) ve Ticinum'u (Pavia) ele geçirdiler.", "kaynaklar": ["jordanes|Getica XLII"] },
+          { "grup": "makale", "metin": "Yurdakul, Esmen ve Dıngıl Ilgın da Aquileia'nın uzun direnişini, leylek rivayetini ve Po ovasındaki kentlerin alınmasını anlatır.", "kaynaklar": ["yurdakul-2023", "esmen-2025", "dingil-2022"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jordanes'in Priskos'tan aktardığına göre Attila Roma'ya yürümek istiyordu, ama adamları Roma'yı yağmaladıktan kısa süre sonra ölen Vizigot kralı Alarik'i hatırlatarak onu vazgeçirmeye çalıştı. Bu sırada Papa Leo, Mincio ırmağının geçidinde Attila'yla buluştu; Attila barış sözüyle geri döndü, ama Honoria ve ona düşen pay gönderilmezse daha kötüsünü yapacağını bildirdi.", "kaynaklar": ["jordanes|Getica XLII"] },
+          { "grup": "makale", "metin": "Yurdakul'a göre çekilmeyi yalnızca Papa Leo'nun öğütlerine bağlamak yanlıştır: Hydatius, Hunların İtalya'da kıtlık ve salgından zarar gördüğünü, Doğu Roma birliklerinin de Hun topraklarına saldırdığını yazar. Yurdakul'a göre sefer ganimet ve prestij bakımından başarılı olmuştur. Esmen de barışın nasıl sağlandığını ayrıca inceler.", "kaynaklar": ["yurdakul-2023", "esmen-2025"] }
+        ]}
+      ]
+    },
+    {
+      "id": "nedao",
+      "ad": "Nedao Savaşı",
+      "yil": 454,
+      "yilYazi": "454",
+      "konum": [19.5, 46.3],
+      "konumKesin": false,
+      "konumNotu": "Jordanes'e göre Pannonya'da, Nedao adlı bir ırmağın yanında; ırmağın yeri bilinmez, işaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (İlek)", "devlet": "avrupahun" },
+        { "ad": "Tabi kavimler (Gepid kralı Ardarik önderliğinde)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Attila'nın oğulları bağlı kavimleri miras gibi aralarında paylaştırmak isteyince Gepid kralı Ardarik ayaklandı.",
+      "sonuc": "Yaklaşık 30.000 kişi öldü; Attila'nın büyük oğlu İlek savaşta düştü, kardeşleri Karadeniz kıyılarına çekildi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jordanes'e göre Attila'nın ölümünden sonra oğulları arasında taht kavgası başladı. Oğullar, bağlı kavimlerin ve krallarının bir aile mülkü gibi kurayla aralarında eşit paylaştırılmasını istiyordu. Katalaun'da Attila'nın en güvendiği krallardan biri olan Gepid kralı Ardarik, halkların en aşağı köleler gibi paylaşılmasına öfkelenip ilk ayaklanan oldu; öteki kavimler de ona katıldı.", "kaynaklar": ["jordanes|Getica L", "jordanes|Getica XXXVIII"] },
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu, Attila'dan sonra güçlü bir liderin çıkmamasını, oğulları arasındaki taht kavgalarını ve bağlı kavimlerin ayaklanmasını devletin dağılmasının sebepleri olarak gösterir.", "kaynaklar": ["kemaloglu-2023b|s. 91"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jordanes'e göre savaş Pannonya'da Nedao ırmağının yanında yapıldı ve Attila'nın bir arada tuttuğu halkları birbirine düşürdü. Jordanes savaş alanını şöyle anlatır: Gotlar mızraklarla, Gepidler kılıçla, Rugiler yaralarındaki mızrakları kırarak, Suaviler yaya, Hunlar okla, Alanlar ağır zırhlı, Heruller hafif silahlı savaşıyordu. Uzun ve çetin çarpışmalardan sonra zafer beklenmedik biçimde Gepidlerin oldu.", "kaynaklar": ["jordanes|Getica L"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jordanes'e göre Hunlar ve yanlarındaki halklardan yaklaşık 30.000 kişi öldü. Attila'nın en çok sevdiği büyük oğlu Ellak (İlek) birçok düşmanı öldürdükten sonra yiğitçe savaşarak düştü; kardeşleri Karadeniz kıyısına kaçtı. Gepidler Hunların topraklarını alıp bütün Dakya'ya hâkim oldu; öteki kavimlerin birçoğu Roma'ya elçi gönderip yurt istedi.", "kaynaklar": ["jordanes|Getica L"] },
+          { "grup": "makale", "metin": "Yurdakul'a göre tabi halklar 454'te Nedao ırmağı kıyısında Hunları yendi, İlek bu savaşta öldü ve kardeşleri daha önce Gotların yurdu olan Karadeniz kıyılarına çekildi.", "kaynaklar": ["yurdakul-2023|s. 255"] }
+        ]}
+      ]
+    },
+    {
+      "id": "dengizik",
+      "ad": "Dengizik'in Bizans'a yenilmesi",
+      "yil": 468,
+      "yilYazi": "468",
+      "konum": [26.5, 44.0],
+      "konumKesin": false,
+      "konumNotu": "Kaynakta yer verilmez; işaret aşağı Tuna'dadır.",
+      "taraflar": [
+        { "ad": "Avrupa Hunları (Dengizik)", "devlet": "avrupahun" },
+        { "ad": "Doğu Roma (Bizans)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Nedao'dan sonra dağılan Hunlardan Attila'nın oğlu Dengizik, Bizans'a karşı savaşı sürdürdü.",
+      "sonuc": "Dengizik esir düştü ve İstanbul'da idam edildi; Avrupa Hun Devleti sona erdi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jordanes'e göre Nedao'dan sonra Dengizik (Dintzic) yanında kalan az sayıdaki kavimle (Ultzinzurlar, Angiskirler, Bittugurlar, Bardorlar) Pannonya'da Bassiana kentini kuşatıp çevresini yağmaladı; Ostrogotlar onu ülkelerinden geri püskürttü.", "kaynaklar": ["jordanes|Getica LIII"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Attila'nın oğullarından İrnek Karadeniz'in kuzeyine döndü; Dengizik ise Bizans'a karşı savaşmayı sürdürdü.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Dengizik 468'de Bizans ordusuna yenilip esir düştü.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Dengizik İstanbul'a götürülerek idam edildi. Karadeniz'in kuzeyine dönen İrnek'in yanındaki Hunlar buradaki Ogurlarla karışarak Bulgarları oluşturdu.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "firuz",
+      "ad": "Firuz'un yenilgisi (hendek tuzağı)",
+      "yil": 484,
+      "yilYazi": "484",
+      "konum": [65.5, 36.9],
+      "konumKesin": false,
+      "konumNotu": "Prokopios'a göre Persler sınırdaki Gorgo kentinden sonra Eftalit ovasına girdi; savaşın tam yeri bilinmez. İşaret Eftalit topraklarında, yaklaşık bir yerdedir.",
+      "taraflar": [
+        { "ad": "Ak Hunlar (Eftalitler)", "devlet": "akhun" },
+        { "ad": "Sasaniler (Firuz)" }
+      ],
+      "kazanan": 0,
+      "sebep": "Sınır anlaşmazlığı yüzünden başlayan savaşta yenilip ant içerek kurtulan Firuz, andını bozarak yeniden sefere çıktı.",
+      "sonuc": "Firuz, otuz kadar oğlu ve ordusuyla birlikte gizli hendeğe düşüp öldü; İran iki yıl Ak Hunlara vergi ödedi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Prokopios'a göre Sasani hükümdarı Firuz, Eftalitlerle sınır meselesi yüzünden savaşa girdi; Eftalitlerin İran sınırının tam karşısındaki Gorgo kenti iki halk arasındaki sınır çekişmelerinin merkeziydi.", "kaynaklar": ["prokopios-dewing|I.3"] },
+          { "grup": "ana", "metin": "Prokopios'a göre ilk seferde Eftalitler korkup kaçıyor gibi yaparak Firuz'u dört yanı sarp dağlarla çevrili, çıkışı olmayan bir vadiye çekti ve arkasını kesti. Eftalit hükümdarı, Firuz önünde eğilir ve bir daha savaş açmayacağına ant içerse onu bırakacağını bildirdi. Firuz, din adamlarının öğüdüyle eğilmeyi doğan güneşe yönelerek yaptı ve ordusuyla döndü; ama kısa süre sonra andını bozarak intikam için yeniden sefere çıktı.", "kaynaklar": ["prokopios-dewing|I.3", "prokopios-dewing|I.4"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Prokopios'a göre Firuz bütün Persleri ve müttefiklerini topladı, oğullarından yalnızca genç Kavad'ı geride bırakıp otuz kadarını yanına aldı. Eftalit hükümdarı, Perslerin gireceği ovada geniş ve derin bir hendek kazdırdı, ortasında on atın geçebileceği kadar bir yol bıraktı, üstünü kamışla örtüp toprakla gizledi. Firuz'un üzerine ant içtiği tuzu da sancağının tepesine astırdı.", "kaynaklar": ["prokopios-dewing|I.4"] },
+          { "grup": "ana", "metin": "Prokopios'a göre Persler sınırdaki Gorgo kentinden çıkınca küçük bir Eftalit birliği onlara görünüp kaçtı ve dar bir kol hâlinde hendeğin üstündeki yoldan geçti. Öfkeyle hızla kovalayan Persler, önde gidenlerin başına geleni fark edemeden atları ve mızraklarıyla üst üste hendeğe düştü.", "kaynaklar": ["prokopios-dewing|I.4"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Prokopios'a göre Firuz ve bütün oğulları hendekte öldü. Firuz'un düşerken kulağındaki eşsiz inciyi fırlattığı da anlatılır, ama Prokopios bu hikâyeye inanmaz. Bundan sonra Perslerde, düşman topraklarında asla takibe girişilmemesi bir kural hâline geldi. Tahta Kavad geçti ve Persler, Kavad gücünü sağlamlaştırana kadar iki yıl Eftalitlere vergi ödedi.", "kaynaklar": ["prokopios-dewing|I.4"] },
+          { "grup": "ana", "metin": "Prokopios'a göre birkaç yıl sonra tahttan indirilen Kavad Eftalitlere sığındı; Eftalit hükümdarı ona kızını verdi ve güçlü bir orduyla tahtını geri almasını sağladı (488).", "kaynaklar": ["prokopios-dewing|I.6"] }
+        ]}
+      ]
+    },
+    {
+      "id": "tole546",
+      "ad": "Bumın'ın Tölesleri yenmesi",
+      "yil": 546,
+      "yilYazi": "546",
+      "konum": [96.0, 47.5],
+      "konumKesin": false,
+      "konumNotu": "Kaynak yer vermez; işaret Altay'ın doğusunda, yaklaşık bir yerdedir.",
+      "taraflar": [
+        { "ad": "Göktürkler (Bumın)", "devlet": "gokturk1" },
+        { "ad": "Töles (Tieh-le) boyları" }
+      ],
+      "kazanan": 0,
+      "sebep": "Töles boyları Juan-juanlara saldırmak üzere yola çıkmıştı; Juan-juanlara bağlı Bumın onları yolda karşıladı.",
+      "sonuc": "Elli bin çadırdan fazla Töles halkı Bumın'a bağlandı; güçlenen Bumın Juan-juan hükümdarından prenses istedi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre Türkler Altay'ın güneyinde Juan-juanların demircileri olarak yaşıyordu. Bumın zamanında güçlenip Çin sınırında ipek ticaretine başladılar; 545'te Batı Wei'nin elçisi geldi, 546'da Bumın da Wei'ye elçi gönderdi. Aynı yıl Tieh-le (Töles) boyları Juan-juanlara saldırmak üzere yola çıktı.", "kaynaklar": ["choushu-50"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre Bumın kendi halkıyla Töleslerin yolunu kesip onları yendi ve hepsini, elli bin çadırdan fazla halkı kendine bağladı.", "kaynaklar": ["choushu-50"] },
+          { "grup": "makale", "metin": "Taşağıl'a göre Çin kaynaklarında Hun döneminde Ting-ling diye geçen boylarla sonraki dönemin Tölesleri aynı topluluktur.", "kaynaklar": ["tasagil-2014"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre gücüne güvenen Bumın, Juan-juan hükümdarı A-na-kui'den bir prenses istedi. A-na-kui ona 'Sen benim demirci kölemsin, bunu söylemeye nasıl cüret edersin?' diye karşılık verdi; Bumın da elçiyi öldürüp Juan-juanlarla ilişkisini kesti.", "kaynaklar": ["choushu-50"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Göktürkler 542'de tarih sahnesinde görünür; 552'de Bumın bağlı oldukları Juan-juan devletini yıktı.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "huaihuang552",
+      "ad": "Juan-juanların yenilgisi (Huai-huang'ın kuzeyi)",
+      "yil": 552,
+      "yilYazi": "552 (yılın ilk ayı)",
+      "konum": [114.6, 41.6],
+      "konumKesin": false,
+      "konumNotu": "Huai-huang, Kuzey Çin sınırındaki bir garnizondu; savaş onun kuzeyinde yapıldı. İşaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Göktürkler (Bumın)", "devlet": "gokturk1" },
+        { "ad": "Juan-juanlar (A-na-kui)" }
+      ],
+      "kazanan": 0,
+      "sebep": "A-na-kui, prenses isteyen Bumın'ı 'demirci kölem' diye aşağılayınca Bumın Juan-juanlarla ilişkisini kesip Batı Wei ile akrabalık kurdu.",
+      "sonuc": "A-na-kui canına kıydı; Bumın İl Kağan unvanını aldı ve Göktürk Kağanlığı kuruldu.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre A-na-kui'nin hakaretinden sonra Bumın Juan-juan elçisini öldürdü ve Batı Wei'den eş istedi; 551'de Wei'nin Ch'ang-lo prensesiyle evlendi. Aynı yıl Wei imparatoru ölünce Bumın taziye elçisiyle iki yüz at gönderdi.", "kaynaklar": ["choushu-50"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Göktürkler o zamana kadar Juan-juan devletine bağlıydı.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre 552'nin ilk ayında Bumın ordusuyla Juan-juanlara saldırdı ve onları Huai-huang'ın kuzeyinde ağır bir yenilgiye uğrattı. Sui Shu da İl Kağan'ın önce Tölesleri yendiğini, sonra Juan-juanlara baskın yaptığını yazar.", "kaynaklar": ["choushu-50", "suishu-84"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre A-na-kui canına kıydı, oğlu An-lo-ch'en Kuzey Ch'i'ye kaçtı; kalan Juan-juanlar A-na-kui'nin amcası Teng-shu-tzu'yu başa geçirdi. Bumın kendine İl Kağan, eşine Kağatun unvanını verdi. Bumın'dan sonra oğlu Kara Kağan, Teng-shu-tzu'yu Wo-ye'nin kuzeyindeki Mu-lai dağında yendi ve 553'te Batı Wei'ye elli bin at gönderdi.", "kaynaklar": ["choushu-50"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Bumın 552'de Juan-juan devletini yıkarak İl Kağan unvanını aldı ve devleti kurdu; devletin merkezi Ötüken'di, batı toprakları kardeşi İstemi Yabgu'nun yönetimindeydi.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "akhun560",
+      "ad": "Göktürklerin Ak Hunları yenmesi",
+      "yil": 560,
+      "yilYazi": "550'ler-560'lar",
+      "konum": [64.5, 39.6],
+      "konumKesin": false,
+      "konumNotu": "Kaynaklar savaşın yerini vermez; işaret Soğd (Buhara-Semerkant) bölgesindedir.",
+      "taraflar": [
+        { "ad": "Göktürkler (Mukan Kağan döneminde)", "devlet": "gokturk1" },
+        { "ad": "Ak Hunlar (Eftalitler)", "devlet": "akhun" }
+      ],
+      "kazanan": 0,
+      "sebep": "Juan-juanları ortadan kaldıran Göktürkler, Juan-juanların akrabası ve Soğd'un hâkimi Ak Hunlara yöneldi.",
+      "sonuc": "Ak Hunlar vergiye bağlandı, kentleri Türklerin eline geçti; Ak Hun Devleti ortadan kalktı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Wei Shu'ya göre Ak Hunlar (Ye-ta) Juan-juanlarla evlilik yoluyla akrabalık kurmuştu ve Soğd, Hotan, Kaşgar ile otuz kadar küçük devlet onlara bağlıydı. Sui Shu'ya göre Mukan Kağan Juan-juanları tamamen ortadan kaldırdıktan sonra batıya, Ak Hunların üzerine yöneldi.", "kaynaklar": ["weishu-102", "suishu-84"] },
+          { "grup": "turk", "metin": "Taşağıl, Ak Hunları Juan-juan Devleti'ne bağlı gruplardan çıkmış bir topluluk olarak değerlendirir; ona göre Ak Hunlar Toharistan ve Afganistan'a yerleşmiş, bir dönem Kuzey Hindistan'a da hâkim olmuştu.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Menandros'un aktardığına göre Eftalitlerin Katulphos adlı bir önderi, hükümdarın karısına el koyması üzerine kendi halkını Türklere ele verdi ve sonra Perslere sığındı.", "kaynaklar": ["menandros-yule|s. 206-207"] },
+          { "grup": "ana", "metin": "Chou Shu'ya göre Mukan Kağan batıda Ak Hunları yendi, doğuda Kitanları kaçırdı, kuzeyde Ch'i-ku boylarını kendine bağladı; ülkesi Liao denizinden Batı Denizi'ne kadar uzandı.", "kaynaklar": ["choushu-50"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Menandros'a göre Göktürk elçileri 568'de Bizans imparatoruna, kağanlarının Eftalitleri yenip vergiye bağladığını, Eftalitlerin bütün gücünün yıkıldığını ve kentlerinin Türklerin eline geçtiğini anlattı.", "kaynaklar": ["menandros-yule|s. 206-207"] },
+          { "grup": "makale", "metin": "Kemaloğlu'nun aktardığına göre Hacıfazlıoğlu Ak Hun Devleti'nin 557'ye kadar sürdüğünü kabul eder; eserinde Ak Hunların sonu ayrı bir başlık olarak ele alınır.", "kaynaklar": ["kemaloglu-2023|s. 36, 43"] }
+        ]}
+      ]
+    },
+    {
+      "id": "chinyang564",
+      "ad": "Chin-yang kuşatması",
+      "yil": 564,
+      "yilYazi": "563-564",
+      "konum": [112.55, 37.87],
+      "konumKesin": true,
+      "konumNotu": "Kuzey Ch'i'nin ikinci başkenti Chin-yang (bugünkü Taiyuan).",
+      "taraflar": [
+        { "ad": "Göktürkler (Mukan Kağan) ve Kuzey Chou", "devlet": "gokturk1" },
+        { "ad": "Kuzey Ch'i" }
+      ],
+      "kazanan": 1,
+      "sebep": "Birbiriyle savaşan Kuzey Chou ve Kuzey Ch'i, Mukan Kağan'ı yanlarına çekmek için yarıştı; Mukan Chou'yu seçti.",
+      "sonuc": "Ortak ordu kenti alamadı; Mukan çevreyi yağmalayıp döndü.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre Kuzey Chou ile Kuzey Ch'i her yıl savaşıyordu ve ikisi de Türkleri dış destek olarak kazanmak istiyordu. Mukan, kızını Chou hükümdarına vermeye söz vermişti; ama Ch'i de evlilik isteyip daha bol hediye gönderince Mukan sözünden dönmeyi düşündü. Chou elçileri Yang Chien ve Wang Ch'ing gelip ahde vefayı hatırlatınca Mukan Ch'i elçilerini geri çevirdi, evliliği kesinleştirdi ve bütün gücüyle doğuya, Ch'i'nin üzerine yürümeyi önerdi.", "kaynaklar": ["choushu-50"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Çin'deki devletler sonraki dönemde Göktürk hanedanı içindeki ayrılıkları kışkırtarak devleti zayıflattı.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre 563'te Chou komutanı Yang Chung on bin askerle Ch'i'ye karşı yola çıktı ve Hsing geçidini aştı; Mukan ona yüz bin atlıyla katıldı. Ertesi yılın ilk ayında ortak ordu Ch'i hükümdarının bulunduğu Chin-yang'a saldırdı, ama kenti alamadı.", "kaynaklar": ["choushu-50"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Chou Shu'ya göre Mukan bunun üzerine ordusunu serbest bırakıp çevreyi büyük ölçüde yağmaladı ve döndü. Aynı yıl yeniden doğu seferi istedi; ama Chou ordusu Lo-yang'da başarısız olunca o da çekildi. Mukan'ın kızı, bir süre fırtına yüzünden bekletildikten sonra Chou imparatoruna eş olarak gönderildi.", "kaynaklar": ["choushu-50"] }
+        ]}
+      ]
+    },
+    {
+      "id": "tardu599",
+      "ad": "Tardu'nun Sui ordusuna yenilmesi",
+      "yil": 599,
+      "yilYazi": "599",
+      "konum": [111.0, 41.5],
+      "konumKesin": false,
+      "konumNotu": "Sui Shu karşılaşmanın Ta-chin dağında olduğunu söyler; Sui ordusu Şuo-chou'dan çıkmıştı. Dağın yeri bilinmediği için işaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Batı Göktürkler (Tardu / Bu-ka Kağan)", "devlet": "batigokturk" },
+        { "ad": "Sui Çini (Shih Wan-sui)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Sui, Göktürk tahtı için Tu-li Kağan'ı destekliyordu; Tardu ve Tu-lan Kağan, Sui'nin adamı Tu-li'ye saldırdı.",
+      "sonuc": "Tardu'nun ordusu savaşmadan çekildi, Sui askerleri iki bin kişiyi öldürdü ya da esir aldı; Tardu 601'de yeniden yenilince T'u-yü-hunların ülkesine kaçtı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Sui Shu'ya göre Tu-li Kağan Sui'den evlilik isteyince Sui önce rakibinin eşi Ta-i prensesinin öldürülmesini şart koştu; 597'de Tu-li Sui'nin An-i prensesiyle evlendi. Buna öfkelenen Tu-lan Kağan Sui ile ilişkisini kesti ve 598'de Tardu ile birlikte Tu-li'ye saldırıp kardeşlerini ve yeğenlerini öldürdü; Tu-li Sui'ye sığındı.", "kaynaklar": ["suishu-84"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Çin, Göktürk hanedanı içindeki ayrılıkları kışkırtarak devleti zayıflatmıştır.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Sui Shu'ya göre 599'da Sui orduları sınırı aşmadan Tu-lan kendi adamları tarafından öldürüldü; Tardu kendini Bu-ka Kağan ilan etti ve ülke karıştı. Sui komutanı Shih Wan-sui Şuo-chou'dan çıkıp Tardu ile Ta-chin dağında karşılaştı; Türkler savaşa girmeden çekildi, kovalayan Sui askerleri iki bin kişiyi öldürdü ya da esir aldı.", "kaynaklar": ["suishu-84"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Sui Shu'ya göre Sui, Tu-li'yi Ch'i-min Kağan unvanıyla kağan tanıdı ve onun için Ta-li kenti yapıldı. Tardu 601'de yeniden yenilince T'u-yü-hunların ülkesine kaçtı.", "kaynaklar": ["suishu-84"] },
+          { "grup": "makale", "metin": "Taşağıl'a göre 603'te Tardu'nun yenilmesi Töles boylarını dağıttı.", "kaynaklar": ["tasagil-2014"] }
+        ]}
+      ]
+    },
+    {
+      "id": "yenmen615",
+      "ad": "Yen-men kuşatması",
+      "yil": 615,
+      "yilYazi": "615",
+      "konum": [112.9, 39.07],
+      "konumKesin": false,
+      "konumNotu": "Yen-men kenti (bugünkü Şansi'nin kuzeyi, Dai dolayları).",
+      "taraflar": [
+        { "ad": "Göktürkler (Shih-pi Kağan)", "devlet": "gokturk1" },
+        { "ad": "Sui Çini (İmparator Yang)" }
+      ],
+      "kazanan": null,
+      "sebep": "Sui Shu'nun kendi değerlendirmesine göre İmparator Yang, Shih-pi Kağan'a karşı yanlış bir siyaset izledi.",
+      "sonuc": "Sui imparatoru kentte kuşatıldı; yardım orduları gelince Shih-pi çekildi. Bundan sonra Göktürkler Sui'ye bağlılığı bıraktı ve Çin'deki iç savaşta belirleyici bir güç oldu.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Sui Shu'ya göre Shih-pi Kağan, babası Ch'i-min'in yerine geçince töreye uygun olarak Sui prensesiyle evlenmek istedi ve izin aldı; 615'te Sui sarayına geldi. Sui Shu'nun bölüm sonundaki değerlendirmesine göre İmparator Yang onu doğru biçimde idare edemedi ve Yen-men kuşatması bunun sonucu oldu.", "kaynaklar": ["suishu-84"] },
+          { "grup": "turk", "metin": "Kaçalin'e göre Orhun Yazıtları, Göktürk hükümdarlarının mücadelelerini anlatır; yazıtlar devletin dağılmasını beylerle halk arasındaki birliğin bozulmasına ve Çin'in entrikalarına bağlar.", "kaynaklar": ["dia-orhon"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Sui Shu'ya göre imparator yazı Fen-yang sarayında geçiriyordu. 615'in sekizinci ayında Shih-pi halkıyla Çin'e girdi ve imparatoru Yen-men kentinde kuşattı. İmparator bütün eyaletlere asker göndermeleri için emir yolladı; yardım orduları yetişince Shih-pi çekildi.", "kaynaklar": ["suishu-84"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Sui Shu'ya göre bundan sonra Göktürkler Sui'ye elçi göndermeyi kesti ve ertesi yıl Ma-yi'ye akın etti. Sui'nin çöküşüyle Çin'de çıkan karışıklıkta sayısız Çinli Göktürklere sığındı; taht iddiasındaki Çinli önderlerin hepsi Göktürk kağanına bağlılık bildirip ondan unvan aldı. Jiu Tangshu'ya göre Tang hanedanını kuracak olan Li Yüan da ayaklanırken Shih-pi'den destek istedi.", "kaynaklar": ["suishu-84", "jiutangshu-194a"] }
+        ]}
+      ]
+    },
+    {
+      "id": "wei626",
+      "ad": "Ch'ang-an seferi ve Wei Köprüsü Antlaşması",
+      "yil": 626,
+      "yilYazi": "626",
+      "konum": [108.85, 34.35],
+      "konumKesin": false,
+      "konumNotu": "Ch'ang-an'ın (Xi'an) batısında, Wei ırmağı üzerindeki Pien köprüsü.",
+      "taraflar": [
+        { "ad": "Göktürkler (İl Kağan)", "devlet": "gokturk1" },
+        { "ad": "Tang Çini (T'ai-tsung)" }
+      ],
+      "kazanan": null,
+      "sebep": "Her yıl Çin'e akın eden İl Kağan, Tang'da yeni imparatorun tahta çıktığı sırada başkentin önüne kadar geldi.",
+      "sonuc": "Büyük bir savaş olmadı; iki hükümdar Wei ırmağı üzerindeki köprüde beyaz at kurban ederek antlaştı ve Göktürkler çekildi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre İl Kağan tahta çıktığında babasından ve ağabeylerinden kalan güçlü bir orduya sahipti ve Çin'e üstün gelmek istiyordu. Tang'ın kurucusu Kao-tsu, ülke yeni toparlandığı için ona sayısız hediye gönderip hoşgörüyle davrandı; İl Kağan ise neredeyse her yıl sınıra akın etti (örneğin 622'de 50.000 atlıyla Fen-chou'ya kadar indi). Jiu Tangshu'da İmparator T'ai-tsung, İl Kağan'ın 626'da Tang'ın iç sıkıntılar yaşadığını ve yeni imparatorun karşı koymaya cesaret edemeyeceğini düşünerek geldiğini söyler.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Çin, Göktürk hanedanı içindeki ayrılıkları kışkırtarak devleti zayıflatmıştır.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre 626'nın yedinci ayında İl Kağan yüz binden fazla atlıyla Wu-kung'a kadar geldi, başkentte sıkıyönetim ilan edildi. Tang komutanı Yü-ch'ih Ching-te, Ching-yang'da bir Göktürk birliğini yenip bin kişiyi öldürdü. İl Kağan, 'iki kağan bir milyonluk orduyla geldi' demesi için güvendiği adamı Chih-shih Ssu-li'yi saraya gönderdi; imparator onu alıkoydu.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre İmparator T'ai-tsung yalnızca altı atlıyla Wei ırmağının kıyısına gidip karşı yakadaki İl Kağan'a antlaşmayı bozduğunu söyledi; Göktürk beyleri atlarından inip onu selamladı. Arkadan Tang orduları gelince İl Kağan ordunun büyüklüğünü ve elçisinin alıkonulduğunu görüp korktu ve barış istedi.", "kaynaklar": ["jiutangshu-194a"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre iki gün sonra iki hükümdar Wei üzerindeki Pien köprüsünde beyaz at kurban ederek ant içti ve İl Kağan ordusunu geri çekti; ardından üç bin at ve on bin koyun gönderdi, imparator bunları kabul etmedi. Kaynak, T'ai-tsung'un savaşmamayı seçmesini onun ağzından şöyle açıklar: Yeni tahta çıkmışken savaşa girip kayıp vermek istemedi; Göktürkleri hediyelerle şımartmanın onları zamanla çökerteceğini düşündü ('almak istediğini önce ver').", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Doğu Göktürk Devleti 630'da Çin hâkimiyetine girdi.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "liching630",
+      "ad": "Li Ching'in baskını: Doğu Göktürk Devleti'nin yıkılışı",
+      "yil": 630,
+      "yilYazi": "630",
+      "konum": [111.8, 40.4],
+      "konumKesin": false,
+      "konumNotu": "İşaret Li Ching'in gece baskın yaptığı Ting-hsiang'dadır (bugünkü Hohhot'un güneyi). İl Kağan daha sonra Demir Dağ'da (T'ieh-shan) yenildi; orasının yeri bilinmez.",
+      "taraflar": [
+        { "ad": "Doğu Göktürkler (İl Kağan)", "devlet": "gokturk1" },
+        { "ad": "Tang Çini (Li Ching)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Boyların ayaklanması, yıllarca süren kıtlık, ağır vergiler ve hanedan içindeki ayrılık Doğu Göktürk Devleti'ni zayıflattı; Tang bunu fırsat bildi.",
+      "sonuc": "İl Kağan esir alınıp Ch'ang-an'a götürüldü; Doğu Göktürk Devleti yıkıldı ve Göktürkler elli yıl Çin hâkimiyetinde kaldı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre 627'de Yin-şan dağlarının kuzeyindeki Sir Tarduş, Uygur ve Bayırku boyları ayaklandı. İl Kağan'ın üzerlerine gönderdiği yeğeni Tu-li yenilip döndü; İl Kağan onu on günden fazla hapsetti ve Tu-li ona küsüp sonunda Tang'a geçti. Ülkeye düz arazide birkaç ayak kalınlığında kar yağdı, koyunlar ve atlar öldü, büyük bir kıtlık başladı.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre İl Kağan işleri yabancı danışmanlara bırakıp kendi soyundan olanları uzaklaştırdı; kanunlar çoğaldı, her yıl savaş vardı. Kıtlık yüzünden geliri yetmeyince boylardan ağır vergi aldı; içte ve dışta birçok kişi ona karşı döndü. Barış istemesine rağmen Tang'ın düşmanı Liang Shih-tu'yu desteklemesi üzerine Tang, Li Ching'in komutasında birkaç koldan sefer açtı.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "makale", "metin": "Taşağıl'a göre 627'den sonra Tola ve Kerulen çevresindeki boyların Çin desteğiyle ayaklanması ve ardından gelen kıtlık Doğu Göktürk Devleti'ni yıktı.", "kaynaklar": ["tasagil-2014"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre 630'un ilk ayında Li Ching E-yang sırtına ilerleyip gece Ting-hsiang'a baskın yaptı; şaşıran İl Kağan ordugâhını çölün kıyısına taşıdı. Bazı yabancı beyler yanlarındaki Sui imparatoriçesiyle Tang'a teslim oldu. İkinci ayda İl Kağan hâlâ on binlerce askerle Demir Dağ'a (T'ieh-shan) çekildi ve bütün halkıyla Tang'a bağlanmak istediğini bildiren bir elçi gönderdi.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre imparator onu yatıştırmak için elçi T'ang Chien'i gönderdi ve İl Kağan biraz rahatladı. Li Ching bu arada fırsat bulup ani bir baskınla Göktürk ordusunu dağıttı. İl Kağan hızlı bir ata binip tek başına yeğeni Şa-po-lo'nun yanına kaçtı; üçüncü ayda Tang komutanı Chang Pao-hsiang oraya baskın yapıp onu canlı yakaladı.", "kaynaklar": ["jiutangshu-194a"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre başkente getirilen İl Kağan'ı imparator suçlarını sayarak azarladı, ama Wei Köprüsü'ndeki anttan sonra büyük bir saldırı yapmadığı için bağışladı; ailesi yanına verildi. İl Kağan Çin'de mutsuz yaşadı, yakınlarıyla birlikte ağıtlar yakardı. 634'te öldü ve kendi töresine göre yakıldı; doğduğunda ona bakmakla görevlendirilen Hu-lu Tarkan T'u-yü-hun-ye ardından kendini öldürdü.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "ana", "metin": "Kül Tigin Yazıtı bu yenilgiden sonraki dönemi şöyle anlatır: Beylerin oğulları Çinlilere kul, temiz kızları cariye oldu; Türk beyleri Türk unvanlarını bırakıp Çin unvanları aldı ve elli yıl Çin imparatoruna hizmet etti.", "kaynaklar": ["orhun-thomsen|s. 864-865"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Doğu Göktürk Devleti'ne 630'da Çin son verdi ve her iki Göktürk devleti de bu tarihte Çin hâkimiyetine girdi.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "kursad639",
+      "ad": "Kürşad'ın Chiu-ch'eng baskını",
+      "yil": 639,
+      "yilYazi": "639",
+      "konum": [107.8, 34.67],
+      "konumKesin": false,
+      "konumNotu": "Tang imparatorlarının yazlık sarayı Chiu-ch'eng (bugünkü Şensi'de Linyou dolayları).",
+      "taraflar": [
+        { "ad": "Kürşad ve kırk kadar arkadaşı", "devlet": "gokturk2" },
+        { "ad": "Tang Çini" }
+      ],
+      "kazanan": 1,
+      "sebep": "630'dan sonra Çin hâkimiyetine giren Göktürklerin ileri gelenlerinden Kürşad, imparatorun ordugâhına baskın planladı.",
+      "sonuc": "Baskın püskürtüldü, Kürşad ve arkadaşları yakalanıp öldürüldü; imparator Göktürklerin başına Aşina Ssu-mo'yu kağan olarak atadı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre İl Kağan'ın yenilmesinden sonra Göktürk boylarının bir kısmı Sir Tarduşlara, bir kısmı batıya kaçtı, çoğu da Tang'a teslim oldu ve Çin sınırına yerleştirildi. Tu-li Kağan'ın kardeşi Chieh-she-shuai (Kürşad) Tang sarayında görev almıştı.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "ana", "metin": "Kül Tigin Yazıtı bu dönemde Türk halkının 'Devleti olan bir halktım, devletim nerede? Kağanı olan bir halktım, kağanım nerede?' diyerek Çin'e karşı ayaklandığını anlatır.", "kaynaklar": ["orhun-thomsen|s. 864-865"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre 639'da imparatorla birlikte Chiu-ch'eng sarayına giden Kürşad, kırk kadar adamını gizlice örgütledi ve Tu-li'nin oğlu Ho-lo-hu'yu da yanına aldı. Gece imparatorun ordugâhına saldırdılar, dördüncü çadır perdesine kadar ilerleyip ok yağdırarak onlarca muhafızı öldürdüler. Tang komutanı Sun Wu-k'ai'nin birlikleri karşı saldırıya geçince geri çekildiler.", "kaynaklar": ["jiutangshu-194a"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Kürşad ve arkadaşları kuzeye kaçıp Wei ırmağını geçti ve kendi boylarına ulaşmaya çalıştı, ama kısa sürede yakalanıp öldürüldüler; Ho-lo-hu bağışlanıp güneye sürüldü. Bu olaydan sonra imparator Aşina Ssu-mo'yu Göktürklerin başına kağan olarak atadı.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre her iki Göktürk devleti de 630'da Çin hâkimiyetine girdi; Doğu Göktürklerinin bağımsızlığı ancak 682'de yeniden kazanıldı.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "holu657",
+      "ad": "Ho-lu'nun yenilgisi",
+      "yil": 657,
+      "yilYazi": "657",
+      "konum": [75.2, 42.8],
+      "konumKesin": false,
+      "konumNotu": "Savaş birkaç aşamada geçti: Ye-tieh ırmağı, İli ırmağı, Çift Irmak (Shuang-ho) ve Suyab ırmağı. İşaret son büyük yenilginin yaşandığı Suyab (Çu) ırmağı çevresindedir.",
+      "taraflar": [
+        { "ad": "Batı Göktürkler (Aşina Ho-lu / Şa-po-lo Kağan)", "devlet": "batigokturk" },
+        { "ad": "Tang Çini (Su Ting-fang) ve müttefik Türk beyleri" }
+      ],
+      "kazanan": 1,
+      "sebep": "Tang'a bağlanmış olan Ho-lu, imparator T'ai-tsung ölünce batıya kaçıp Şa-po-lo Kağan unvanıyla On Ok'u yeniden birleştirdi.",
+      "sonuc": "Ho-lu Taşkent'te yakalanıp Çin'e teslim edildi; Batı Göktürk ülkesi Tang'ın koruyuculuklarına bölündü.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Ho-lu 648'de halkıyla Tang'a bağlanmış ve T'ing-chou'ya yerleştirilmişti. 651'de oğlu Tie-yün ile batıya kaçtı; Çift Irmak (Shuang-ho) ve Bin Pınar'da (Ch'ien-ch'üan) ordugâh kurup Şa-po-lo Kağan unvanını aldı ve On Ok'un on boyunu kendine bağladı. Kaynağa göre emrinde yüz binlerce asker vardı; Batı Bölgeleri'ndeki birçok ülke de ona bağlandı. Ho-lu sonra Tang'a bağlı boylara ve T'ing-chou'ya akınlar yaptı.", "kaynaklar": ["jiutangshu-194b"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre 630'da T'ung Yabgu'nun öldürülmesinden sonra Batı Göktürk Devleti birçok beyliğe bölünmüş ve bu beylikler Çin'e bağlanmıştı.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Tang önce 652'de Liang Chien-fang ile Ch'i-pi Ho-li'yi elli bin Uygur atlısıyla gönderdi. 657'de Su Ting-fang komutasındaki ordu, yanında Batı Göktürk beyleri Aşina Mi-she ve Aşina Pu-chen ile yola çıktı. Ye-tieh ırmağının batısında Ho-lu yirmi binden fazla atlıyla savaş düzenine girdi, ama ağır bir yenilgiye uğradı; iki yüzden fazla beyi öldürüldü. Ho-lu İli ırmağını geçerek kaçarken birçok asker ve at boğuldu.", "kaynaklar": ["jiutangshu-194b"] },
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Tang orduları Ho-lu'nun ordugâhı Bin Pınar'a ve İli ırmağına ulaştı; boyların birçoğu teslim oldu. Ho-lu'nun dağılan askerleri Çift Irmak'ta bir şarampole sığınıp direndi, yine yenildi; ardından Su Ting-fang Suyab ırmağında Ho-lu'yu bir kez daha bozguna uğrattı.", "kaynaklar": ["jiutangshu-194b"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Ho-lu ile oğlu, Şi ülkesindeki (Taşkent) Su-tu kentine vardığında aç ve yorgundu. Kentin beyi onları yiyecek ve içecekle karşılamaya çıkmış gibi yaptı, Ho-lu kente girince onu yakaladı ve Tang komutanına teslim etti. Ho-lu, 'Ben yıkılmış bir esirim. Önceki imparator bana iyilik etti, ben ona ihanet ettim; bugünkü yenilgim Göğün bana öfkesidir' dedi ve o imparatorun mezarı önünde öldürülmek istedi. İmparator onu bağışladı; Ho-lu 659'da öldü ve İl Kağan'ın mezarının yanına gömüldü.", "kaynaklar": ["jiutangshu-194b"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Tang hanedanı 659'da Batı Göktürklerini kendine bağladı ve Tanrı dağlarının güneyindeki şehir devletleri üzerinde otorite kurdu.", "kaynaklar": ["dia-talas"] }
+        ]}
+      ]
+    },
+    {
+      "id": "wenfu679",
+      "ad": "A-shih-te Wen-fu ayaklanması",
+      "yil": 679,
+      "yilYazi": "679",
+      "konum": [111.0, 41.0],
+      "konumKesin": false,
+      "konumNotu": "Ayaklanma Çin'in kuzey sınırındaki Şan-yü koruyuculuğuna bağlı Göktürkler arasında çıktı; savaşların tam yeri bilinmez.",
+      "taraflar": [
+        { "ad": "Göktürkler (A-shih-te Wen-fu, Feng-chih)", "devlet": "gokturk2" },
+        { "ad": "Tang Çini (P'ei Hsing-chien)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Yaklaşık otuz yıllık sessizlikten sonra Çin'e bağlı Göktürk boyları kendi kağanlarını seçip yeniden ayaklandı.",
+      "sonuc": "İlk Tang ordusu yenildi, ama P'ei Hsing-chien'in 300.000 kişilik ordusu ayaklanmayı bastırdı; birkaç yıl içinde Kutlug devleti yeniden kurdu.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre 650'lerden sonra yaklaşık otuz yıl Çin'in kuzey sınırında olay çıkmadı. 679'da Şan-yü koruyuculuğuna bağlı Göktürk beyleri A-shih-te Wen-fu ve Feng-chih, Ni-shu-fu'yu kağan ilan edip ayaklandı; yirmi dört bölge de onlara katıldı.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "ana", "metin": "Kül Tigin Yazıtı'na göre Çin'e elli yıl hizmet eden Türk halkı sonunda devletini ve kağanını arayarak Çin'e karşı ayaklandı, ama birliğini sağlayamadığı için yeniden boyun eğdi.", "kaynaklar": ["orhun-thomsen|s. 864-865"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre ayaklanmayı bastırmaya gönderilen Hsiao Ssu-yeh ile Li Ching-chia'nın ordusu Wen-fu'ya yenildi ve on binden fazla Tang askeri öldü. Bunun üzerine P'ei Hsing-chien 300.000'den fazla askerle gönderildi ve Wen-fu'yu ağır bir yenilgiye uğrattı; Ni-shu-fu kendi adamlarınca öldürüldü, Feng-chih esir alındı.", "kaynaklar": ["jiutangshu-194a"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre ertesi yıl Göktürkler bu kez Aşina Fu-nien'i kağan yapmak istedi; o da sıkışınca teslim oldu ve başkentte idam edildi. Bundan sonra Kutlug dağılan halkı Tsung-ts'ai dağında topladı, beş bin kişiye ulaştı ve kendini kağan ilan etti.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Doğu Göktürklerinin bağımsızlığı ancak 682'de yeniden kazanıldı; Kutlug, Tonyukuk'la birlikte Ötüken'de Oğuzları yenip İlteriş unvanıyla kağan oldu.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "tola682",
+      "ad": "Tola boyunda Oğuz zaferi",
+      "yil": 682,
+      "yilYazi": "682 dolayları",
+      "konum": [106.3, 47.8],
+      "konumKesin": false,
+      "konumNotu": "Tola ırmağı boyu (bugünkü Moğolistan); savaşın tam yeri bilinmez.",
+      "taraflar": [
+        { "ad": "Göktürkler (İlteriş Kutlug, Tonyukuk)", "devlet": "gokturk2" },
+        { "ad": "Dokuz Oğuzlar" }
+      ],
+      "kazanan": 0,
+      "sebep": "Dokuz Oğuzların kağanı, Çin ve Kitanlarla birlikte yeni toparlanan Türklere üç yandan saldırmayı planlıyordu.",
+      "sonuc": "Kalabalık Oğuz ordusu yenildi; Göktürkler Ötüken'e yerleşti ve devlet yeniden kuruldu.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk Yazıtı'na göre Çin'den ayrılan Türkler önce yedi yüz kişiydi; Çugay-kuzı ve Kara-kum'da av hayvanlarıyla geçiniyorlardı. Bir Oğuz casusu, Dokuz Oğuzların yeni kağanının Çin'e ve Kitanlara elçi gönderip Türklere üç yandan birlikte saldırmayı önerdiğini haber verdi.", "kaynaklar": ["tonyukuk-thomsen|s. 38", "tonyukuk-thomsen|s. 38-39"] },
+          { "grup": "ana", "metin": "Tonyukuk bu haberle geceleri uyuyamadığını ve kağanına şöyle dediğini yazar: 'İnce bir şeyi bükmek kolaydır, körpe bir şeyi koparmak kolaydır; ama ince olan kalınlaşırsa bükmek, körpe olan sertleşirse koparmak güç ister.'", "kaynaklar": ["tonyukuk-thomsen|s. 38-39"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk Yazıtı'na göre kağanın izniyle iki bin kişilik ordu Ötüken ormanına yöneldi ve Tola ırmağı boyunda kendilerinden kalabalık Oğuz ordusunu yendi.", "kaynaklar": ["tonyukuk-thomsen|s. 38-39"] },
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Kutlug dağılan halkı topladıktan sonra Dokuz Oğuzlara akınlar yapıp çok sayıda koyun ve at ele geçirerek güçlendi; daha önce Çin'de bulunan Tonyukuk ona katılınca Kutlug ona Apa Tarkan unvanını verip ordunun yönetimini bıraktı.", "kaynaklar": ["jiutangshu-194a"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk Yazıtı'na göre Türklerin Ötüken'e yerleştiğini duyan güneydeki, batıdaki, kuzeydeki ve doğudaki halklar onlara katıldı. İlteriş Kağan Çin'le yedi, Kitanlarla yedi, Oğuzlarla beş kez savaştı; Tonyukuk bu savaşlarda onun danışmanı ve ordu komutanıydı.", "kaynaklar": ["tonyukuk-thomsen|s. 38-39", "tonyukuk-thomsen|s. 42"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Kutlug, Tonyukuk'la birlikte Ötüken'de Oğuzları yendi ve İlteriş unvanıyla kağan oldu.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "kogmen710",
+      "ad": "Kögmen'i aşıp Kırgızları yenme",
+      "yil": 710,
+      "yilYazi": "710-711",
+      "konum": [92.0, 52.5],
+      "konumKesin": false,
+      "konumNotu": "Kögmen (Sayan dağları) ve Anı ırmağı çevresindeki Kırgız ülkesi; tam yeri bilinmez.",
+      "taraflar": [
+        { "ad": "Göktürkler (Tonyukuk, Kül Tegin)", "devlet": "gokturk2" },
+        { "ad": "Kırgızlar" }
+      ],
+      "kazanan": 0,
+      "sebep": "Çin imparatoru, On Ok (Türgiş) kağanı ve Kırgız kağanı Göktürklere birlikte saldırmak için anlaşmıştı.",
+      "sonuc": "Kırgızlar uykuda basıldı; kağanları öldürüldü, halkı boyun eğdi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk Yazıtı'na göre Çin imparatoru, On Ok kağanı ve Kırgız kağanı Altun ormanında buluşup Doğu Türklerinin kağanına birlikte saldırmak için anlaştı. Kendi aralarında 'Kağanı yiğit, danışmanı bilgedir; ona saldırmazsak bir gün o bizi öldürecek' diyorlardı. Tonyukuk önce Kırgızların üzerine yürümeye karar verdi.", "kaynaklar": ["tonyukuk-thomsen|s. 39-40"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk Yazıtı'na göre Kögmen'den geçen tek yolun karla kapalı olduğu öğrenildi; Az halkından bir kılavuz bulundu. Ordu atlarını yedekte çekip ağaçlara tutunarak karı yara yara dağı aştı ve on gün karlı yamaçlarda ilerledi; yolu şaşıran kılavuz öldürüldü. Anı ırmağı boyunca gece gündüz at sürüp Kırgızları uykuda bastılar.", "kaynaklar": ["tonyukuk-thomsen|s. 39-40"] },
+          { "grup": "ana", "metin": "Kül Tigin Yazıtı da aynı seferi anlatır: Yirmi altı yaşındaki Kül Tegin'le birlikte mızrak boyu karı yararak Kögmen ormanını aştılar ve Kırgızları uykuda bastılar.", "kaynaklar": ["orhun-thomsen|s. 868-870"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk ve Kül Tigin yazıtlarına göre Kırgız kağanı öldürüldü ve halkı boyun eğdi. Göktürk ordusu aynı yıl Altun ormanını aşıp Türgişlerin üzerine yürüdü.", "kaynaklar": ["tonyukuk-thomsen|s. 39-40", "orhun-thomsen|s. 868-870"] },
+          { "grup": "turk", "metin": "Kaçalin'e göre Tonyukuk Yazıtı bu seferleri Tonyukuk'un ağzından anlatır ve Kül Tigin ile Bilge Kağan yazıtlarıyla birlikte ele alınır.", "kaynaklar": ["dia-orhon"] }
+        ]}
+      ]
+    },
+    {
+      "id": "bolcu711",
+      "ad": "Bolçu Savaşı",
+      "yil": 711,
+      "yilYazi": "710-711",
+      "konum": [88.5, 46.6],
+      "konumKesin": false,
+      "konumNotu": "Bolçu, Altun ormanı (Altay) ve İrtiş aşıldıktan sonra ulaşılan bir yerdir; genellikle Urungu ırmağı çevresinde aranır. İşaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Göktürkler (Tonyukuk, İnel Kağan, Tarduş Şad)", "devlet": "gokturk2" },
+        { "ad": "Türgişler ve On Ok" }
+      ],
+      "kazanan": 0,
+      "sebep": "Kırgızların yenilmesinden sonra Göktürklere karşı kurulan ittifakın ikinci gücü olan Türgiş kağanı ve On Ok ordusu yola çıktı.",
+      "sonuc": "Türgiş kağanı esir alındı, yabgusu ve şadı öldürüldü; On Ok boyun eğdi ve Göktürk ordusu Demir Kapı'ya kadar ilerledi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk Yazıtı'na göre Kırgız seferinden sonra Türgiş kağanının ve On Ok ordusunun yola çıktığı haberi geldi. Kağan, hatunu öldüğü için geri dönüp cenazesini kaldıracağını söyledi ve orduyu İnel Kağan, Tarduş Şad ve Tonyukuk'a bıraktı.", "kaynaklar": ["tonyukuk-thomsen|s. 40-42"] },
+          { "grup": "ana", "metin": "Kül Tigin Yazıtı'na göre Türgiş kağanı Göktürklerin kendi halkındandı, ama aldatıcı davrandığı için cezalandırıldı. Jiu Tangshu da II. Göktürk kağanı Kapgan'ın Türgiş önderi So-ko'yu (Sakal) ve kardeşini öldürdüğünü yazar.", "kaynaklar": ["orhun-thomsen|s. 866, 868-869", "jiutangshu-194b"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk Yazıtı'na göre Tonyukuk yolu olmayan Altun ormanını aştı, geçidi olmayan İrtiş'i geçti ve Bolçu'ya ulaştı. Yarış ovasında yüz bin kişilik bir ordu toplandığı haberi gelince beyler geri dönmek istedi. Tonyukuk ise 'Neden kaçalım? Çok oldukları için neden korkalım, az olduğumuz için neden yılalım? Saldıralım!' dedi ve saldırıya geçtiler.", "kaynaklar": ["tonyukuk-thomsen|s. 40-42"] },
+          { "grup": "ana", "metin": "Kül Tigin Yazıtı'na göre Göktürk ordusu Türgişleri uykuda bastı ve Bolçu'da Türgiş kağanının ordusunu yendi.", "kaynaklar": ["orhun-thomsen|s. 866, 868-869"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Tonyukuk Yazıtı'na göre Türgiş kağanı esir alındı, yabgusu ve şadı öldürüldü; On Ok beyleri ve halkı gelip boyun eğdi. Göktürk ordusu kaçanları İnci ırmağını geçerek Demir Kapı'ya kadar kovaladı; Soğd halkı da İnel Kağan'a boyun eğdi ve ordu sarı altın, ak gümüş ve bol ganimetle döndü.", "kaynaklar": ["tonyukuk-thomsen|s. 40-42", "tonyukuk-thomsen|s. 42"] },
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre bu yenilgiden sonra Sakal'ın adamlarından Su-lu dağılan Türgişleri topladı ve kendini kağan ilan etti; Tang sarayı 715'te ona kağan unvanını tanıdı.", "kaynaklar": ["jiutangshu-194b"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre Batı Göktürklerinden çıkan Türgişler bağımsızlıklarını uzun süre korudu ve ancak 766'da dağıldı. Kaçalin'e göre Tonyukuk Yazıtı bu seferi Tonyukuk'un ağzından anlatır.", "kaynaklar": ["dia-talas", "dia-orhon"] }
+        ]}
+      ]
+    },
+    {
+      "id": "bayirku716",
+      "ad": "Tola Savaşı ve Kapgan Kağan'ın ölümü",
+      "yil": 716,
+      "yilYazi": "716",
+      "konum": [107.6, 47.7],
+      "konumKesin": false,
+      "konumNotu": "Jiu Tangshu'ya göre savaş Tola (Tu-lo) ırmağı kıyısında yapıldı; tam yeri bilinmez.",
+      "taraflar": [
+        { "ad": "Göktürkler (Kapgan Kağan)", "devlet": "gokturk2" },
+        { "ad": "Bayırkular" }
+      ],
+      "kazanan": null,
+      "sebep": "Kapgan Kağan'ın son yıllarında Dokuz Oğuz boyları ayaklandı; Kapgan onları bastırmak için kuzeye sefer açtı.",
+      "sonuc": "Bayırkular Tola'da yenildi, ama dönüşte pusuya düşen Kapgan Kağan öldürüldü; Kül Tegin, Bilge'yi kağan yaptı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Kapgan'ın son yıllarında birçok boy ve bey ondan ayrılıp Tang'a sığındı. 715 güzünde Kapgan çölün kuzeyinde Dokuz Oğuz önderleriyle savaştı ve onları ağır bir yenilgiye uğrattı. Ertesi yıl Dokuz Oğuzlardan Bayırkulara karşı yeniden sefere çıktı.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "ana", "metin": "Kül Tigin Yazıtı, devletin en geniş olduğu bu dönemde halkın kağanına karşı sadakatsizlik ettiğini ve Kapgan'ın bu yüzden öldüğünü söyler.", "kaynaklar": ["orhun-thomsen|s. 866-867"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Kapgan Bayırkularla Tola ırmağı kıyısında savaştı ve onları ağır bir yenilgiye uğrattı. Zaferine güvenip önlem almadan dönerken, dağılan Bayırku askerlerinden Hsieh-chih-lüe bir söğütlükten aniden çıkıp ona saldırdı ve onu öldürdü.", "kaynaklar": ["jiutangshu-194a"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Kapgan'ın başı Çin elçisi Hao Ling-ch'üan tarafından başkente götürüldü. İlteriş'in oğlu Kül Tegin eski adamlarını topladı, Kapgan'ın oğlu küçük kağanı ve onun yakınlarını öldürdü, ağabeyi Bilge'yi kağan yaptı. Bilge, Kapgan döneminin devlet adamı Tonyukuk'u geri çağırıp başdanışman yaptı.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "turk", "metin": "Kaçalin'e göre Orhun Yazıtları II. Göktürk Kağanlığı'nın tarihini ve hükümdarlarının mücadelelerini anlatan en önemli Türkçe kaynaklardır.", "kaynaklar": ["dia-orhon"] }
+        ]}
+      ]
+    },
+    {
+      "id": "basmil742",
+      "ad": "Basmıl ve Uygurların Göktürkleri bozguna uğratması",
+      "yil": 742,
+      "yilYazi": "742",
+      "konum": [102.5, 47.5],
+      "konumKesin": false,
+      "konumNotu": "Kaynak yer vermez; işaret Göktürklerin merkezi Ötüken (Orhun vadisi) dolaylarındadır.",
+      "taraflar": [
+        { "ad": "II. Göktürk Kağanlığı (Ozmış Kağan)", "devlet": "gokturk2" },
+        { "ad": "Basmıllar ve Uygurlar" }
+      ],
+      "kazanan": 1,
+      "sebep": "Bilge Kağan'ın ölümünden sonra taht kavgaları devleti zayıflattı; tabi boylar ayaklandı.",
+      "sonuc": "Göktürkler bozguna uğradı; 744'te Uygur Kağanlığı kuruldu, II. Göktürk Kağanlığı 745'te tamamen ortadan kalktı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Bilge Kağan'dan sonra oğlu İ-jan Kağan, onun ardından kardeşi Teng-li Kağan tahta geçti. Sol şad, kendisine zarar geleceğinden korkup Teng-li'yi öldürdü; ardından Ozmış (Wu-su-mi-shih) kendini kağan ilan etti.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "ana", "metin": "Bilge Kağan Yazıtı, Çinlilerin bol altın, gümüş ve ipek verip tatlı sözlerle uzaktaki halkları kendilerine yaklaştırdığını ve buna kanan pek çok Türk'ün yok olduğunu hatırlatır.", "kaynaklar": ["orhun-thomsen|s. 862-863"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "ana", "metin": "Jiu Tangshu'ya göre Basmıl boyları Ozmış'a karşı ayaklandı; 742'de teslim olan Göktürk grupları Çin başkentine geldi.", "kaynaklar": ["jiutangshu-194a"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre 742'de Basmıl ve Uygurlar Göktürkleri bozguna uğrattı.", "kaynaklar": ["dia-turk"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Uygurlar 744'te Basmılları da yenerek kendi kağanlıklarını kurdu ve Göktürk devleti 745'te tamamen ortadan kalktı; Göktürk kalıntıları Kuzey Çin'de 941'e kadar izlenebilir.", "kaynaklar": ["dia-turk"] }
+        ]}
+      ]
+    },
+    {
+      "id": "herakleios626",
+      "ad": "Hazarların Herakleios'a yardımı",
+      "yil": 626,
+      "yilYazi": "626",
+      "konum": [45.0, 41.7],
+      "konumKesin": false,
+      "konumNotu": "Kaynaklar savaşın yerini vermez; işaret Hazar ordusunun Sasanilere karşı yürüdüğü Güney Kafkasya'dadır.",
+      "taraflar": [
+        { "ad": "Hazarlar ve Bizans (Herakleios)", "devlet": "hazar" },
+        { "ad": "Sasaniler (ve Avarlar)" }
+      ],
+      "kazanan": 0,
+      "sebep": "Sasaniler ve Avarlar Bizans'ı iki yandan sıkıştırıyordu; Herakleios kuzeydeki Hazarlardan yardım istedi.",
+      "sonuc": "40.000 kişilik Hazar ordusu Perslerin yenilmesine yardım etti; Bizans ile Hazarlar arasında uzun sürecek bir yakınlık başladı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Bizans imparatoru Herakleios 626'da Sasanilere ve Avarlara karşı Hazarlardan yardım aldı. Hazarlar o sırada Batı Göktürk Kağanlığı'nın en batı ucunu oluşturuyordu.", "kaynaklar": ["dia-hazarlar"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "uluslararasi", "metin": "Rosenthal'a göre 7. yüzyılın başında Hazar kağanı Herakleios'a 40.000 kişilik bir ordu gönderdi ve bu ordu Perslerin yenilmesine yardım etti.", "kaynaklar": ["je-chazars"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre hakanın Herakleios'un kızı Eudokia ile evlenmesi planlandı, ama hakanın ölümüyle bu evlilik gerçekleşmedi. İki devlet arasındaki yakınlık sonraki yüzyılda da sürdü: Tahttan indirilen II. Iustinianos Hazar hakanına sığınıp onun kız kardeşiyle evlendi; Bizans imparatoru IV. Leon, Hazar asıllı annesinden dolayı 'Hazar Leon' diye anıldı.", "kaynaklar": ["dia-hazarlar"] }
+        ]}
+      ]
+    },
+    {
+      "id": "selman652",
+      "ad": "Selman b. Rebia'nın seferi",
+      "yil": 652,
+      "yilYazi": "652-653",
+      "konum": [48.29, 42.06],
+      "konumKesin": false,
+      "konumNotu": "İşaret Arapların muhtemelen bu sırada aldığı Derbend'dedir; seferin Hazar topraklarındaki yolu kesin bilinmez.",
+      "taraflar": [
+        { "ad": "Hazarlar", "devlet": "hazar" },
+        { "ad": "Araplar (Selman b. Rebia)" }
+      ],
+      "kazanan": null,
+      "sebep": "İran'ı alan Araplar Kafkasya'ya ulaştı ve Hazarlarla karşı karşıya geldi; Derbend geçidi iki taraf için de kilit noktaydı.",
+      "sonuc": "Araplar Derbend'i aldı; Hazar hükümdarı oturduğu yeri daha kuzeye taşıdı ve Derbend için yaklaşık 150 yıl sürecek savaşlar başladı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Araplarla Hazarlar arasındaki çatışmalar Halife Ömer döneminde başladı.", "kaynaklar": ["dia-hazarlar"] },
+          { "grup": "uluslararasi", "metin": "Rosenthal'a göre Derbend surlarını Sasani hükümdarları yaptırmıştı; Hazarlar bu geçidin ötesinden gelecek saldırılara karşı bölgeyi tutuyordu.", "kaynaklar": ["je-chazars"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre savaşlar 652-653'te Selman b. Rebia'nın seferiyle büyüdü. Aliev'e göre Araplar Derbend'i muhtemelen bu yıllarda aldı.", "kaynaklar": ["dia-hazarlar", "dia-derbend"] },
+          { "grup": "ana", "metin": "Mesudi'ye göre Hazarların eski başkenti Derbend'e sekiz gün uzaklıktaki Semender'di; İslam'ın ilk yıllarında Selman b. Rebia Semender'i alınca hükümdar oturduğu yeri yedi gün daha uzaktaki İdil'e taşıdı.", "kaynaklar": ["mesudi-sprenger|s. 406-407, 410"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "turk", "metin": "Aliev'e göre bu seferden sonra Araplarla Hazarlar arasında Derbend için yaklaşık 150 yıl süren savaşlar yaşandı. Taşağıl'a göre Hazar başkenti önce Dağıstan'daki Belencer ve Semender'di, sonra İdil oldu.", "kaynaklar": ["dia-derbend", "dia-hazarlar"] }
+        ]}
+      ]
+    },
+    {
+      "id": "derbend714",
+      "ad": "Mesleme'nin Derbend'i alması",
+      "yil": 714,
+      "yilYazi": "714",
+      "konum": [48.29, 42.06],
+      "konumKesin": true,
+      "konumNotu": "Derbend geçidi (Hazar Denizi kıyısı).",
+      "taraflar": [
+        { "ad": "Hazarlar", "devlet": "hazar" },
+        { "ad": "Emeviler (Mesleme b. Abdülmelik)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Emeviler Kafkasya'nın kuzeyine geçmek için Derbend geçidini kesin olarak ele geçirmek istiyordu.",
+      "sonuc": "Derbend geçidi Arapların eline geçti; ama Hazarlar üç yıl sonra Azerbaycan'a girerek karşılık verdi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Emevi komutanı Mesleme b. Abdülmelik 708'de Hazarlara karşı başarılar kazanmıştı. Aliev'e göre Derbend, iki taraf arasında yaklaşık 150 yıl uğruna savaşılan bir kapı şehirdi.", "kaynaklar": ["dia-hazarlar", "dia-derbend"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Mesleme 714'te Derbend geçidini aldı.", "kaynaklar": ["dia-hazarlar"] },
+          { "grup": "uluslararasi", "metin": "Rosenthal'a göre Derbend surlarını Sasani hükümdarları Kavad ve Hüsrev yaptırmıştı.", "kaynaklar": ["je-chazars"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Derbend'in kaybından üç yıl sonra, 717'de Hazarlar Azerbaycan'ın büyük kısmına girdi.", "kaynaklar": ["dia-hazarlar"] }
+        ]}
+      ]
+    },
+    {
+      "id": "azerbaycan717",
+      "ad": "Hazarların Azerbaycan akını",
+      "yil": 717,
+      "yilYazi": "717",
+      "konum": [47.5, 39.8],
+      "konumKesin": false,
+      "konumNotu": "Kaynak yalnızca Azerbaycan'ın büyük kısmına girildiğini söyler; işaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Hazarlar", "devlet": "hazar" },
+        { "ad": "Emeviler" }
+      ],
+      "kazanan": 0,
+      "sebep": "Derbend'i kaybeden Hazarlar Arapların güneydeki topraklarına karşı saldırıya geçti.",
+      "sonuc": "Hazarlar Azerbaycan'ın büyük kısmına girdi.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Mesleme b. Abdülmelik 714'te Derbend geçidini almıştı.", "kaynaklar": ["dia-hazarlar"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre 717'de Hazarlar Kafkasya'nın güneyine inip Azerbaycan'ın büyük kısmına girdi.", "kaynaklar": ["dia-hazarlar"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre bundan sonra Emeviler Hazar topraklarına yeni seferler düzenledi; Cerrâh b. Abdullah Hazarların başkenti Belencer'i aldı.", "kaynaklar": ["dia-hazarlar"] }
+        ]}
+      ]
+    },
+    {
+      "id": "belencer730",
+      "ad": "Belencer ve Cerrâh b. Abdullah'ın geri çekilmesi",
+      "yil": 730,
+      "yilYazi": "730",
+      "konum": [47.1, 43.1],
+      "konumKesin": false,
+      "konumNotu": "Belencer'in yeri tartışmalıdır; Dağıstan'da, Sulak ırmağı çevresinde aranır. İşaret yaklaşıktır.",
+      "taraflar": [
+        { "ad": "Hazarlar", "devlet": "hazar" },
+        { "ad": "Emeviler (Cerrâh b. Abdullah)" }
+      ],
+      "kazanan": 0,
+      "sebep": "Emeviler Hazar akınlarına karşılık vermek için Hazar ülkesinin içlerine, başkent Belencer'e yürüdü.",
+      "sonuc": "Belencer'i alan Cerrâh b. Abdullah geri çekilmek zorunda kaldı; savaşlar Mervân b. Muhammed'in seferine kadar sürdü.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Hazarların 717'deki Azerbaycan akınından sonra Emeviler Hazar topraklarına yeniden sefer açtı. Taşağıl'a göre Hazarların başkenti önce Dağıstan'daki Belencer ve Semender'di.", "kaynaklar": ["dia-hazarlar"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre Cerrâh b. Abdullah Belencer'i aldı, ama 730'da geri çekilmek zorunda kaldı.", "kaynaklar": ["dia-hazarlar"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre daha sonra Mervân b. Muhammed'in seferinde Araplar İdil'e kadar ilerledi; yenilen hakan İslam'ı kabul etme şartıyla barış yaptı, ama kısa süre sonra eski dinine döndü. Abbasiler döneminde ilişkiler genelde dostane geçti ve evlilik ittifakları kuruldu.", "kaynaklar": ["dia-hazarlar"] }
+        ]}
+      ]
+    },
+    {
+      "id": "sarkel965",
+      "ad": "Svyatoslav'ın Sarkel'i yıkması",
+      "yil": 965,
+      "yilYazi": "965 dolayları",
+      "konum": [42.06, 47.7],
+      "konumKesin": false,
+      "konumNotu": "Sarkel (Ak Kale), Don kıyısında; kalıntıları bugün Tsimlyansk baraj gölünün altındadır.",
+      "taraflar": [
+        { "ad": "Hazarlar", "devlet": "hazar" },
+        { "ad": "Kiev Rus'u (Svyatoslav)" }
+      ],
+      "kazanan": 1,
+      "sebep": "Peçenek ve Uz baskısıyla zayıflayan, ticaret yolları kesilen Hazar Devleti'ne Kiev Rus'u saldırdı.",
+      "sonuc": "Sarkel yıkıldı; İdil ve Semender de Rusların eline geçti, hakan Harizmlilere sığındı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre 860'tan sonra Peçenek ve Uzların baskısı Hazar Devleti'ni zayıflattı; ticaret yollarının kesilmesi ekonomiyi çökertti. Devletin son döneminde ordunun önemli bir kısmı Harizm'den gelen ücretli askerlerden oluşuyordu.", "kaynaklar": ["dia-hazarlar"] },
+          { "grup": "ana", "metin": "Mesudi'ye göre 10. yüzyılın ortasında Hazar hükümdarının sürekli ordusu, Larisiye denen yedi bin Müslüman atlı okçudan oluşuyordu; bunlar hükümdar Müslümanlarla savaşırsa tarafsız kalacak, öteki düşmanlara karşı onun için savaşacaklardı.", "kaynaklar": ["mesudi-sprenger|s. 408-409"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "uluslararasi", "metin": "Rosenthal'a göre Hazar hükümdarı Yusuf ile Endülüslü Hasday b. Şaprut'un mektuplaşmasından yaklaşık beş yıl sonra Kiev prensi Svyatoslav Hazarlara saldırdı ve Sarkel'i yıktı. Taşağıl'a göre Sarkel (Ak Kale) 833'te Bizanslı mühendislerce Don kıyısında yapılmıştı.", "kaynaklar": ["je-chazars", "dia-hazarlar"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "uluslararasi", "metin": "Rosenthal'a göre İdil ve Semender de Rusların eline geçti.", "kaynaklar": ["je-chazars"] },
+          { "grup": "turk", "metin": "Taşağıl'a göre hakanın 965'te Harizmlilere sığınması, Rus saldırıları ve Semender'in 968'den sonra harap olması devletin sonunu hazırladı.", "kaynaklar": ["dia-hazarlar"] }
+        ]}
+      ]
+    },
+    {
+      "id": "kirim1016",
+      "ad": "Rus-Bizans ortak seferi: Kırım'daki son Hazar toprakları",
+      "yil": 1016,
+      "yilYazi": "1016",
+      "konum": [34.5, 45.0],
+      "konumKesin": false,
+      "konumNotu": "Kırım; savaşın tam yeri bilinmez.",
+      "taraflar": [
+        { "ad": "Hazarlar (Georgios Tzulas)", "devlet": "hazar" },
+        { "ad": "Bizans ve Kiev Rus'u" }
+      ],
+      "kazanan": 1,
+      "sebep": "965'ten sonra Hazarların elinde kalan son topraklar Kırım'daydı; Bizans ile Kiev Rus'u buraya ortak sefer düzenledi.",
+      "sonuc": "Son Hazar önderi Georgios Tzulas esir alındı; Kırım'daki Hazar toprakları elden çıktı.",
+      "konular": [
+        { "baslik": "Sebepleri", "gorusler": [
+          { "grup": "uluslararasi", "metin": "Rosenthal'a göre İdil ve Semender'in Ruslara geçmesinden sonra Kırım'daki Hazar toprakları 1016'ya kadar dayandı.", "kaynaklar": ["je-chazars"] }
+        ]},
+        { "baslik": "Savaşın seyri", "gorusler": [
+          { "grup": "uluslararasi", "metin": "Rosenthal'a göre 1016'da Rus ve Bizans'ın ortak seferiyle Kırım'daki Hazar önderi Georgios Tzulas esir alındı.", "kaynaklar": ["je-chazars"] }
+        ]},
+        { "baslik": "Sonucu", "gorusler": [
+          { "grup": "turk", "metin": "Taşağıl'a göre 1000'den sonra Kuman-Kıpçakların baskısı da eklendi ve Hazar Devleti 11. yüzyılın ortalarında tamamen ortadan kalktı; 1066'da 3000 kadar Hazar ailesi Selçuklulara bağlandı.", "kaynaklar": ["dia-hazarlar"] }
+        ]}
+      ]
+    }
+  ]
+}

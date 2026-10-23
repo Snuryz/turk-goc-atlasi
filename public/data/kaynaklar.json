@@ -145,8 +145,8 @@
     "grup": "turk"
   },
   "dia-selcuklular": {
-    "kunye": "Faruk Sümer; Osman Gazi Özgüdenli, \"Selçuklular\", TDV İslâm Ansiklopedisi, c. 36 (2009), s. 365 vd.",
-    "kisa": "\"Selçuklular\" (DİA)",
+    "kunye": "Faruk Sümer, \"Selçuklular\" (Büyük Selçuklular, Tarih), TDV İslâm Ansiklopedisi, c. 36 (2009), s. 365-371; aynı maddenin \"Anadolu Selçukluları\" bölümü de Faruk Sümer'indir",
+    "kisa": "Sümer, \"Selçuklular\" (DİA)",
     "url": "https://islamansiklopedisi.org.tr/selcuklular",
     "grup": "turk"
   },
@@ -436,5 +436,113 @@
     "kisa": "Güngör, \"Tanrı\" (DİA)",
     "url": "https://islamansiklopedisi.org.tr/tanri",
     "grup": "turk"
+  },
+  "suishu-84": {
+    "kunye": "Wei Zheng ve diğerleri, Sui Shu (Sui Hanedanı Tarihi), Bölüm 84: Kuzey Kavimleri, Türkler, 636; Çince özgün metin, Vikikaynak",
+    "kisa": "Sui Shu 84",
+    "url": "https://zh.wikisource.org/wiki/%E9%9A%8B%E6%9B%B8/%E5%8D%B784",
+    "grup": "ana"
+  },
+  "jiutangshu-194a": {
+    "kunye": "Liu Xu ve diğerleri, Jiu Tangshu (Eski Tang Tarihi), Bölüm 194A: Türkler (birinci kısım), 945; Çince özgün metin, Vikikaynak",
+    "kisa": "Jiu Tangshu 194A",
+    "url": "https://zh.wikisource.org/wiki/%E8%88%8A%E5%94%90%E6%9B%B8/%E5%8D%B7194%E4%B8%8A",
+    "grup": "ana"
+  },
+  "jiutangshu-194b": {
+    "kunye": "Liu Xu ve diğerleri, Jiu Tangshu (Eski Tang Tarihi), Bölüm 194B: Batı Türkleri, 945; Çince özgün metin, Vikikaynak",
+    "kisa": "Jiu Tangshu 194B",
+    "url": "https://zh.wikisource.org/wiki/%E8%88%8A%E5%94%90%E6%9B%B8/%E5%8D%B7194%E4%B8%8B",
+    "grup": "ana"
+  },
+  "menandros-yule": {
+    "kunye": "Menandros Protektor, Tarih (günümüze parçalar hâlinde ulaştı), 6. yüzyılın sonu; İngilizce çevirisi: H. Yule, Cathay and the Way Thither, c. 1, yeni baskı H. Cordier, Londra: Hakluyt Society, 1915, s. 205-212 (telif süresi dolmuş baskı)",
+    "kisa": "Menandros (Yule çevirisi)",
+    "url": "https://archive.org/details/cathaywaythither01yule",
+    "grup": "ana"
+  },
+  "orhun-thomsen": {
+    "kunye": "Kül Tigin (732) ve Bilge Kağan (735) yazıtları; V. Thomsen'in son çevirisinden E. Denison Ross, \"The Orkhon Inscriptions\", Bulletin of the School of Oriental Studies, 5/4 (1930), s. 861-876 (kamu malı)",
+    "kisa": "Orhun Yazıtları (Thomsen-Ross)",
+    "url": "https://archive.org/details/orkhoninscriptions",
+    "grup": "ana"
+  },
+  "dia-orhon": {
+    "kunye": "Mustafa S. Kaçalin, \"Orhon Yazıtları\", TDV İslâm Ansiklopedisi, c. 33 (2007), s. 390-393",
+    "kisa": "Kaçalin, \"Orhon Yazıtları\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/orhon-yazitlari",
+    "grup": "turk"
+  },
+  "prokopios-dewing": {
+    "kunye": "Prokopios, Savaşlar Tarihi (Historiai), I. kitap, 3-7. bölümler, 6. yüzyıl; İngilizce çevirisi: H. B. Dewing, History of the Wars, Books I and II: The Persian War, Loeb, 1914 (telif süresi dolmuş baskı)",
+    "kisa": "Prokopios, Savaşlar Tarihi",
+    "url": "https://www.gutenberg.org/ebooks/16764",
+    "grup": "ana"
+  },
+  "weishu-102": {
+    "kunye": "Wei Shou, Wei Shu (Kuzey Wei Hanedanı Tarihi), Bölüm 102: Batı Ülkeleri, Ye-ta (Eftalitler), 554; Çince özgün metin, Vikikaynak",
+    "kisa": "Wei Shu 102",
+    "url": "https://zh.wikisource.org/wiki/%E9%AD%8F%E6%9B%B8/%E5%8D%B7102",
+    "grup": "ana"
+  },
+  "je-chazars": {
+    "kunye": "Herman Rosenthal, \"Chazars\", The Jewish Encyclopedia, c. 4, New York: Funk & Wagnalls, 1903, s. 1-7 (telif süresi dolmuş)",
+    "kisa": "Rosenthal, \"Chazars\" (Jewish Encyclopedia)",
+    "url": "https://www.jewishencyclopedia.com/articles/4279-chazars",
+    "grup": "uluslararasi"
+  },
+  "dia-hazarlar": {
+    "kunye": "Ahmet Taşağıl, \"Hazarlar\", TDV İslâm Ansiklopedisi, c. 17 (1998), s. 116-120",
+    "kisa": "Taşağıl, \"Hazarlar\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/hazarlar",
+    "grup": "turk"
+  },
+  "dia-karahanlilar": {
+    "kunye": "Abdülkerim Özaydın, \"Karahanlılar\", TDV İslâm Ansiklopedisi, c. 24 (2001), s. 404-412",
+    "kisa": "Özaydın, \"Karahanlılar\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/karahanlilar",
+    "grup": "turk"
+  },
+  "dia-gazneliler": {
+    "kunye": "Erdoğan Merçil, \"Gazneliler\", TDV İslâm Ansiklopedisi, c. 13 (1996), s. 480-484",
+    "kisa": "Merçil, \"Gazneliler\" (DİA)",
+    "url": "https://islamansiklopedisi.org.tr/gazneliler",
+    "grup": "turk"
+  },
+  "choushu-50": {
+    "kunye": "Linghu Defen ve diğerleri, Chou Shu (Kuzey Chou Hanedanı Tarihi), Bölüm 50: Yabancı Ülkeler, Türkler, 636; Çince özgün metin, Vikikaynak",
+    "kisa": "Chou Shu 50",
+    "url": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%9B%B8/%E5%8D%B750",
+    "grup": "ana"
+  },
+  "liangshu-54": {
+    "kunye": "Yao Silian, Liang Shu (Liang Hanedanı Tarihi), Bölüm 54: Yabancı Ülkeler, Hua Ülkesi, 636; Çince özgün metin, Vikikaynak",
+    "kisa": "Liang Shu 54",
+    "url": "https://zh.wikisource.org/wiki/%E6%A2%81%E6%9B%B8/%E5%8D%B754",
+    "grup": "ana"
+  },
+  "luoyang-5": {
+    "kunye": "Yang Xuanzhi, Lo-yang Ch'ieh-lan Chi (Lo-yang Manastırları Kaydı), 5. kitap: Sung Yün ve Hui-sheng'in batıya yolculuğu, 547; Çince özgün metin, Vikikaynak",
+    "kisa": "Lo-yang Ch'ieh-lan Chi 5",
+    "url": "https://zh.wikisource.org/wiki/%E6%B4%9B%E9%99%BD%E4%BC%BD%E8%97%8D%E8%A8%98/%E5%8D%B7%E4%BA%94",
+    "grup": "ana"
+  },
+  "hsuantsang-beal": {
+    "kunye": "Hui-li, Hsüan-tsang'ın Hayatı, 7. yüzyıl; İngilizce çevirisi: S. Beal, The Life of Hiuen-Tsiang, Londra: Kegan Paul, 1914 (telif süresi dolmuş baskı)",
+    "kisa": "Hsüan-tsang'ın Hayatı (Beal çevirisi)",
+    "url": "https://archive.org/details/lifeofhiuentsian030569mbp",
+    "grup": "ana"
+  },
+  "mesudi-sprenger": {
+    "kunye": "Mesudi, Murûcü'z-zeheb (Altın Çayırları), 943; İngilizce çevirisi: A. Sprenger, El-Mas'údí's Historical Encyclopaedia, entitled \"Meadows of Gold and Mines of Gems\", c. 1, Londra, 1841, s. 406-412 (telif süresi dolmuş baskı)",
+    "kisa": "Mesudi (Sprenger çevirisi)",
+    "url": "https://archive.org/details/elmasdshistoric00unkngoog",
+    "grup": "ana"
+  },
+  "tonyukuk-thomsen": {
+    "kunye": "Tonyukuk Yazıtı (720 dolayları); V. Thomsen'in son çevirisinden E. Denison Ross, \"The Tonyukuk Inscription\", Bulletin of the School of Oriental Studies, 6/1 (1930), s. 37-43 (kamu malı)",
+    "kisa": "Tonyukuk Yazıtı (Thomsen-Ross)",
+    "url": "https://archive.org/details/Ross1930BSOASOrkhon",
+    "grup": "ana"
   }
 }
